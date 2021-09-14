@@ -98,9 +98,9 @@ supp_fig3_data %>% write_csv("dataset_wd/supp_fig3_data.csv")
 # Step 1: data manipulation of tidyr output table -----
 
 supp_fig3_data  <- supp_fig3_data %>%
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)

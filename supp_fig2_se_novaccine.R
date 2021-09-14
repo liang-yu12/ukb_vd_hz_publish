@@ -65,9 +65,9 @@ sup_fig2a_data %>% write_csv("dataset_wd/sup_fig2a_data.csv")
 
 # Sup Fig2a: data management for plotting: ----
 sup_fig2a_data <- sup_fig2a_data %>%    
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)
@@ -229,9 +229,9 @@ sup_fig2b_data %>% write_csv("dataset_wd/sup_fig2b_data.csv")
 # Sup Fig2b: data management for plotting: ----
 
 sup_fig2b_data %<>% 
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)

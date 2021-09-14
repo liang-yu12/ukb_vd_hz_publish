@@ -56,9 +56,9 @@ primary_split_data <- primary_split %>%  tidy_output() %>% mutate(period=ifelse(
    add_row(term = "vitd_s2_sufficiency", estimate = 1, conf.low=1, conf.high=1, period = 1) %>% 
    add_row(term = "vitd_s2_sufficiency", estimate = 1, conf.low=1, conf.high=1, period = 2) %>% 
    mutate(model="Crude") %>% 
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)
@@ -173,9 +173,9 @@ partial_split_data <- partial_split %>%  tidy_output() %>% mutate(period=ifelse(
    add_row(term = "vitd_s2_sufficiency", estimate = 1, conf.low=1, conf.high=1, period = 1) %>% 
    add_row(term = "vitd_s2_sufficiency", estimate = 1, conf.low=1, conf.high=1, period = 2) %>% 
    mutate(model="Partially adjusted") %>% 
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)
@@ -294,9 +294,9 @@ full_split_data <- full_split %>%  tidy_output() %>% mutate(period=ifelse(
    add_row(term = "vitd_s2_sufficiency", estimate = 1, conf.low=1, conf.high=1, period = 1) %>% 
    add_row(term = "vitd_s2_sufficiency", estimate = 1, conf.low=1, conf.high=1, period = 2) %>% 
    mutate(model="Fully adjusted") %>% 
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)

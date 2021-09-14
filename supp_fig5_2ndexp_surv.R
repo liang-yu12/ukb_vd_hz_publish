@@ -85,9 +85,9 @@ sup_cox_data <- bind_rows((supp_crude_cox %>% tidy_output() %>%
                                  estimate = 1,
                                  conf.low=1,
                                  conf.high=1) %>% mutate(model="Fully adjusted"))) %>% 
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)
@@ -245,9 +245,9 @@ drug_cox_data <- bind_rows((vddrug_crude_cox %>% tidy_output() %>%
                                   estimate = 1,
                                   conf.low=1,
                                   conf.high=1) %>% mutate(model="Fully adjusted"))) %>% 
-   mutate(conf.high2 = format(conf.high, nmall=2)) %>%             # 2 digits strings
-   mutate(conf.low2 = format(conf.low, nmall=2)) %>%               # 2 digits strings
-   mutate(conf.rr = format(estimate, nmall=2)) %>%                 # 2 digits strings
+   mutate(conf.high2 = format(conf.high, nsmall=2)) %>%             # 2 digits strings
+   mutate(conf.low2 = format(conf.low, nsmall=2)) %>%               # 2 digits strings
+   mutate(conf.rr = format(estimate, nsmall=2)) %>%                 # 2 digits strings
    mutate(ci = paste(conf.low2, conf.high2, sep = ",")) %>%        # lci, hci
    mutate(ci_l = paste0("(", ci)) %>%                              # (lci, hci
    mutate(ci_r = paste0(ci_l, ")")) %>%                            # (lci, hci)
