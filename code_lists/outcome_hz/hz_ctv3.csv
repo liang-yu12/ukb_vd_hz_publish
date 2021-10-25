@@ -1,0 +1,64 @@
+code,description,marker
+X73jq,Herpes zoster,zoster
+X73jq,Herpes zoster,zoster
+XE2x9,Herpes zoster infection,zoster
+XE2x9,Herpes zoster infection,zoster
+XE2x9,Shingles,zoster
+XE2x9,Shingles,zoster
+F0112,Herpes zoster meningitis,zoster
+F0112,Meningitis due to herpes zoster virus,zoster
+XE0RA,Herpes zoster with other central nervous system complication,PHN
+XE0RA,Herpes zoster with other central nervous system complication,zoster
+X75sv,Post-herpetic neuralgia,PHN
+X75sv,Post-herpetic neuralgia,zoster
+XE0RA,Herpes zoster with other central nervous system complication,zoster
+F5016,Geniculate herpes zoster,zoster
+F5016,Geniculate herpes zoster,zoster
+F5016,Ramsay Hunt syndrome,zoster
+F5016,Ramsay Hunt syndrome,zoster
+F5016,Geniculate herpes zoster,zoster
+F5016,Geniculate herpes zoster,zoster
+F300.,Post-herpetic trigeminal neuralgia,PHN
+A5313,Post-herpetic polyneuropathy,PHN
+X0016,Zoster encephalitis,zoster
+X75sv,Post-zoster neuralgia,PHN
+X75sv,Post-zoster neuralgia,PHN
+X75sv,Post-herpetic neuralgia,PHN
+X75sv,Post-herpetic neuralgia,PHN
+X75sv,Post-herpetic neuralgia,PHN
+X75sv,Post-herpetic neuralgia,PHN
+A531z,Herpes zoster with other central nervous system complication NOS,zoster
+A532.,Herpes zoster with ophthalmic complication,zoster
+A5320,Herpes zoster with dermatitis of eyelid,zoster
+A5321,Herpes zoster with keratoconjunctivitis,zoster
+A5322,Herpes zoster iridocyclitis,zoster
+A5323,Ophthalmic herpes zoster infection,zoster
+A5323,Herpes zoster ophthalmicus,zoster
+A532z,Herpes zoster with other ophthalmic complication,zoster
+A53x.,Herpes zoster with other specified complication,zoster
+F5016,Herpes zoster otitis externa,zoster
+A53x1,Disseminated zoster,zoster
+A53xz,Herpes zoster with other specified complication NOS,zoster
+A53y.,Herpes zoster with unspecified complication,zoster
+A53z.,Herpes zoster NOS,zoster
+AyuA5,[X]Zoster without complications,zoster
+F0112,Meningitis due to herpes zoster virus,zoster
+F0112,Meningitis due to herpes zoster virus,zoster
+F0112,Herpes zoster meningitis,zoster
+F0112,Herpes zoster meningitis,zoster
+X0016,Herpes zoster encephalitis,zoster
+X0016,Herpes zoster encephalitis,zoster
+X0016,Zoster encephalitis,zoster
+X0016,Zoster encephalitis,zoster
+X0016,Herpes zoster encephalitis,zoster
+X0016,Herpes zoster encephalitis,zoster
+F300.,Post-herpetic trigeminal neuralgia,PHN
+F3744,Polyneuropathy in herpes zoster,zoster
+F5016,Herpes zoster oticus,zoster
+F5016,Herpes zoster oticus,zoster
+F5016,Geniculate herpes zoster,zoster
+F5016,Geniculate herpes zoster,zoster
+F5016,Herpes zoster otitis externa,zoster
+F5016,Herpes zoster otitis externa,zoster
+F5016,Geniculate herpes zoster,zoster
+F5016,Geniculate herpes zoster,zoster

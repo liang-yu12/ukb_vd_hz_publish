@@ -1,0 +1,37 @@
+code,description,marker
+A53..,herpes zoster,zoster
+A53..,shingles,zoster
+A531.,post-herpetic neuralgia,PHN
+A5311,ramsay - hunt syndrome,zoster
+F300.,post-herpetic trigeminal neuralgia,PHN
+A5323,ophthalmic herpes zoster infection,zoster
+A5315,postherpetic neuralgia,PHN
+A5312,postherpetic trigeminal neuralgia,PHN
+A532.,herpes zoster with ophthalmic complication,zoster
+A53x0,herpes zoster otitis externa,zoster
+A5315,postzoster neuralgia,PHN
+A5324,herpes zoster ophthalmicus,zoster
+A53y.,herpes zoster with unspecified complication,zoster
+A53z.,herpes zoster nos,zoster
+A5320,herpes zoster with dermatitis of eyelid,zoster
+A5311,geniculate herpes zoster,zoster
+A5321,herpes zoster with keratoconjunctivitis,zoster
+F5016,herpes zoster - otitis externa,zoster
+A5313,postherpetic polyneuropathy,PHN
+A532z,herpes zoster with other ophthalmic complication,zoster
+A53xz,herpes zoster with other specified complication nos,zoster
+F3744,polyneuropathy in herpes zoster,zoster
+A53x.,herpes zoster with other specified complication,zoster
+A530.,herpes zoster with meningitis,zoster
+A5314,zoster encephalitis,zoster
+A5310,herpes zoster with other cns complications,zoster
+F0309,encephalitis due to herpes zoster,zoster
+A531.,herpes zoster with other central nervous system complication,zoster
+A53x1,disseminated zoster,zoster
+A5322,herpes zoster iridocyclitis,zoster
+F0112,herpes zoster meningitis,zoster
+F5016,infective otitis externa due to herpes zoster,zoster
+A531z,herpes zoster with other cns complication nos,zoster
+F0309,herpes zoster encephalitis,zoster
+AyuA5,[x]zoster without complications,zoster
+F0112,meningitis due to herpes zoster virus,zoster
