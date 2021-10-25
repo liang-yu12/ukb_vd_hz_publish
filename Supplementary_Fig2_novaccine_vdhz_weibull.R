@@ -1,5 +1,5 @@
 # sensitivity analysis: exclude records after 2013 (vaccination programe)
-# Supplementary figure 1 vitamin D status
+# Supplementary figure 2 vitamin D status and HZ
 
 # data: 
 source("./master_script.R")
