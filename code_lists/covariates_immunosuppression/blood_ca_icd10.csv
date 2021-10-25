@@ -1,0 +1,130 @@
+code,description
+B211,HIV disease resulting in Burkitt lymphoma
+B212,HIV disease resulting in other types of non-Hodgkin lymphoma
+B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue"
+C81,Hodgkin lymphoma
+C810,Nodular lymphocyte predominant Hodgkin lymphoma
+C811,Nodular sclerosis (classical) Hodgkin lymphoma
+C812,Mixed cellularity (classical) Hodgkin lymphoma
+C813,Lymphocyte depleted (classical) Hodgkin lymphoma
+C814,Lymphocyte-rich (classical) Hodgkin lymphoma
+C817,Other (classical) Hodgkin lymphoma
+C819,"Hodgkin lymphoma, unspecified"
+C82,Follicular lymphoma
+C820,Follicular lymphoma grade I
+C821,Follicular lymphoma grade II
+C822,"Follicular lymphoma grade III, unspecified"
+C823,Follicular lymphoma grade IIIa
+C824,Follicular lymphoma grade IIIb
+C825,Diffuse follicle centre lymphoma
+C826,Cutaneous follicle centre lymphoma
+C827,Other types of follicular lymphoma
+C829,"Follicular lymphoma, unspecified"
+C83,Non-follicular lymphoma
+C830,Small cell B-cell lymphoma
+C831,Mantle cell lymphoma
+C833,Diffuse large B-cell lymphoma
+C835,Lymphoblastic (diffuse) lymphoma
+C837,Burkitt lymphoma
+C838,Other non-follicular lymphoma
+C839,"Non-follicular (diffuse) lymphoma, unspecified"
+C84,Mature T/NK-cell lymphomas
+C840,Mycosis fungoides
+C841,S¢u?zary disease
+C844,"Peripheral T-cell lymphoma, not elsewhere classified"
+C845,Other mature T/NK-cell lymphomas
+C846,"Anaplastic large cell lymphoma, ALK-positive"
+C847,"Anaplastic large cell lymphoma, ALK-negative"
+C848,"Cutaneous T-cell lymphoma, unspecified"
+C849,"Mature T/NK-cell lymphoma, unspecified"
+C85,Other and unspecified types of non-Hodgkin lymphoma
+C851,"B-cell lymphoma, unspecified"
+C852,Mediastinal (thymic) large B-cell lymphoma
+C857,Other specified types of non-Hodgkin lymphoma
+C859,"Non-Hodgkin lymphoma, unspecified"
+C86,Other specified types of T/NK-cell lymphoma
+C860,"Extranodal NK/T-cell lymphoma, nasal type"
+C861,Hepatosplenic T-cell lymphoma
+C862,Enteropathy-type (intestinal) T-cell lymphoma
+C863,Subcutaneous panniculitis-like T-cell lymphoma
+C864,Blastic NK-cell lymphoma
+C865,Angioimmunoblastic T-cell lymphoma
+C866,Primary cutaneous CD30-positive T-cell proliferations
+C88,Malignant immunoproliferative diseases
+C880,Waldenstr¢u?m macroglobulinaemia
+C882,Other heavy chain disease
+C883,Immunoproliferative small intestinal disease
+C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+C887,Other malignant immunoproliferative diseases
+C889,"Malignant immunoproliferative disease, unspecified"
+C90,Multiple myeloma and malignant plasma cell neoplasms
+C900,Multiple myeloma
+C901,Plasma cell leukaemia
+C902,Extramedullary plasmacytoma
+C903,Solitary plasmacytoma
+C91,Lymphoid leukaemia
+C910,Acute lymphoblastic leukaemia [ALL]
+C911,Chronic lymphocytic leukaemia of B-cell type
+C913,Prolymphocytic leukaemia of B-cell type
+C914,Hairy-cell leukaemia
+C915,Adult T-cell lymphoma/leukaemia [HTLV-1-associated]
+C916,Prolymphocytic leukaemia of T-cell type
+C917,Other lymphoid leukaemia
+C918,Mature B-cell leukaemia Burkitt-type
+C919,"Lymphoid leukaemia, unspecified"
+C92,Myeloid leukaemia
+C920,Acute myeloblastic leukaemia [AML]
+C921,"Chronic myeloid leukaemia [CML], BCR/ABL-positive"
+C922,"Atypical chronic myeloid leukaemia, BCR/ABL-negative"
+C923,Myeloid sarcoma
+C924,Acute promyelocytic leukaemia [PML]
+C925,Acute myelomonocytic leukaemia
+C926,Acute myeloid leukaemia with 11q23-abnormality
+C927,Other myeloid leukaemia
+C928,Acute myeloid leukaemia with multilineage dysplasia
+C929,"Myeloid leukaemia, unspecified"
+C93,Monocytic leukaemia
+C930,Acute monoblastic/monocytic leukaemia
+C931,Chronic myelomonocytic leukaemia
+C933,Juvenile myelomonocytic leukaemia
+C937,Other monocytic leukaemia
+C939,"Monocytic leukaemia, unspecified"
+C94,Other leukaemias of specified cell type
+C940,Acute erythroid leukaemia
+C942,Acute megakaryoblastic leukaemia
+C943,Mast cell leukaemia
+C944,Acute panmyelosis with myelofibrosis
+C946,"Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+C947,Other specified leukaemias
+C95,Leukaemia of unspecified cell type
+C950,Acute leukaemia of unspecified cell type
+C951,Chronic leukaemia of unspecified cell type
+C957,Other leukaemia of unspecified cell type
+C959,"Leukaemia, unspecified"
+C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue"
+C960,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]
+C962,Malignant mast cell tumour
+C964,Sarcoma of dendritic cells (accessory cells)
+C965,Multifocal and unisystemic Langerhans-cell histiocytosis
+C966,Unifocal Langerhans-cell histiocytosis
+C967,"Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue"
+C968,Histiocytic sarcoma
+C969,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified"
+D466,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality
+D467,Other myelodysplastic syndromes
+D469,"Myelodysplastic syndrome, unspecified"
+D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue"
+D470,Histiocytic and mast cell tumours of uncertain and unknown behaviour
+D471,Chronic myeloproliferative disease
+D474,Osteomyelofibrosis
+D475,Chronic eosinophilic leukaemia [hypereosinophilic syndrome]
+D477,"Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue"
+D479,"Neoplasm of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue, unspecified"
+D595,Paroxysmal nocturnal haemoglobinuria [Marchiafava-Micheli]
+D70,Agranulocytosis
+D71,Functional disorders of polymorphonuclear neutrophils
+D760,"Langerhans' cell histiocytosis, not elsewhere classified"
+D761,Haemophagocytic lymphohistiocytosis
+D898,"Other specified disorders involving the immune mechanism, not elsewhere classified"
+D899,"Disorder involving the immune mechanism, unspecified"
+P615,Transient neonatal neutropenia

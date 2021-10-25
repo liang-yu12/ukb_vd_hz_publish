@@ -1,0 +1,70 @@
+code,description
+14G1.,h/o: rheumatoid arthritis
+66H..,rheumatoid arthrit. monitoring
+66HB0,rheumatoid arthritis annual review
+7P203,delivery of rehabilitation for rheumatoid arthritis
+9mM..,rheumatoid arthritis monitoring invitation
+9mM0.,rheumatoid arthritis monitoring invitation first letter
+9mM1.,rheumatoid arthritis monitoring invitation second letter
+9mM2.,rheumatoid arthritis monitoring invitation third letter
+9mM3.,rheumatoid arthritis monitoring verbal invitation
+9mM4.,rheumatoid arthritis monitoring telephone invitation
+F3712,polyneuropathy in rheumatoid arthritis
+F3964,myopathy due to rheumatoid arthritis
+N04..,rheumatoid arthritis and other inflammatory polyarthropathy
+N040.,rheumatoid arthritis
+N0400,rheumatoid arthritis of cervical spine
+N0401,other rheumatoid arthritis of spine
+N0402,rheumatoid arthritis of shoulder
+N0403,rheumatoid arthritis of sternoclavicular joint
+N0404,rheumatoid arthritis of acromioclavicular joint
+N0405,rheumatoid arthritis of elbow
+N0406,rheumatoid arthritis of distal radio-ulnar joint
+N0407,rheumatoid arthritis of wrist
+N0408,rheumatoid arthritis of mcp joint
+N0409,rheumatoid arthritis of pip joint of finger
+N040A,rheumatoid arthritis of dip joint of finger
+N040B,rheumatoid arthritis of hip
+N040C,rheumatoid arthritis of sacro-iliac joint
+N040D,rheumatoid arthritis of knee
+N040E,rheumatoid arthritis of tibio-fibular joint
+N040F,rheumatoid arthritis of ankle
+N040G,rheumatoid arthritis of subtalar joint
+N040H,rheumatoid arthritis of talonavicular joint
+N040J,rheumatoid arthritis of other tarsal joint
+N040K,rheumatoid arthritis of 1st mtp joint
+N040L,rheumatoid arthritis of lesser mtp joint
+N040M,rheumatoid arthritis of ip joint of toe
+N040P,seronegative rheumatoid arthritis
+N040S,rheumatoid arthritis - multiple joint
+N040T,flare of rheumatoid arthritis
+N042.,other rheumatoid arthropathy + visceral/systemic involvement
+N042z,rheumatoid arthropathy + visceral/systemic involvement nos
+N043.,juvenile rheumatoid arthritis - still's disease
+N0430,juvenile rheumatoid arthropathy unspecified
+N0431,acute polyarticular juvenile rheumatoid arthritis
+N0432,pauciarticular juvenile rheumatoid arthritis
+N0433,monarticular juvenile rheumatoid arthritis
+N043z,juvenile rheumatoid arthritis nos
+N0455,juvenile rheumatoid arthritis
+N047.,seropositive errosive rheumatoid arthritis
+N04X.,"seropositive rheumatoid arthritis, unspecified"
+N04y0,fibrosing alveolitis associated with rheumatoid arthritis
+N04y0,fibrosing alveolitis associated with rheumatoid arthritis
+N04y0,fibrosing alveolitis associated with rheumatoid arthritis
+Nyu10,[x]rheumatoid arthritis+involvement/other organs or systems
+Nyu11,[x]other seropositive rheumatoid arthritis
+Nyu12,[x]other specified rheumatoid arthritis
+Nyu1G,"[x]seropositive rheumatoid arthritis, unspecified"
+N0422,rheumatoid nodule
+H570.,rheumatoid lung
+N040Q,rheumatoid bursitis
+N041.,felty's syndrome
+N005.,adult still's disease
+N040N,rheumatoid vasculitis
+N04y2,adult-onset still's disease
+2G27.,o/e-hands-rheumatoid spindling
+G5yA.,rheumatoid carditis
+N0421,rheumatoid lung disease
+G5y8.,rheumatoid myocarditis
+N040R,rheumatoid nodule

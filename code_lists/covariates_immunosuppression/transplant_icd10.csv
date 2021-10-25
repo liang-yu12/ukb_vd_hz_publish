@@ -1,0 +1,13 @@
+code,description
+N165,n16.5 renal tubulo-interstitial disorders in transplant rejection
+T861,Kidney transplant failure and rejection
+T862,Heart transplant failure and rejection
+T863,Heart-lung transplant failure and rejection
+T864,Liver transplant failure and rejection
+T868,Failure and rejection of other transplanted organs and tissues
+T869,Failure and rejection of unspecified transplanted organ and tissue
+Z940,Kidney transplant status
+Z941,Heart transplant status
+Z942,Lung transplant status
+Z943,Heart and lungs transplant status
+Z944,Liver transplant status

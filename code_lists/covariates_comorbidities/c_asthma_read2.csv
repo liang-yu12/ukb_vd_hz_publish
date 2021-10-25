@@ -1,0 +1,127 @@
+code,description
+H33..,asthma
+H333.,acute exacerbation of asthma
+H33z1,asthma attack
+H33z0,severe asthma attack
+H330.,allergic asthma
+663V1,mild asthma
+663V3,severe asthma
+663V0,occasional asthma
+H331.,late onset asthma
+H33z.,asthma unspecified
+H33zz,exercise induced asthma
+H3300,hay fever with asthma
+H3120,chronic asthmatic bronchitis
+173A.,exercise induced asthma
+H3301,extrinsic asthma with asthma attack
+8H2P.,"emergency admission, asthma"
+663P.,asthma limiting activities
+663U.,asthma management plan given
+663N.,asthma disturbing sleep
+663y.,number of asthma exacerbations in past year
+66Y5.,change in asthma management plan
+66Y9.,step up change in asthma management plan
+66YJ.,asthma annual review
+8B3j.,asthma medication review
+663j.,asthma - currently active
+1O2..,asthma confirmed
+H33z2,late-onset asthma
+663V.,asthma severity
+663V2,moderate asthma
+663N2,asthma disturbs sleep frequently
+66YK.,asthma follow-up
+8795.,asthma control step 2
+8794.,asthma control step 1
+66YA.,step down change in asthma management plan
+8796.,asthma control step 3
+H3311,intrinsic asthma with asthma attack
+663p.,asthma treatment compliance unsatisfactory
+663n.,asthma treatment compliance satisfactory
+8798.,asthma control step 5
+8797.,asthma control step 4
+173c.,occupational asthma
+663d.,emergency asthma admission since last appointment
+8791.,further asthma - drug prevent.
+663u.,asthma causes daytime symptoms 1 to 2 times per week
+663e.,asthma restricts exercise
+8CR0.,asthma clinical management plan
+663s.,asthma never causes daytime symptoms
+663v.,asthma causes daytime symptoms most days
+663f.,asthma never restricts exercise
+663e1,asthma severely restricts exercise
+663e0,asthma sometimes restricts exercise
+H3310,intrinsic asthma without status asthmaticus
+663N0,asthma causing night waking
+66YP.,asthma night-time symptoms
+663t.,asthma causes daytime symptoms 1 to 2 times per month
+663O0,asthma never disturbs sleep
+663w.,asthma limits walking up hills or stairs
+663x.,asthma limits walking on the flat
+663N1,asthma disturbs sleep weekly
+H35y7,wood asthma
+663r.,asthma causes night symptoms 1 to 2 times per month
+H334.,brittle asthma
+1780.,aspirin induced asthma
+663q.,asthma daytime symptoms
+H331z,intrinsic asthma nos
+H330z,extrinsic asthma nos
+663m.,asthma accident and emergency attendance since last visit
+H47y0,detergent asthma
+173d.,work aggravated asthma
+H35y6,sequoiosis (red-cedar asthma)
+388t.,royal college of physicians asthma assessment
+38DL.,asthma control test
+8CMA0,patient has a written asthma personal action plan
+9NNX.,under care of asthma specialist nurse
+66Yp.,asthma review using roy colleg of physicians three questions
+1787.,asthma trigger - seasonal
+1781.,asthma trigger - pollen
+66Yr.,asthma causes symptoms most nights
+66Yq.,asthma causes night time symptoms 1 to 2 times per week
+1789.,asthma trigger - respiratory infection
+663P0,asthma limits activities 1 to 2 times per month
+178B.,asthma trigger - exercise
+663P1,asthma limits activities 1 to 2 times per week
+1783.,asthma trigger - warm air
+1786.,asthma trigger - animals
+66Ys.,asthma never causes night symptoms
+388t0,royal college physician asthma assessment 3 question score
+1788.,asthma trigger - cold air
+178A.,asthma trigger - airborne dust
+1785.,asthma trigger - damp
+1784.,asthma trigger - emotion
+1782.,asthma trigger - tobacco smoke
+663P2,asthma limits activities most days
+661N1,asthma self-management plan review
+661M1,asthma self-management plan agreed
+H335.,chronic asthma with fixed airflow obstruction
+663..,asthma monitoring
+14B4.,h/o: asthma
+173B.,nocturnal cough / wheeze
+663W.,asthma prophylactic medication used
+9OJA.,asthma monitored
+178..,asthma trigger
+663O.,asthma not disturbing sleep
+663Q.,asthma not limiting activities
+66YE.,asthma monitoring due
+66YQ.,asthma monitoring by nurse
+H332.,mixed asthma
+66YR.,asthma monitoring by doctor
+U60F6,[x] adverse reaction to theophylline - asthma
+66YC.,absent from work or school due to asthma
+9OJ1.,attends asthma monitoring
+TJF73,adverse reaction to theophylline (asthma)
+38DT.,asthma control questionnaire
+679J1,health education - structured asthma discussion
+38DV.,mini asthma quality of life questionnaire
+679J2,health education - structured patient focused asthma discuss
+66Yu.,number days absent from school due to asthma in past 6 month
+38QM.,childhood asthma control test
+9OJB.,asthma monitorng invit sms (short message servce) txt messge
+9OJC.,asthma monitoring invitation email
+H3B..,asthma-chronic obstructive pulmonary disease overlap syndrom
+66Yz5,telehealth asthma monitoring
+9OJB0,asthma monitoring sms text message 1st invitation
+38B8.,severe asthma exacerbation risk assessment
+14Ok0,at risk of severe asthma exacerbation
+9OJB1,asthma monitoring sms text message 2nd invitation

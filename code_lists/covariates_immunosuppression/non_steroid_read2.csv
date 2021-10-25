@@ -1,0 +1,1231 @@
+code,description
+h1...,ALKYLATING DRUGS
+h11..,BUSULFAN
+h111.,*MYLERAN 500micrograms tablets
+h112.,MYLERAN 2mg tablets
+h11y.,BUSULPHAN 500micrograms tablets
+h11z.,BUSULFAN 2mg tablets
+h12..,CARMUSTINE
+h121.,BICNU 100mg injection (pdr for recon)
+h12z.,CARMUSTINE 100mg injection (pdr for recon)
+h13..,CHLORAMBUCIL
+h131.,LEUKERAN 2mg tablets
+h132.,*LEUKERAN 5mg tablets
+h13y.,CHLORAMBUCIL 2mg tablets
+h13z.,*CHLORAMBUCIL 5mg tablets
+h14..,CYCLOPHOSPHAMIDE
+h141.,CYCLOPHOSPHAMIDE 50mg tablets
+h142.,CYCLOPHOSPHAMIDE 100mg injection (pdr for recon)
+h143.,CYCLOPHOSPHAMIDE 200mg injection (pdr for recon)
+h144.,CYCLOPHOSPHAMIDE 500mg injection (pdr for recon)
+h145.,CYCLOPHOSPHAMIDE 1g injection (pdr for recon)
+h147.,*ENDOXANA 50mg tablets
+h148.,ENDOXANA 100mg injection (pdr for recon)
+h149.,ENDOXANA 200mg injection (pdr for recon)
+h14a.,ENDOXANA 500mg injection (pdr for recon)
+h14b.,ENDOXANA 1g injection (pdr for recon)
+h15..,ESTRAMUSTINE PHOSPHATE
+h151.,ESTRACYT 140mg capsules
+h15z.,ESTRAMUSTINE PHOSPHATE 140mg capsules
+h17..,IFOSFAMIDE
+h171.,MITOXANA 500mg injection (pdr for recon)
+h172.,MITOXANA 1g injection (pdr for recon)
+h173.,MITOXANA 2g injection (pdr for recon)
+h17x.,IFOSFAMIDE 500mg injection (pdr for recon)
+h17y.,IFOSFAMIDE 1g injection (pdr for recon)
+h17z.,IFOSFAMIDE 2g injection (pdr for recon)
+h18..,LOMUSTINE
+h181.,*CCNU 10mg capsules
+h182.,CCNU 40mg capsules
+h18y.,*LOMUSTINE 10mg capsules
+h18z.,LOMUSTINE 40mg capsules
+h19..,MELPHALAN
+h191.,ALKERAN 2mg tablets
+h192.,*ALKERAN 5mg tablets
+h193.,ALKERAN UNIT PACK 100mg injection (pdr for recon)
+h19x.,MELPHALAN 2mg tablets
+h19y.,*MELPHALAN 5mg tablets
+h19z.,MELPHALAN 100mg injection (pdr for recon)
+h1a..,MITOBRONITOL
+h1a1.,MYELOBROMOL 125mg tablets
+h1az.,MITOBRONITOL 125mg tablets
+h1b..,*MUSTINE HYDROCHLORIDE
+h1b1.,MUSTINE HYDROCHLORIDE 10mg injection (pdr for recon)
+h1c..,THIOTEPA
+h1c1.,THIOTEPA 15mg injection (pdr for recon)
+h1d..,TREOSULFAN
+h1d1.,TREOSULFAN 250mg capsules
+h1d2.,TREOSULFAN 5g/100mL injection (pdr for recon)
+h2...,CYTOTOXIC ANTIBIOTICS
+h21..,ACTINOMYCIN D
+h211.,COSMEGEN LYOVAC 500micrograms injection (pdr for recon)
+h21z.,ACTINOMYCIN D 500micrograms injection (pdr for recon)
+h22..,BLEOMYCIN
+h221.,BLEOMYCIN 15units injection (pdr for recon)
+h23..,DOXORUBICIN HYDROCHLORIDE
+h231.,*ADRIAMYCIN 10mg injection
+h232.,*ADRIAMYCIN 50mg injection
+h233.,DOXORUBICIN RAPID DISSOL 10mg injection (pdr for recon)
+h234.,DOXORUBICIN RAPID DISSOL 50mg injection (pdr for recon)
+h23y.,DOXORUBICIN HCL 10mg solution for injection
+h23z.,DOXORUBICIN HCL 50mg solution for injection
+h24..,EPIRUBICIN HYDROCHLORIDE
+h241.,PHARMORUBICIN 10mg injection (pdr for recon)
+h242.,PHARMORUBICIN 20mg injection (pdr for recon)
+h243.,PHARMORUBICIN 50mg injection (pdr for recon)
+h244.,PHARMORUBICIN 10mg/5mL solution for injection
+h245.,PHARMORUBICIN 50mg/25mL solution for injection
+h246.,EPIRUBICIN 10mg/5mL solution for injection
+h247.,EPIRUBICIN 50mg/25mL solution for injection
+h24x.,EPIRUBICIN HCL 10mg injection (pdr for recon)
+h24y.,EPIRUBICIN HCL 20mg injection (pdr for recon)
+h24z.,EPIRUBICIN HCL 50mg injection (pdr for recon)
+h25..,MITOMYCIN
+h251.,MITOMYCIN C KYOWA 2mg injection (pdr for recon)
+h252.,MITOMYCIN C KYOWA 10mg injection (pdr for recon)
+h253.,MITOMYCIN C KYOWA 20mg injection (pdr for recon)
+h26..,PLICAMYCIN
+h261.,MITHRACIN 2.5mg injection (pdr for recon)
+h26z.,PLICAMYCIN 2.5mg injection (pdr for recon)
+h27..,IDARUBICIN HYDROCHLORIDE
+h271.,IDARUBICIN 5mg injection (pdr for recon)
+h272.,IDARUBICIN 10mg injection (pdr for recon)
+h273.,ZAVEDOS 5mg injection (pdr for recon)
+h274.,ZAVEDOS 10mg injection (pdr for recon)
+h28..,*ACLARUBICIN
+h281.,ACLARUBICIN 20mg injection (pdr for recon)
+h282.,ACLACIN 20mg injection (pdr for recon)
+h3...,ANTIMETABOLITES
+h31..,CYTARABINE
+h311.,ALEXAN 40mg/2mL solution for injection
+h312.,ALEXAN 100mg/5mL solution for injection
+h313.,ALEXAN-100 100mg/1mL injection solution
+h314.,ALEXAN-100 1g/10mL solution for injection
+h315.,CYTOSAR 100mg injection (pdr for recon)
+h316.,CYTOSAR 500mg injection (pdr for recon)
+h31u.,CYTARABINE 40mg/2mL solution for injection
+h31v.,CYTARABINE 100mg/5mL solution for injection
+h31w.,CYTARABINE 100mg/1mL injection solution
+h31x.,CYTARABINE 1g/10mL solution for injection
+h31y.,CYTARABINE 100mg injection (pdr for recon)
+h31z.,CYTARABINE 500mg injection (pdr for recon)
+h32..,FLUOROURACIL
+h321.,FLUORO-URACIL 250mg capsules
+h322.,FLUORO-URACIL 250mg/10mL injection solution
+h33..,MERCAPTOPURINE
+h331.,PURI-NETHOL 50mg tablets
+h33z.,MERCAPTOPURINE 50mg tablets
+h34..,METHOTREXATE
+h341.,METHOTREXATE 2.5mg tablets
+h342.,METHOTREXATE 10mg tablets
+h343.,METHOTREXATE 2.5mg/1mL solution for injection
+h344.,METHOTREXATE 5mg/2mL solution for injection
+h345.,METHOTREXATE 25mg/1mL solution for injection
+h346.,METHOTREXATE 50mg/2mL solution for injection
+h347.,METHOTREXATE 100mg/4mL injection solution
+h348.,METHOTREXATE 200mg/8mL solution for injection
+h349.,METHOTREXATE 500mg/20mL solution for injection
+h34a.,METHOTREXATE 1g/40mL solution for injection
+h34b.,METHOTREXATE 5g/200mL solution for injection
+h34c.,METHOTREXATE 500mg injection (pdr for recon)
+h34p.,MAXTREX 2.5mg tablets
+h34q.,MAXTREX 10mg tablets
+h35..,TIOGUANINE
+h351.,LANVIS 40mg tablets
+h35z.,TIOGUANINE 40mg tablets
+h4...,VINCA ALKALOIDS + ETOPOSIDE
+h41..,ETOPOSIDE
+h411.,VEPESID 50mg capsules
+h412.,VEPESID 100mg capsules
+h413.,VEPESID 100mg/5mL solution for injection
+h41x.,ETOPOSIDE 50mg capsules
+h41y.,ETOPOSIDE 100mg capsules
+h41z.,ETOPOSIDE 100mg/5mL solution for injection
+h42..,VINBLASTINE SULFATE
+h421.,*VINBLASTINE 10mg injection
+h422.,VELBE 10mg injection (pdr for recon)
+h43..,VINCRISTINE SULFATE
+h431.,VINCRISTINE 1mg injection (pdr for recon)
+h432.,VINCRISTINE 2mg injection (pdr for recon)
+h433.,VINCRISTINE 5mg injection (pdr for recon)
+h434.,ONCOVIN 1mg injection (pdr for recon)
+h435.,*ONCOVIN POWDER 2mg injection
+h437.,ONCOVIN 1mg/1mL solution for injection
+h438.,ONCOVIN 2mg/2ml solution for injection
+h43y.,VINCRISTINE 1mg/1mL solution for injection
+h43z.,VINCRISTINE 2mg/2mL solution for injection
+h44..,VINDESINE SULFATE
+h441.,ELDISINE 5mg injection (pdr for recon)
+h44z.,VINDESINE 5mg injection (pdr for recon)
+h5...,OTHER CYTOXIC DRUGS
+h51..,AMSACRINE
+h511.,AMSIDINE 75mg/15mL intravenous infusion concentrate+diluent
+h52..,CARBOPLATIN
+h521.,PARAPLATIN 150mg solution for injection
+h522.,PARAPLATIN 50mg solution for injection
+h523.,PARAPLATIN 450mg solution for injection
+h524.,CARBOPLATIN 50mg solution for injection
+h525.,CARBOPLATIN 450mg solution for injection
+h52z.,CARBOPLATIN 150mg solution for injection
+h53..,CISPLATIN
+h53t.,CISPLATIN 10mg injection (pdr for recon)
+h53u.,CISPLATIN 10mg/20mL solution for injection
+h53x.,CISPLATIN 50mg/100mL injection solution
+h53z.,CISPLATIN 50mg injection (pdr for recon)
+h54..,DACARBAZINE
+h541.,DTIC-DOME 100mg injection (pdr for recon)
+h542.,DTIC-DOME 200mg injection (pdr for recon)
+h54y.,DACARBAZINE 100mg injection (pdr for recon)
+h54z.,DACARBAZINE 200mg injection (pdr for recon)
+h55..,HYDROXYCARBAMIDE
+h551.,HYDREA 500mg capsules
+h55z.,HYDROXYCARBAMIDE 500mg capsules
+h56..,MITOXANTRONE
+h561.,NOVANTRONE 20mg/10mL intravenous infusion
+h562.,NOVANTRONE 25mg/12.5mL intravenous infusion
+h563.,NOVANTRONE 30mg/15mL intravenous infusion
+h56x.,MITOXANTRONE 20mg/10mL intravenous infusion
+h56y.,MITOXANTRONE 25mg/12.5mL intravenous infusion
+h56z.,MITOXANTRONE 30mg/15mL intravenous infusion
+h57..,PROCARBAZINE
+h571.,*NATULAN 50mg capsules
+h57z.,PROCARBAZINE 50mg capsules
+h58..,RAZOXANE
+h581.,*RAZOXIN 125mg tablets
+h58z.,*RAZOXANE 125mg tablets
+h59..,CRISANTASPASE
+h591.,"CRISANTASPASE 10,000iu injection (pdr for recon)"
+h592.,"ERWINASE 10,000iu injection (pdr for recon)"
+h7...,CYTOTOXIC IMMUNOSUPPRESSANTS
+h71..,AZATHIOPRINE [IMMUNOSUPPRESSANT]
+h711.,*AZAMUNE 50mg tablets
+h712.,IMURAN 25mg tablets
+h713.,IMURAN 50mg tablets
+h714.,IMURAN 50mg injection (pdr for recon)
+h715.,*IMMUNOPRIN 50mg tablets
+h71x.,AZATHIOPRINE 50mg tablets
+h71y.,AZATHIOPRINE 25mg tablets
+h71z.,AZATHIOPRINE 50mg injection (pdr for recon)
+h8...,OTHER IMMUNOSUPPRESSANTS
+h81..,ANTILYMPHOCYTE IMMUNOGLOBULIN
+h811.,PRESSIMMUNE 250mg/5mL injection
+h812.,PRESSIMMUNE 500mg/10mL injection
+h82..,CICLOSPORIN
+h821.,SANDIMMUN 100mg/mL sugar free oral solution
+h822.,SANDIMMUN 50mg/1mL injection
+h823.,SANDIMMUN 250mg/5mL injection
+h824.,SANDIMMUN 25mg capsules
+h825.,SANDIMMUN 100mg capsules
+h826.,CICLOSPORIN 25mg capsules
+h827.,CICLOSPORIN 100mg capsules
+h828.,SANDIMMUN 50mg capsules
+h82x.,CICLOSPORIN 100mg/mL sugar free oral solution
+h82y.,CICLOSPORIN 50mg/1mL injection
+h82z.,CICLOSPORIN 250mg/5mL injection
+ha...,INTERFERONS
+ha1..,INTERFERONS
+ha11.,INTRONA 3million iu injection (pdr for recon)
+ha12.,INTRONA 5million iu injection (pdr for recon)
+ha13.,INTRONA 10million iu injection (pdr for recon)
+ha14.,INTRONA 30million iu injection (pdr for recon)
+ha15.,ROFERON-A 3million iu injection (pdr for recon)
+ha16.,ROFERON-A 9million iu injection (pdr for recon)
+ha17.,ROFERON-A 18million iu injection (pdr for recon)
+ha18.,WELLFERON 3million units/1mL injection
+ha19.,WELLFERON 10million units/1mL injection
+ha1s.,INTERFERONS 5million units injection (pdr for recon)
+ha1t.,INTERFERONS 10million iu injection (pdr for recon)
+ha1u.,INTERFERONS 30million iu injection (pdr for recon)
+ha1v.,INTERFERONS 3million iu injection (pdr for recon)
+ha1w.,INTERFERONS 9million iu injection (pdr for recon)
+ha1x.,INTERFERONS 18million iu injection (pdr for recon)
+ha1y.,INTERFERONS 3million iu/1mL injection solution
+ha1z.,INTERFERONS 10million iu/1mL injection solution
+j5...,RHEUMATIC DIS. PROCESS DRUGS
+j51..,SODIUM AUROTHIOMALATE
+j513.,MYOCRISIN 10mg/0.5mL injection
+j514.,MYOCRISIN 20mg/0.5mL injection
+j515.,MYOCRISIN 50mg/0.5mL injection
+j51x.,AUROTHIOMALATE NA 10mg/0.5mL injection
+j51y.,AUROTHIOMALATE NA 20mg/0.5mL injection
+j51z.,AUROTHIOMALATE NA 50mg/0.5mL injection
+j52..,PENICILLAMINE [MUSCULOSKELETAL USE]
+j521.,PENICILLAMINE 50mg tablets
+j522.,PENICILLAMINE 125mg tablets
+j523.,PENICILLAMINE 250mg tablets
+j524.,*DISTAMINE 50mg tablets
+j525.,DISTAMINE 125mg tablets
+j526.,DISTAMINE 250mg tablets
+j527.,*PENDRAMINE 125mg tablets
+j528.,*PENDRAMINE 250mg tablets
+j53..,CHLOROQUINE [MUSCULO-SKELETAL]
+j54..,HYDROXYCHLOROQUINE SULFATE [ANTI-RHEUMATIC]
+j541.,PLAQUENIL 200mg tablets
+j54z.,HYDROXYCHLOROQUINE SULFATE 200mg tablets
+j55..,SULFASALAZINE [MUSCULOSKELETAL USE]
+j551.,SALAZOPYRIN EN 500mg e/c tablets
+j55z.,SULFASALAZINE 500mg e/c tablets
+j56..,AURANOFIN
+j561.,*AURANOFIN 3mg tablets
+j562.,*RIDAURA 3mg tablets
+hf...,INTERLEUKINS
+hf1..,ALDESLEUKIN
+hf11.,*PROLEUKIN 1.2mg injection
+hf1z.,*ALDESLEUKIN 1.2mg injection
+ha1r.,INTERFERONS 4.5million iu injection
+ha1A.,ROFERON-A 4.5million iu injection (pdr for recon)
+h423.,VINBLASTINE 10mg injection (pdr for recon)
+h424.,VINBLASTINE 10mg/10mL solution for injection
+h829.,CICLOSPORIN 50mg capsules
+h43x.,VINCRISTINE 5mg/5mL solution for injection
+h53b.,CISPLATIN 10mg/10mL solution for injection
+h53c.,CISPLATIN 25mg/25mL solution for injection
+h53d.,CISPLATIN 50mg/50mL solution for injection
+h53e.,CISPLATIN 100mg/100mL solution for injection
+ha1B.,INTRONA 1million iu injection (pdr for recon)
+ha1q.,INTERFERONS 1million iu injection (pdr for recon)
+h194.,ALKERAN UNIT PACK 50mg injection (pdr for recon)
+h19w.,MELPHALAN 50mg injection (pdr for recon)
+h31t.,CYTARABINE 1g injection (pdr for recon)
+h32v.,VINCRISTINE 1mg/1mL prefilled syringe
+h43w.,VINCRISTINE 2mg/2mL prefilled syringe
+h43v.,VINCRISTINE 1mg/1mL prefilled syringe
+h512.,AMSACRINE 75mg/15mL intravenous infusion concentrate+diluent
+h716.,*BERKAPRINE 50mg tablets
+h5A..,PENTOSTATIN
+h5A1.,NIPENT 10mg injection (pdr for recon)
+h5A2.,PENTOSTATIN 10mg injection (pdr for recon)
+h275.,ZAVEDOS 5mg capsules
+h276.,ZAVEDOS 10mg capsules
+h277.,*ZAVEDOS 25mg capsules
+h278.,IDARUBICIN 5mg capsules
+h279.,IDARUBICIN 10mg capsules
+h27A.,*IDARUBICIN 25mg capsules
+h325.,FLUOROURACIL 2.5g/100mL solution for injection
+h235.,DOXORUBICIN HCL 10mg injection (pdr for recon)
+h236.,DOXORUBICIN HCL 50mg injection (pdr for recon)
+h25z.,MITOMYCIN 2mg injection (pdr for recon)
+h25y.,MITOMYCIN 10mg injection (pdr for recon)
+h25x.,MITOMYCIN 20mg injection (pdr for recon)
+h32z.,FLUOROURACIL 500mg/20mL injection
+h32y.,FLUOROURACIL 250mg capsules
+h32x.,FLUOROURACIL 250mg/10mL injection
+h34x.,METHOTREXATE 5g/50mL injection
+h34w.,METHOTREXATE 1g/10mL injection
+h5B..,PACLITAXEL
+h5B1.,TAXOL 30mg/5mL infusion concentrate
+h5B2.,PACLITAXEL 30mg/5mL infusion concentrate
+ha1E.,INTRONA 10million iu/2mL solution for injection
+ha1F.,INTRONA 25million iu/5mL solution for injection
+h5C..,FLUDARABINE
+h5C1.,FLUDARA 50mg injection (pdr for recon)
+h5C2.,FLUDARABINE PHOSPHATE 50mg injection (pdr for recon)
+h83..,TACROLIMUS
+h831.,TACROLIMUS 1mg capsules
+h832.,TACROLIMUS 5mg capsules
+h833.,TACROLIMUS 5mg/1mL intravenous infusion concentrate
+h834.,PROGRAF 1mg capsules
+h835.,PROGRAF 5mg capsules
+h836.,PROGRAF 5mg/1mL intravenous infusion concentrate
+ha1G.,VIRAFERON 10million iu/2mL injection solution
+ha1H.,VIRAFERON 25million iu/5mL injection solution
+h82A.,NEORAL 25mg capsules
+h82B.,NEORAL 50mg capsules
+h82C.,NEORAL 100mg capsules
+h82D.,NEORAL 100mg/mL sugar free oral solution
+h1d3.,TREOSULFAN 1g injection (pdr for recon)
+h317.,CYTARABINE 500mg/5mL injection solution
+h318.,CYTARABINE 2g/20mL injection solution
+h717.,*OPRISINE-50 tablets
+ha1o.,INTERFERON ALFA-2A 4.5million iu/1mL injection solution
+ha1n.,INTERFERON ALFA-2A 6million iu/1mL injection solution
+ha1m.,INTERFERON ALFA-2A 9million iu/1mL injection solution
+ha1K.,ROFERON-A 6million iu/1mL injection solution
+ha1L.,ROFERON-A 9million iu/1mL injection solution
+ha1I.,ROFERON-A 3million iu/1mL injection solution
+ha1J.,ROFERON-A 4.5million iu/1mL injection solution
+ha1p.,INTERFERON ALFA-2A 3million iu/1mL injection solution
+ha1l.,INTERFERON ALFA-2A 18million iu/3mL injection solution
+ha1M.,ROFERON-A 18million iu/3mL injection solution
+h5D..,CLADRIBINE
+h5D1.,CLADRIBINE 10mg/10mL injection
+h5D2.,LEUSTAT 10mg/10mL injection
+ha1j.,INTERFERON BETA-1B 8million iu injection (pdr for recon)
+ha1N.,BETAFERON 9.6million iu injection (pdr for recon)+diluent
+h29..,DAUNORUBICIN
+h291.,LIPOSOMAL DAUNORUBICIN 50mg/25mL injection
+h292.,DAUNOXOME 50mg/25mL injection
+h36..,GEMCITABINE
+h361.,GEMCITABINE 200mg injection (pdr for recon)
+h362.,GEMCITABINE 1g injection (pdr for recon)
+h363.,GEMZAR 200mg injection (pdr for recon)
+h364.,GEMZAR 1g injection (pdr for recon)
+h5E..,DOCETAXEL
+h5E1.,DOCETAXEL 20mg/0.5mL infusion concentrate+solvent
+h5E2.,DOCETAXEL 80mg/2mL infusion concentrate+solvent
+h5E3.,TAXOTERE 20mg/0.5mL infusion concentrate+solvent
+h5E4.,TAXOTERE 80mg/2mL infusion concentrate+solvent
+h39..,RALTITREXED
+h391.,RALTITREXED 2mg injection (pdr for recon)
+h392.,TOMUDEX 2mg injection (pdr for recon)
+h84..,MYCOPHENOLATE
+h841.,MYCOPHENOLATE MOFETIL 250mg capsules
+h842.,CELLCEPT 250mg capsules
+ha1V.,INTERFERON ALFA-2B 30million iu injection (pdr for recon)
+ha1P.,INTERFERON ALFA-N1 10million units/1mL injection
+ha1Q.,INTERFERON ALFA-N1 3million units/1mL injection
+ha1W.,INTERFERON ALFA-2B 10million iu injection (pdr for recon)
+ha1X.,INTERFERON ALFA-2B 5million iu injection (pdr for recon)
+ha1Y.,INTERFERON ALFA-2B 3million iu injection (pdr for recon)
+ha1Z.,INTERFERON ALFA-2B 1million iu injection (pdr for recon)
+ha1g.,INTERFERON ALFA-2B 10million iu/2mL injection solution
+ha1h.,INTERFERON ALFA-2B 25million iu/5mL injection solution
+ha1R.,INTERFERON ALFA-2A 18million iu injection (pdr for recon)
+ha1T.,INTERFERON ALFA-2A 4.5million iu injection (pdr for recon)
+ha1U.,INTERFERON ALFA-2A 3million iu injection (pdr for recon)
+ha1S.,INTERFERON ALFA-2A 9million iu injection (pdr for recon)
+ha1a.,INTERFERON ALFA-N1 5million units/1mL injection
+ha1b.,WELLFERON 5million units/1mL injection
+h326.,FLUOROURACIL 250mg/5mL injection
+h327.,FLUOROURACIL 500mg/10mL injection
+h718.,AZATHIOPRINE 10mg tablets
+h719.,IMURAN 10mg tablets
+h237.,LIPOSOMAL DOXORUBICIN HYDROCHLORIDE 20mg/10mL infusion concentrate
+h238.,CAELYX 20mg/10mL infusion concentrate
+ha2..,INTERFERONS (2)
+ha21.,INTERFERON ALFA-2A 3million iu/0.5mL prefilled syringe
+ha22.,INTERFERON ALFA-2A 4.5million iu/0.5mL prefilled syringe
+ha23.,INTERFERON ALFA-2A 6million iu/0.5mL prefilled syringe
+ha24.,INTERFERON ALFA-2A 9million iu/0.5mL prefilled syringe
+ha25.,ROFERON-A 3million iu/0.5mL prefilled syringe
+ha26.,ROFERON-A 4.5million iu/0.5mL prefilled syringe
+ha27.,ROFERON-A 6million iu/0.5mL prefilled syringe
+ha28.,ROFERON-A 9million iu/0.5mL prefilled syringe
+h328.,FLUOROURACIL+ADRENALINE 30mg/0.1mg injection gel
+h329.,*ACCUSITE injection gel
+ha1c.,INTERFERON ALFA-2B 18million iu/3mL injection solution
+ha1d.,VIRAFERON 18million iu/3mL injection solution
+h5F..,TOPOTECAN
+h5F1.,TOPOTECAN 4mg infusion (pdr for recon)
+h5F2.,HYCAMTIN 4mg infusion (pdr for recon)
+ha29.,INTERFERON BETA-1A 6million iu injection powder+solvent
+ha2A.,AVONEX 6million iu injection powder+solvent
+h5G..,IRINOTECAN HYDROCHLORIDE TRIHYDRATE
+h5G1.,IRINOTECAN HYDROCHLORIDE TRIHYDRATE 40mg/2mL infusion concentrate
+h5G2.,IRINOTECAN HYDROCHLORIDE TRIHYDRATE 100mg/5mL infusion concentrate
+h5G3.,CAMPTO 40mg/2mL infusion concentrate
+h5G4.,CAMPTO 100mg/5mL infusion concentrate
+ha1e.,ROFERON-A 18million iu/1mL injection solution
+ha1f.,INTERFERON ALFA-2A 18million iu/1mL injection solution
+h293.,DAUNORUBICIN 20mg infusion (pdr for recon)
+h294.,CERUBIDIN 20mg infusion (pdr for recon)
+h45..,VINORELBINE
+h451.,VINORELBINE 10mg/1mL intravenous solution
+h452.,VINORELBINE 50mg/5mL intravenous solution
+h453.,NAVELBINE 10mg/1mL intravenous solution
+h454.,NAVELBINE 50mg/5mL intravenous solution
+h14A.,CYCLOPHOS 200mg injection (pdr for recon)
+h14B.,CYCLOPHOS 500mg injection (pdr for recon)
+h14C.,CYCLOPHOS 1g injection (pdr for recon)
+h5H..,ALTRETAMINE
+h5H1.,ALTRETAMINE 50mg capsules
+h5H2.,HEXALEN 50mg capsules
+h32A.,FLUOROURACIL 2.5g/50mL injection
+hg1..,TRETINOIN [CYTOSTATIC]
+hg11.,TRETINOIN 10mg capsules
+hg12.,VESANOID 10mg capsules
+ha2B.,INTERFERON ALFA-2B 18million iu injection (pdr for recon)
+ha2C.,INTRONA 18million iu injection (pdr for recon)
+h843.,MYCOPHENOLATE MOFETIL 500mg tablets
+h844.,CELLCEPT 500mg tablets
+h5B3.,PACLITAXEL 100mg/16.7mL infusion concentrate
+h5B4.,TAXOL 100mg/16.7mL infusion concentrate
+ha2D.,INTERFERON ALFA-2B 15million iu/1mL prefilled pen
+ha2E.,INTERFERON ALFA-2B 25million iu/1mL prefilled pen
+ha2F.,INTERFERON ALFA-2B 50million iu/1mL prefilled pen
+ha2G.,INTRONA 15million iu/1mL prefilled pen
+ha2H.,INTRONA 25million iu/1mL prefilled pen
+ha2I.,INTRONA 50million iu/1mL prefilled pen
+ha2J.,VIRAFERON 15million iu/1mL prefilled pen
+ha2K.,INTERFERON ALFA-2B 25million iu/2.5mL injection solution
+ha2L.,INTRONA 25million iu/2.5mL injection solution
+ha2M.,INTERFERON BETA-1A 6million iu/0.5mL prefilled syringe
+ha2N.,REBIF 6million iu/0.5mL prefilled syringe
+h82E.,CICLOSPORIN 10mg capsules
+h82F.,NEORAL 10mg capsules
+h41w.,ETOPOSIDE 100mg injection (pdr for recon)
+h414.,ETOPOPHOS 100mg injection (pdr for recon)
+h239.,DOXORUBICIN SOLUTION 10mg/5mL Cytosafe injection vials
+h23A.,DOXORUBICIN SOLUTION 50mg/25mL Cytosafe injection vials
+h248.,PHARMORUBICIN SOLUTION 10mg/5mL Cytosafe injection vials
+h249.,PHARMORUBICIN SOLUTION 50mg/25mL Cytosafe injection vials
+ha2O.,VIRAFERON 25million iu/1mL prefilled pen
+h84z.,MYCOPHENOLATE MOFETIL 500mg infusion concentrate (pdr for recon)
+h845.,CELLCEPT 500mg infusion concentrate (pdr for recon)
+h5J..,TEMOZOLOMIDE
+h5Jw.,TEMOZOLOMIDE 5mg capsules
+h5Jx.,TEMOZOLOMIDE 20mg capsules
+h5Jy.,TEMOZOLOMIDE 100mg capsules
+h5Jz.,TEMOZOLOMIDE 250mg capsules
+h5J1.,TEMODAL 5mg capsules
+h5J2.,TEMODAL 20mg capsules
+h5J4.,TEMODAL 250mg capsules
+h5J3.,TEMODAL 100mg capsules
+h82G.,SANGCYA 100mg/mL oral solution
+ha2P.,INTERFERON BETA-1A 12million iu/0.5mL prefilled syringe
+ha2Q.,REBIF 12million iu/0.5mL prefilled syringe
+ha2R.,INTERFERON ALFA-2A 18million iu/0.6mL cartridges
+ha2S.,ROFERON-A 18million iu/0.6mL cartridges
+j59..,LEFLUNOMIDE
+j59x.,LEFLUNOMIDE 10mg tablets
+j59y.,LEFLUNOMIDE 20mg tablets
+j59z.,LEFLUNOMIDE 100mg tablets
+j591.,ARAVA 10mg tablets
+j592.,ARAVA 20mg tablets
+j593.,ARAVA 100mg tablets
+h5I..,OXALIPLATIN
+h5Iy.,OXALIPLATIN 50mg infusion (pdr for recon)
+h5Iz.,OXALIPLATIN 100mg infusion (pdr for recon)
+h5I1.,ELOXATIN 50mg infusion (pdr for recon)
+h5I2.,ELOXATIN 100mg infusion (pdr for recon)
+h83z.,TACROLIMUS 0.5mg capsules
+h837.,PROGRAF 0.5mg capsules
+h319.,CYTARABINE SOLUTION 100mg/5mL Cytosafe injection vials
+h31A.,CYTARABINE SOLUTION 2g/20mL Cytosafe injection vials
+h31B.,CYTARABINE SOLUTION 1g/10mL Cytosafe injection vials
+h31C.,CYTARABINE SOLUTION 500mg/25mL Cytosafe injection vials
+h31s.,CYTARABINE 500mg/25mL injection solution
+h5Bz.,PACLITAXEL 300mg/50mL infusion concentrate
+h5B5.,TAXOL 300mg/50mL infusion concentrate
+h565.,ONKOTRONE 25mg/12.5mL injection
+h564.,ONKOTRONE 20mg/10mL injection
+h566.,ONKOTRONE 30mg/15mL injection
+ha2T.,PEGINTERFERON ALFA-2B 50micrograms injection (pdr for recon)+solvent
+ha2U.,PEGINTERFERON ALFA-2B 80micrograms injection (pdr for recon)+solvent
+ha2V.,PEGINTERFERON ALFA-2B 100micrograms injection (pdr for recon)+solvent
+ha2W.,VIRAFERONPEG 50micrograms injection (pdr for recon)+solvent
+ha2X.,VIRAFERONPEG 80micrograms injection (pdr for recon)+solvent
+ha2Y.,VIRAFERONPEG 100micrograms injection (pdr for recon)+solvent
+h25w.,MITOMYCIN 40mg injection (pdr for recon)
+h254.,MITOMYCIN C KYOWA 40mg injection (pdr for recon)
+h5K..,VERTEPORFIN
+h5Kz.,VERTEPORFIN 15mg i-v infusion (pdr for recon)
+h5K1.,VISUDYNE 15mg i-v infusion (pdr for recon)
+hh2..,TRASTUZUMAB
+hh2z.,TRASTUZUMAB 150mg infusion conc (pdr for recon)
+hh21.,HERCEPTIN 150mg infusion conc (pdr for recon)
+ha2Z.,PEGINTRON 50micrograms injection (pdr for recon)+solvent
+ha2z.,PEGINTERFERON ALFA-2B 120micrograms injection (pdr for recon)+solvent
+ha2y.,PEGINTERFERON ALFA-2B 150micrograms injection (pdr for recon)+solvent
+ha2a.,PEGINTRON 80micrograms injection (pdr for recon)+solvent
+ha2b.,PEGINTRON 100micrograms injection (pdr for recon)+solvent
+ha2c.,PEGINTRON 120micrograms injection (pdr for recon)+solvent
+ha2d.,PEGINTRON 150micrograms injection (pdr for recon)+solvent
+ha2e.,VIRAFERONPEG 120micrograms injection (pdr for recon)+solvent
+dA1..,GLATIRAMER
+h5Cz.,FLUDARABINE PHOSPHATE 10mg tablets
+h5C3.,FLUDARA 10mg tablets
+h23x.,LIPOSOMAL DOXORUBICIN HYDROCHLORIDE 50mg/25mL infusion concentrate
+h23B.,CAELYX 50mg/25mL infusion concentrate
+h53f.,*PLATINEX 50mg/50mL injection
+h53g.,*PLATINEX 100mg/100mL inj
+h52y.,CARBOPLATIN 600mg/60mL infusion
+h526.,PARAPLATIN 600mg/60mL infusion
+h3A..,CAPECITABINE
+h3Az.,CAPECITABINE 150mg tablets
+h3Ay.,CAPECITABINE 500mg tablets
+h3A1.,XELODA 150mg tablets
+h3A2.,XELODA 500mg tablets
+ha2f.,VIRAFERONPEG 150micrograms injection (pdr for recon)+solvent
+h3B..,TEGAFUR+URACIL
+h3Bz.,TEGAFUR+URACIL 100mg/224mg capsules
+h3B1.,*UFTORAL 100mg/224mg capsules
+h5Fz.,TOPOTECAN 1mg infusion (pdr for recon)
+h5F3.,HYCAMTIN 1mg infusion (pdr for recon)
+h85..,SIROLIMUS
+h85x.,SIROLIMUS 1mg/mL oral solution
+h85y.,SIROLIMUS 1mg/sachet oral solution
+h85z.,SIROLIMUS 2mg/sachet oral solution
+h851.,RAPAMUNE 1mg/mL oral solution
+h852.,RAPAMUNE 1mg/sachet oral solution
+h853.,RAPAMUNE 2mg/sachet oral solution
+h23C.,DOXORUBICIN SOLUTION 200mg/100mL Cytosafe injection vial
+h415.,EPOSIN 100mg/5mL injection concentrate
+h41v.,ETOPOSIDE 400mg/20mL injection concentrate
+h416.,EPOSIN 400mg/20mL injection concentrate
+hh4..,IMATINIB
+hh4z.,*IMATINIB 100mg capsules
+hh41.,*GLIVEC 100mg capsules
+hh5..,BEXAROTENE
+hh51.,TARGRETIN 75mg capsules
+hh5z.,BEXAROTENE 75mg capsules
+h846.,MYCOPHENOLATE MOFETIL 1g/5mL oral suspension
+h847.,CELLCEPT 1g/5mL oral suspension
+h86..,ANAKINRA
+h861.,ANAKINRA 100mg/0.67mL injection prefilled syringe
+h862.,KINERET 100mg/0.67mL injection prefilled syringe
+h85w.,SIROLIMUS 1mg tablets
+h854.,RAPAMUNE 1mg tablets
+ha2x.,PEGINTERFERON ALFA-2A 180micrograms/0.5mL solution for injection prefilled syringe
+ha2g.,PEGASYS 180micrograms/0.5mL solution for injection prefilled syringe
+ha2w.,PEGINTERFERON ALFA-2A 135micrograms/0.5mL solution for injection prefilled syringe
+ha2h.,PEGASYS 135micrograms/0.5mL solution for injection prefilled syringe
+hh6..,TEMOPORFIN
+hh61.,TEMOPORFIN 20mg/5mL solution for injection
+hh62.,FOSCAN 20mg/5mL solution for injection
+h417.,EPOSIN 500mg/25mL injection concentrate
+h41u.,ETOPOSIDE 500mg/25mL injection concentrate
+h32B.,FLUOROURACIL 1g/20mL injection
+h32C.,FLUOROURACIL ONCOVIAL 1g/20mL injection
+ha2r.,PEGINTERFERON ALFA-2B 50micrograms powder+solvent for solution for injection in prefilled pen
+ha2s.,PEGINTERFERON ALFA-2B 80micrograms powder+solvent for solution for injection in prefilled pen
+ha2t.,PEGINTERFERON ALFA-2B 100micrograms powder+solvent for solution for injection in prefilled pen
+ha2u.,PEGINTERFERON ALFA-2B 120micrograms powder+solvent for solution for injection in prefilled pen
+ha2v.,PEGINTERFERON ALFA-2B 150micrograms powder+solvent for solution for injection in prefilled pen
+ha2i.,VIRAFERONPEG 50micrograms powder+solvent for solution for injection in prefilled pen
+ha2j.,VIRAFERONPEG 80micrograms powder+solvent for solution for injection in prefilled pen
+ha2k.,VIRAFERONPEG 100micrograms powder+solvent for solution for injection in prefilled pen
+ha2l.,VIRAFERONPEG 120micrograms powder+solvent for solution for injection in prefilled pen
+ha2m.,VIRAFERONPEG 150micrograms powder+solvent for solution for injection in prefilled pen
+ha3..,INTERFERONS (3)
+ha31.,INTERFERON ALFA-2A 18million iu/0.5mL prefilled syringe
+ha32.,ROFERON-A 18million iu/0.5mL prefilled syringe
+h5L..,METHYL AMINOLEVULINATE
+h5L1.,METHYL AMINOLEVULINATE 160mg/g cream
+h5L2.,METVIX 160mg/g cream 2g
+h855.,RAPAMUNE 2mg tablets
+h85v.,SIROLIMUS 2mg tablets
+hf12.,PROLEUKIN SC 18megaunits powder for injection solution
+hf13.,PROLEUKIN IV 18megaunits powder for injection solution
+hf1y.,ALDESLEUKIN 18megaunits powder for injection solution
+h87..,ADALIMUMAB
+h871.,ADALIMUMAB 40mg injection solution 0.8mL prefilled syringe
+h872.,HUMIRA 40mg injection solution 0.8mL prefilled syringe
+ha33.,AVONEX 6million iu/0.5mL prefilled syringe
+j552.,SULAZINE EC 500mg e/c tablets
+h11x.,BUSULFAN 6mg/mL iv infusion concentrate
+h113.,BUSILVEX 6mg/mL iv infusion concentrate 10mL vial
+h31r.,CYTARABINE 50mg injection suspension
+h31D.,DEPOCYTE 50mg injection suspension
+hh4y.,IMATINIB 400mg tablets
+hh42.,GLIVEC 400mg tablets
+h12y.,CARMUSTINE 7.7mg implant
+h122.,GLIADEL 7.7mg implant
+h24A.,PHARMORUBICIN SOLUTION 200mg/100mL Cytosafe injection vials
+h24w.,EPIRUBICIN HYDROCHLORIDE 200mg/100mL injection
+hh7..,ARSENIC
+hh71.,TRISENOX 10mg/10mL solution for injection ampoules
+hh7z.,ARSENIC TRIOXIDE 10mg/10mL solution for injection ampoules
+hh8..,BORTEZOMIB
+hh81.,BORTEZOMIB 3.5mg powder for injection solution
+hh82.,VELCADE 3.5mg powder for injection solution
+h5B6.,PAXENE 30mg/5mL infusion concentrate
+h5B7.,PAXENE 100mg/16.7mL infusion concentrate
+h5B8.,PAXENE 150mg/25mL infusion concentrate
+h5B9.,PAXENE 300mg/50mL infusion concentrate
+h5By.,PACLITAXEL 150mg/25mL infusion concentrate
+hh9..,CETUXIMAB
+hh91.,ERBITUX 100mg/50mL solution for injection
+hh9z.,CETUXIMAB 100mg/50mL solution for injection
+pm1l.,REBIJECT II autoinjector device
+hh4x.,IMATINIB 100mg tablets
+hh43.,GLIVEC 100mg tablets
+h84x.,MYCOPHENOLIC ACID 180mg gastro-resistant tablets
+h84y.,MYCOPHENOLIC ACID 360mg gastro-resistant tablets
+h848.,MYFORTIC 180mg gastro-resistant tablets
+h849.,MYFORTIC 360mg gastro-resistant tablets
+dA1y.,GLATIRAMER ACETATE 20mg/1mL solution for injection prefilled syringe
+dA12.,COPAXONE 20mg/1mL solution for injection prefilled syringe
+h5BA.,TAXOL 150mg/25mL infusion concentrate
+h3C..,PEMETREXED
+h3C1.,PEMETREXED 500mg infusion conc (pdr for recon)
+h3C2.,ALIMTA 500mg infusion conc (pdr for recon)
+h89..,ETANERCEPT
+h891.,ETANERCEPT 50mg powder+solvent for solution for injection
+h89z.,ENBREL 50mg powder+solvent for solution for injection
+h892.,ETANERCEPT 25mg powder+solvent for solution for injection
+h89y.,ENBREL 25mg powder+solvent for solution for injection
+hhC..,ERLOTINIB
+hhCy.,ERLOTINIB 100mg tablets
+hhC1.,TARCEVA 150mg tablets
+hhC2.,TARCEVA 100mg tablets
+hhCz.,ERLOTINIB 150mg tablets
+h45z.,VINORELBINE 20mg capsules
+h45y.,VINORELBINE 30mg capsules
+h455.,NAVELBINE 20mg capsules
+h456.,NAVELBINE 30mg capsules
+h5Ix.,OXALIPLATIN 50mg/10mL infusion concentrate
+h5I3.,ELOXATIN 50mg/10mL infusion concentrate
+h5Iw.,OXALIPLATIN 100mg/20mL infusion concentrate
+h5I4.,ELOXATIN 100mg/20mL infusion concentrate
+hhD..,MITOTANE PRODUCT
+hhD1.,LYSODREN 500mg tablets
+hhDz.,MITOTANE 500mg tablets
+h8A..,NATALIZUMAB
+h8Az.,NATALIZUMAB 300mg/15mL solution for injection
+h8A1.,TYSABRI 300mg/15mL solution for injection
+hhE..,SORAFENIB
+h3D..,CLOFARABINE
+h3D1.,EVOLTRA 20mg/20mL solution for injection
+h3Dz.,CLOFARABINE 20mg/20mL solution for injection
+hhE1.,NEXAVAR 200mg tablets
+hhEz.,SORAFENIB 200mg tablets
+hhF..,SUNITINIB
+hhF1.,SUTENT 12.5mg capsules
+hhF2.,SUTENT 25mg capsules
+hhF3.,SUTENT 50mg capsules
+hhFz.,SUNITINIB 12.5mg capsules
+hhFy.,SUNITINIB 25mg capsules
+hhFx.,SUNITINIB 50mg capsules
+h5Iv.,OXALIPLATIN 200mg/40mL infusion concentrate
+h5I5.,ELOXATIN 200mg/40mL infusion concentrate
+h8B..,INFLIXIMAB
+h8Bz.,INFLIXIMAB 100mg powder for solution for injection
+h8B1.,REMICADE 100mg powder for solution for injection
+h34y.,METHOTREXATE 7.5mg/0.75mL solution for injection prefilled syringe
+h34z.,METHOTREXATE 10mg/1mL solution for injection prefilled syringe
+h34A.,METHOTREXATE 15mg/1.5mL solution for injection prefilled syringe
+h24B.,METHOTREXATE 20mg/2mL solution for injection prefilled syringe
+h34C.,METHOTREXATE 25mg/2.5mL solution for injection prefilled syringe
+h34D.,METOJECT 7.5mg/0.75mL solution for injection prefilled syringe
+h34E.,METOJECT 10mg/1mL solution for injection prefilled syringe
+h34F.,METOJECT 15mg/1.5mL solution for injection prefilled syringe
+h34G.,METOJECT 20mg/2mL solution for injection prefilled syringe
+h34H.,METOJECT 25mg/2.5mL solution for injection prefilled syringe
+h34B.,METHOTREXATE 20mg/2mL solution for injection prefilled syringe
+h89x.,ENBREL 50mg solution for injection prefilled syringe
+h893.,ETANERCEPT 50mg solution for injection prefilled syringe
+h89w.,ENBREL 25mg paediatric powder+solvent for solution for injection
+hhG..,DASATINIB
+hhGz.,SPRYCEL 20mg tablets
+hhG1.,DASATINIB 20mg tablets
+hhGy.,SPRYCEL 50mg tablets
+hhG2.,DASATINIB 50mg tablets
+hhGx.,*SPRYCEL 70mg tablets
+hhG3.,*DASATINIB 70mg tablets
+h5D3.,LITAK 10mg/5mL solution for injection vials
+h5Dz.,CLADRIBINE 10mg/5mL solution for injection vials
+h89v.,ENBREL 25mg solution for injection prefilled syringe
+h894.,ETANERCEPT 25mg solution for injection prefilled syringe
+h23D.,MYOCET 50mg injection (pdr for recon)
+h23w.,LIPOSOMAL DOXORUBICIN HYDROCHLORIDE 50mg injection (pdr for recon)
+hh92.,ERBITUX 100mg/20mL solution for injection
+hh9y.,CETUXIMAB 100mg/20mL solution for injection
+hh93.,ERBITUX 500mg/100mL solution for injection
+hh9x.,CETUXIMAB 500mg/100mL solution for injection
+h8C..,ABATACEPT
+h8Cz.,ABATACEPT 250mg powder for solution for injection
+h8C1.,ORENCIA 250mg powder for solution for injection
+hhC3.,TARCEVA 25mg tablets
+hhCx.,ERLOTINIB 25mg tablets
+h873.,ADALIMUMAB 40mg injection solution 0.8mL prefilled pen
+h874.,HUMIRA 40mg injection solution 0.8mL prefilled pen
+ha34.,REBIF 2.4million iu/0.2mL and 6million iu/0.5mL injection intitation pack
+ha35.,INTERFERON BETA-1A 2.4million iu/0.2mL and 6million iu/0.5mL injection initiation pack
+hhH..,LENALIDOMIDE
+hhH1.,REVLIMID 5mg capsules
+hhH2.,REVLIMID 10mg capsules
+hhH3.,REVLIMID 15mg capsules
+hhH4.,REVLIMID 25mg capsules
+hhHz.,LENALIDOMIDE 5mg capsules
+hhHy.,LENALIDOMIDE 10mg capsules
+hhHx.,LENALIDOMIDE 15mg capsules
+hhHw.,LENALIDOMIDE 25mg capsules
+h5Jv.,TEMOZOLOMIDE 140mg capsules
+h5J5.,TEMODAL 140mg capsules
+h5Ju.,TEMOZOLOMIDE 180mg capsules
+h5J6.,TEMODAL 180mg capsules
+h838.,ADVAGRAF 0.5mg m/r capsules
+h839.,ADVAGRAF 1mg m/r capsules
+h83A.,ADVAGRAF 5mg m/r capsules
+h83y.,TACROLIMUS 500microgram m/r capsules
+h83x.,TACROLIMUS 1mg m/r capsules
+h83w.,TACROLIMUS 5mg m/r capsules
+h3E..,NELARABINE
+h3E1.,ATRIANCE 250mg/50mL solution for injection
+h3Ez.,NELARABINE 250mg/50mL solution for injection
+ha36.,INTRONA 10million iu/1mL solution for injection
+ha37.,INTERFERON ALFA-2B 10million iu/1mL solution for injection
+hhJ..,PANITUMUMAB
+hhJ1.,VECTIBIX 100mg/5mL solution for injection
+hhJ2.,PANITUMUMAB 100mg/5mL solution for injection
+hhK..,TRABECTEDIN
+hhK1.,YONDELIS 250micrograms powder for solution for injection
+hhK2.,YONDELIS 1mg powder for solution for injection
+hhK3.,TRABECTEDIN 250micrograms powder for solution for injection
+hhK4.,TRABECTEDIN 1mg powder for solution for injection
+hhL..,NILOTINIB
+hhL1.,TASIGNA 200mg capsules
+hhLz.,NILOTINIB 200mg capsules
+h5G5.,CAMPTO 300mg/15mL infusion concentrate
+h5G6.,IRINOTECAN HYDROCHLORIDE TRIHYDRATE 300mg/15mL infusion concentrate
+h8D..,ANTITHYMOCYTE IMMUNOGLOBULIN
+h8D1.,THYMOGLOBULINE 25mg powder for solution for injection
+h8D2.,ANTITHYMOCYTE IMMUNOGLOBULIN (RABBIT) 25mg powder for solution for injection
+hhM..,LAPATINIB
+hhM1.,TYVERB 250mg tablets
+hhM2.,LAPATINIB 250mg tablets
+hhN..,THALIDOMIDE
+hhN1.,THALIDOMIDE PHARMION 50mg capsules
+hhN2.,THALIDOMIDE 50mg capsules
+h5F4.,HYCAMTIN 250micrograms capsules
+h5F5.,TOPOTECAN 250micrograms capsules
+h5F6.,HYCAMTIN 1mg capsules
+h5F7.,TOPOTECAN 1mg capsules
+hhO..,TEMSIROLIMUS
+hhO1.,TORISEL 30mg/1.2mL concentration for solution for injection+diluent
+hhO2.,TEMSIROLIMUS 30mg/1.2mL concentrate for solution for injection+diluent
+hhJ3.,VECTIBIX 400mg/20mL solution for injection
+hhJ4.,PANITUMUMAB 400mg/20mL solution for injection
+hhGw.,SPRYCEL 100mg tablets
+hhG4.,DASATINIB 100mg tablets
+h5BB.,ABRAXANE 100mg powder for suspension for injection
+h5Bx.,PACLITAXEL 100mg powder for suspension for injection
+h24C.,EPIRUBICIN HYDROCHLORIDE 100mg/50mL solution for injection
+h3F..,AZACITIDINE
+h3Fz.,VIDAZA 100mg injection (pdr for recon)
+h3F1.,AZACITIDINE 100mg injection (pdr for recon)
+ha38.,EXTAVIA 300mcg powder and solvent for solution for injection
+ha39.,INTERFERON BETA-1B 300micrograms pdr+solv inj
+h34L.,METOJECT 7.5mg/0.15mL solution for injection pfs
+h34M.,METHOTREXATE 7.5mg/0.15mL solution for injection pfs
+h34N.,METOJECT 10mg/0.2mL solution for injection prefilled syringe
+h34O.,METHOTREXATE 10mg/0.2mL solution for injection pfs
+h34P.,METOJECT 15mg/0.3mL solution for injection prefilled syringe
+h34Q.,METHOTREXATE 15mg/0.3mL solution for injection pfs
+h34R.,METOJECT 20mg/0.4mL solution for injection prefilled syringe
+h34S.,METHOTREXATE 20mg/0.4mL solution for injection pfs
+h34T.,METOJECT 25mg/0.5mL solution for injection prefilled syringe
+h34U.,METHOTREXATE 25mg/0.5mL solution for injection pfs
+h83B.,ADVAGRAF 3mg m/r capsules
+h83v.,TACROLIMUS 3mg m/r capsules
+hhP..,GEFITINIB
+hhP1.,IRESSA 250mg tablets
+hhP2.,GEFITINIB 250mg tablets
+h89u.,ENBREL 50mg solution for injection prefilled pen
+h895.,ETANERCEPT 50mg solution for injection prefilled pen
+hhQ..,EVEROLIMUS
+hhQ1.,AFINITOR 10mg tablets
+hhQz.,EVEROLIMUS 10mg tablets
+hhQ2.,AFINITOR 5mg tablets
+hhQy.,EVEROLIMUS 5mg tablets
+h8F..,TOCILIZUMAB
+h8F1.,ROACTEMRA 80mg/4mL infusion concentrate
+h8F2.,ROACTEMRA 200mg/10mL infusion concentrate
+h8F3.,ROACTEMRA 400mg/20mL infusion concentrate
+h8Fz.,TOCILIZUMAB 80mg/4mL infusion concentrate
+h8Fy.,TOCILIZUMAB 200mg/10mL infusion concentrate
+h8Fx.,TOCILIZUMAB 400mg/20mL infusion concentrate
+h8G..,CERTOLIZUMAB PEGOL
+h8G1.,CERTOLIZUMAB PEGOL 200mg solution for injection pfs
+h8G2.,CIMZIA 200mg solution for injection prefilled syringe
+h82H.,DEXIMUNE 25mg capsules
+h82I.,DEXIMUNE 50mg capsules
+h82J.,DEXIMUNE 100mg capsules
+h83C.,MODIGRAF 200micrograms/sachet granules for oral suspension
+h83u.,TACROLIMUS 200micrograms/sachet granules for oral suspension
+h83D.,MODIGRAF 1mg/sachet granules for oral suspension
+h83t.,TACROLIMUS 1mg/sachet granules for oral suspension
+h8H..,CANAKINUMAB
+h8H1.,ILARIS 150mg powder for solution for injection
+h8H2.,CANAKINUMAB 150mg powder for solution for injection
+h46..,VINFLUNINE DITARTRATE
+h461.,JAVLOR 50mg/2mL concentrate for solution for infusion
+h46z.,VINFLUNINE 50mg/2mL concentrate for solution for infusion
+h462.,JAVLOR 100mg/4mL concentrate for solution for infusion
+h46y.,VINFLUNINE 100mg/4mL concentrate for solution for infusion
+h463.,JAVLOR 250mg/10mL concentrate for solution for infusion
+h46x.,VINFLUNINE 250mg/10mL concentrate for solution for infusion
+h97..,MIFAMURTIDE
+h97z.,MIFAMURTIDE 4mg injection (pdr for recon)
+h971.,MEPACT 4mg injection (pdr for recon)
+j542.,QUINORIC 200mg tablets
+h98..,HISTAMINE
+h981.,HISTAMINE DIHYDROCHLORIDE 0.5mg/0.5mL solution for injection
+h982.,CEPLENE 500micrograms/0.5mL solution for injection
+hhS..,PAZOPANIB
+hhS1.,PAZOPANIB 200mg tablets
+hhS2.,VOTRIENT 200mg tablets
+hhS3.,PAZOPANIB 400mg tablets
+hhS4.,VOTRIENT 400mg tablets
+ha3A.,REBIF 8.8mcg/0.1mL+22mcg/0.25mL inj cartridge start pack
+ha3B.,INTERFERON BETA-1A 8.8mcg/0.1mL+22mcg/0.25mL cart start pack
+ha3C.,REBIF 22micrograms/0.5mL solution for injection cartridges
+ha3D.,INTERFERON BETA-1A 22mcg/0.5mL soln for injection cartridges
+ha3E.,REBIF 44micrograms/0.5mL solution for injection cartridges
+ha3F.,INTERFERON BETA-1A 44mcg/0.5mL soln for injection cartridges
+h5E5.,DOCETAXEL 20mg/1ml concentrate for solution for infusion
+h5E6.,DOCETAXEL 80mg/4mL concentrate for solution for infusion
+h5E7.,TAXOTERE 20mg/1mL concentrate for solution for infusion
+h5E8.,TAXOTERE 80mg/4mL concentrate for solution for infusion
+h83E.,ADOPORT 500micrograms capsules
+h83F.,ADOPORT 1mg capsules
+h83G.,ADOPORT 5mg capsules
+h5J7.,TEMOMEDAC 5mg capsules
+h5J8.,TEMOMEDAC 20mg capsules
+h1e..,BENDAMUSTINE HYDROCHLORIDE
+h1e1.,BENDAMUSTINE HCL 25mg powder for conc for soln for infusion
+h1e2.,LEVACT 25mg powder for concentrate for solution for infusion
+h1e3.,BENDAMUSTINE HCL 100mg powder for conc for soln for infusion
+h1e4.,LEVACT 100mg powder for concentrate for soln for infusion
+h856.,RAPAMUNE 500micrograms tablets
+h85u.,SIROLIMUS 500micrograms tablets
+h82K.,CAPIMUNE 25mg capsules
+h82L.,CAPIMUNE 50mg capsules
+h82M.,CAPIMUNE 100mg capsules
+h8I..,GOLIMUMAB
+h8I1.,SIMPONI 50mg/0.5mL solution for injection prefilled pen
+h8I2.,GOLIMUMAB 50mg/0.5mL solution for injection prefilled pen
+h8I3.,SIMPONI 50mg/0.5mL solution for injection prefilled syringe
+h8I4.,GOLIMUMAB 50mg/0.5mL soln for injection prefilled syringe
+h1c2.,TEPADINA 100mg powder for concentrate for soln for infusion
+h1c3.,THIOTEPA 100mg injection (pdr for recon)
+h5E9.,DOCETAXEL 160mg/8mL concentrate for solution for infusion
+h5EA.,TAXOTERE 160mg/8mL concentrate for solution for infusion
+h1c4.,TEPADINA 15mg powder for concentrate for soln for infusion
+h3C3.,PEMETREXED 100mg powder for conc for solution for injection
+h3C4.,ALIMTA 100mg powder for conc for solution for infusion
+h34V.,METOJECT 30mg/0.6mL solution for injection prefilled syringe
+h34W.,METHOTREXATE 30mg/0.6mL solution for injection pfs
+h84a.,ARZIP 250mg capsules
+h84b.,ARZIP 500mg tablets
+h5EB.,DOCETAXEL 20mg/2mL concentrate for solution for infusion
+h5EC.,DOCETAXEL 80mg/8mL concentrate for solution for infusion
+h5ED.,DOCETAXEL 160mg/16mL concentrate for solution for infusion
+ha3G.,REBIF 8.8mcg/0.2mL+22mcg/0.5mL inj prefilled pen start pack
+ha3H.,INTERFERON BETA-1A 8.8mcg/0.2mL+22mcg/0.5mL pen start pack
+ha3I.,REBIF 22micrograms/0.5mL soln for injection prefilled pen
+ha3J.,INTERFERON BETA-1A 22micrograms/0.5mL prefilled pen
+ha3K.,REBIF 44micrograms/0.5mL soln for injection prefilled pen
+ha3L.,INTERFERON BETA-1A 44micrograms/0.5mL prefilled pen
+h34X.,EBETREX 7.5mg/0.75mL soln for injection prefilled syringe
+h34Y.,EBETREX 10mg/1mL solution for injection prefilled syringe
+h34Z.,EBETREX 15mg/1.5mL solution for injection prefilled syringe
+h3G..,METHOTREXATE(2)
+h3G1.,EBETREX 20mg/1mL solution for injection prefilled syringe
+h3G2.,EBETREX 25mg/1.25mL solution for injection prefilled syringe
+h3G3.,EBETREX 30mg/1.5mL solution for injection prefilled syringe
+h3G4.,METHOTREXATE 20mg/1mL solution for injection p/f syringe
+h3G5.,METHOTREXATE 25mg/1.25mL solution for injection p/f syringe
+h3G6.,METHOTREXATE 30mg/1.5mL solution for injection p/f syringe
+h5EE.,TAXCEUS 20mg/1mL concentrate for solution for infusion
+h5EF.,TAXCEUS 80mg/4mL concentrate for solution for infusion
+h5EG.,TAXCEUS 140mg/7mL concentrate for solution for infusion
+h5EH.,DOCETAXEL 140mg/7mL concentrate for solution for infusion
+h83H.,VIVADEX 500micrograms capsules
+h83I.,VIVADEX 1mg capsules
+h83J.,VIVADEX 5mg capsules
+hhT1.,HALAVEN 0.88mg/2mL solution for injection
+hhT..,ERIBULIN MESYLATE
+hhTZ.,ERIBULIN 0.88mg/2mL solution for injection
+h365.,GEMCITABINE 200mg/5.3mL conc for solution for infusion
+h366.,GEMCITABINE 1g/26.3mL concentrate for solution for infusion
+h367.,GEMCITABINE 2g/52.6mL concentrate for solution for infusion
+hhL2.,TASIGNA 150mg capsules
+hhLy.,NILOTINIB 150mg capsules
+hhU..,CABAZITAXEL
+hhU1.,JEVTANA 60mg concentrate+solvent for solution for infusion
+hhU2.,CABAZITAXEL 60mg concentrate+solvent for soln for infusion
+h8J..,FINGOLIMOD
+h8J1.,GILENYA 500micrograms capsules
+h8J2.,FINGOLIMOD 500micrograms capsules
+h3G7.,METOJECT 12.5mg/0.25mL soln for injection prefilled syringe
+h3G8.,METHOTREXATE 12.5mg/0.25mL solution for injection pfs
+h3GA.,METHOTREXATE 17.5mg/0.35mL solution for injection pfs
+h3GB.,METOJECT 22.5mg/0.45mL soln for injection prefilled syringe
+h3GC.,METHOTREXATE 22.5mg/0.45mL solution for injection pfs
+h3GD.,METOJECT 27.5mg/0.55mL soln for injection prefilled syringe
+h3GE.,METHOTREXATE 27.5mg/0.55mL solution for injection pfs
+h3G9.,METOJECT 17.5mg/0.35mL soln for injection prefilled syringe
+hhV..,AMINOLEVULINIC ACID
+hhV1.,GLIOLAN 1.5g powder for oral solution
+hhV2.,5-AMINOLEVULINIC ACID HYDROCHLORIDE 1.5g pdr for oral soln
+ha3M.,AVONEX 30micrograms/0.5mL soln for injection prefilled pen
+ha3N.,INTERFERON BETA-1A 30micrograms/0.5mL prefilled pen
+h82N.,CAPSORIN 25mg capsules
+h82O.,CAPSORIN 50mg capsules
+h82P.,CAPSORIN 100mg capsules
+hhW..,IPILIMUMAB
+hhW1.,YERVOY 200mg/40mL concentrate for solution for infusion
+hhW2.,IPILIMUMAB 200mg/40mL concentrate for solution for injection
+hhW3.,YERVOY 50mg/10mL concentrate for solution for infusion
+hhW4.,IPILIMUMAB 50mg/10mL concentrate for solution for injection
+h8K..,BELIMUMAB
+h8K1.,BENLYSTA 120mg powder for concentrate for soln for infusion
+h8K2.,BELIMUMAB 120mg powder for conc for solution for injection
+h8K3.,BENLYSTA 400mg powder for concentrate for soln for infusion
+h8K4.,BELIMUMAB 400mg powder for conc for solution for injection
+hhG5.,DASATINIB 80mg tablets
+hhGv.,SPRYCEL 80mg tablets
+hhG6.,DASATINIB 140mg tablets
+hhGu.,SPRYCEL 140mg tablets
+h8L..,BELATACEPT
+h8L1.,NULOJIX 250mg powder for concentrate for soln for infusion
+h8L2.,BELATACEPT 250mg powder for conc for solution for injection
+hhQ3.,VOTUBIA 2.5mg tablets
+hhQx.,EVEROLIMUS 2.5mg tablets
+hhQ4.,VOTUBIA 5mg tablets
+hhX..,CATUMAXOMAB
+hhX1.,REMOVAB 50mcg/0.5mL concentrate for soln for infusion pfs
+hhX2.,CATUMAXOMAB 50mcg/0.5mL conc for solution for infusion pfs
+hhX3.,REMOVAB 10mcg/0.1mL concentrate for soln for infusion pfs
+hhX4.,CATUMAXOMAB 10mcg/0.1mL conc for solution for infusion pfs
+h89t.,ENBREL 10mg powder+solvent for solution for injection
+h896.,ETANERCEPT 10mg powder+solvent for solution for injection
+h5F8.,POTACTASOL 4mg powder for conc for solution for infusion
+h5F9.,POTACTASOL 1mg powder for conc for solution for infusion
+hhY..,VEMURAFENIB
+hhY1.,ZELBORAF 240mg tablets
+hhY2.,VEMURAFENIB 240mg tablets
+hhZ..,VANDETANIB
+hhZ1.,CAPRELSA 100mg tablets
+hhZ2.,VANDETANIB 100mg tablets
+hhZ3.,CAPRELSA 300mg tablets
+hhZ4.,VANDETANIB 300mg tablets
+h3H..,TEGAFUR
+h3H1.,TEYSUNO 15mg/4.35mg/11.8mg capsules
+h3H2.,TEYSUNO 20mg/5.8mg/15.8mg capsules
+h3H3.,TEGAFUR+GIMERACIL+OTERACIL 15mg/4.35mg/11.8mg capsules
+h3H4.,TEGAFUR+GIMERACIL+OTERACIL 20mg/5.8mg/15.8mg capsules
+h83K.,CAPEXION 500micrograms capsules
+h83L.,CAPEXION 1mg capsules
+h83M.,CAPEXION 5mg capsules
+h222.,"BLEO-KYOWA 15,000iu powder for solution for injection"
+hha..,RUXOLITINIB
+hha1.,JAKAVI 5mg tablets
+hha2.,RUXOLITINIB 5mg tablets
+hha3.,JAKAVI 15mg tablets
+hha5.,JAKAVI 20mg tablets
+hha6.,RUXOLITINIB 20mg tablets
+h332.,XALUPRINE 20mg/mL oral suspension
+h33y.,MERCAPTOPURINE 20mg/mL oral suspension
+hhb..,AXITINIB
+hhb1.,INLYTA 1mg tablets
+hhb2.,AXITINIB 1mg tablets
+hhb3.,INLYTA 5mg tablets
+hhb4.,AXITINIB 5mg tablets
+hhc..,CRIZOTINIB
+hhc1.,XALKORI 200mg capsules
+hhc2.,XALKORI 250mg capsules
+hhc3.,CRIZOTINIB 200mg capsules
+hhc4.,CRIZOTINIB 250mg capsules
+h368.,GEMCITABINE 200mg/2mL concentrate for solution for infusion
+h369.,GEMCITABINE 1g/10mL concentrate for solution for infusion
+h36A.,GEMCITABINE 2g/20mL concentrate for solution for infusion
+hhd1.,ADCETRIS 50mg powder for concentrate for soln for infusion
+hhd..,BRENTUXIMAB VEDOTIN
+hhd2.,BRENTUXIMAB VEDOTIN 50mg powder for conc for soln for inj
+h3I..,DECITABINE
+h3I1.,DACOGEN 50mg powder for concentrate for soln for infusion
+h3I2.,DECITABINE 50mg powder for conc for solution for injection
+h8C2.,ORENCIA 125mg/1mL solution for injection prefilled syringe
+h8Cy.,ABATACEPT 125mg/1mL solution for injection prefilled syringe
+hhQ5.,VOTUBIA 10mg tablets
+kbG3.,ZALTRAP 100mg/4mL concentrate for solution for infusion
+kbG4.,AFLIBERCEPT 100mg/4mL concentrate for solution for injection
+kbG5.,ZALTRAP 200mg/8mL concentrate for solution for infusion
+kbG6.,AFLIBERCEPT 200mg/8mL concentrate for solution for injection
+hhe..,PERTUZUMAB
+hhe1.,PERJETA 420mg/14mL concentrate for solution for infusion
+hhe2.,PERTUZUMAB 420mg/14mL concentrate for solution for injection
+hhf..,BOSUTINIB
+hhf1.,BOSULIF 100mg tablets
+hhf2.,BOSUTINIB 100mg tablets
+hhf3.,BOSULIF 500mg tablets
+hhf4.,BOSUTINIB 500mg tablets
+ha3O.,PEGASYS 90micrograms/0.5mL soln for inj prefilled syringe
+ha3P.,PEGINTERFERON ALFA-2A 90micrograms/0.5mL soln for inj pfs
+hhg..,PONATINIB
+hhg1.,ICLUSIG 15mg tablets
+hhg2.,ICLUSIG 45mg tablets
+hhg3.,PONATINIB 15mg tablets
+hhg4.,PONATINIB 45mg tablets
+hhh..,REGORAFENIB
+hhh1.,REGORAFENIB 40mg tablets
+hhh2.,STIVARGA 40mg tablets
+ha3Q.,VIRAFERONPEG CLEARCLICK 50mcg/0.5mL pdr+solv for inj p/f pen
+ha3R.,VIRAFERONPEG CLEARCLICK 80mcg/0.5mL pdr+solv for inj p/f pen
+ha3S.,VIRAFERONPEG CLEARCLICK 100mcg/0.5mL pdr+solv inj p/f pen
+ha3T.,VIRAFERONPEG CLEARCLICK 120mcg/0.5mL pdr+solv inj p/f pen
+ha3U.,VIRAFERONPEG CLEARCLICK 150mcg/0.5mL pdr+solv inj p/f pen
+hhi..,VISMODEGIB
+hhi1.,ERIVEDGE 150mg capsules
+hhi2.,VISMODEGIB 150mg capsules
+hh22.,HERCEPTIN 600mg/5mL solution for injection
+hh2y.,TRASTUZUMAB 600mg/5mL solution for injection
+h5M..,PIXANTRONE
+h5M1.,PIXANTRONE 29mg powder for conc for solution for injection
+h5M2.,PIXUVRI 29mg powder for conc for solution for infusion
+h3Ax.,CAPECITABINE 300mg tablets
+hhj..,AFATINIB
+hhj1.,GIOTRIF 20mg tablets
+hhj2.,AFATINIB 20mg tablets
+hhj3.,GIOTRIF 30mg tablets
+hhj4.,AFATINIB 30mg tablets
+hhj5.,GIOTRIF 40mg tablets
+hhj6.,AFATINIB 40mg tablets
+hhj7.,GIOTRIF 50mg tablets
+hhj8.,AFATINIB 50mg tablets
+h8N..,POMALIDOMIDE
+h8N1.,IMNOVID 1mg capsules
+h8N2.,POMALIDOMIDE 1mg capsules
+h8N3.,IMNOVID 2mg capsules
+h8N4.,POMALIDOMIDE 2mg capsules
+h8N5.,IMNOVID 3mg capsules
+h8N6.,POMALIDOMIDE 3mg capsules
+h8N7.,IMNOVID 4mg capsules
+h8N8.,POMALIDOMIDE 4mg capsules
+hhH5.,REVLIMID 2.5mg capsules
+hhHv.,LENALIDOMIDE 2.5mg capsules
+j59w.,LEFLUNOMIDE 15mg tablets
+hhk..,DABRAFENIB
+hhk1.,TAFINLAR 50mg capsules
+hhk2.,DABRAFENIB 50mg capsules
+hhk3.,TAFINLAR 75mg capsules
+hhk4.,DABRAFENIB 75mg capsules
+dA4..,TERIFLUNOMIDE
+dA41.,AUBAGIO 14mg tablets
+dA42.,TERIFLUNOMIDE 14mg tablets
+hhl..,TRASTUZUMAB EMTANSINE
+hhl1.,KADCYLA 100mg powder for concentrate for soln for infusion
+hhl2.,TRASTUZUMAB EMTANSINE 100mg pdr for conc for soln injection
+hhl3.,KADCYLA 160mg powder for concentrate for soln for infusion
+hhl4.,TRASTUZUMAB EMTANSINE 160mg pdr for conc for soln injection
+dA5..,DIMETHYL FUMARATE
+dA51.,TECFIDERA 120mg gastro-resistant capsules
+dA52.,DIMETHYL FUMARATE 120mg gastro-resistant capsules
+dA53.,TECFIDERA 240mg gastro-resistant capsules
+dA54.,DIMETHYL FUMARATE 240mg gastro-resistant capsules
+h8I5.,SIMPONI 100mg/1mL solution for injection prefilled pen
+h8I6.,GOLIMUMAB 100mg/1mL solution for injection prefilled pen
+hhb5.,INLYTA 3mg tablets
+hhb6.,AXITINIB 3mg tablets
+hhb7.,INLYTA 7mg tablets
+hhb8.,AXITINIB 7mg tablets
+h83N.,PERIXIS 500micrograms capsules
+h83O.,PERIXIS 1mg capsules
+h83P.,PERIXIS 5mg capsules
+hhQ6.,AFINITOR 2.5mg tablets
+h8F4.,ROACTEMRA 162mg/0.9mL soln for injection prefilled syringe
+h8Fw.,TOCILIZUMAB 162mg/0.9mL soln for injection prefilled syringe
+h8O..,SILTUXIMAB
+h8O1.,SYLVANT 100mg powder for concentrate for soln for infusion
+h8O2.,SILTUXIMAB 100mg powder for conc for solution for injection
+h8O3.,SYLVANT 400mg powder for concentrate for soln for infusion
+h8O4.,SILTUXIMAB 400mg powder for conc for solution for injection
+h3GF.,METOJECT PEN 7.5mg/0.15mL soln for injection prefilled pen
+h3GG.,METHOTREXATE 7.5mg/0.15mL soln for injection prefilled pen
+h3GH.,METOJECT PEN 10mg/0.2mL solution for injection prefilled pen
+h3GI.,METHOTREXATE 10mg/0.2mL solution for injection prefilled pen
+h3GJ.,METOJECT PEN 12.5mg/0.25mL soln for injection prefilled pen
+h3GK.,METHOTREXATE 12.5mg/0.25mL soln for injection prefilled pen
+h3GL.,METOJECT PEN 15mg/0.3mL solution for injection prefilled pen
+h3GM.,METHOTREXATE 15mg/0.3mL solution for injection prefilled pen
+h3GN.,METOJECT PEN 17.5mg/0.35mL soln for injection prefilled pen
+h3GO.,METHOTREXATE 17.5mg/0.35mL soln for injection prefilled pen
+h3GP.,METOJECT PEN 20mg/0.4mL solution for injection prefilled pen
+h3GQ.,METHOTREXATE 20mg/0.4mL solution for injection prefilled pen
+h3GR.,METOJECT PEN 22.5mg/0.45mL soln for injection prefilled pen
+h3GS.,METHOTREXATE 22.5mg/0.45mL soln for injection prefilled pen
+h3GT.,METOJECT PEN 25mg/0.5mL solution for injection prefilled pen
+h3GU.,METHOTREXATE 25mg/0.5mL solution for injection prefilled pen
+h3GV.,METOJECT PEN 27.5mg/0.55mL soln for injection prefilled pen
+h3GW.,METHOTREXATE 27.5mg/0.55mL soln for injection prefilled pen
+h3GX.,METOJECT PEN 30mg/0.6mL solution for injection prefilled pen
+h3GY.,METHOTREXATE 30mg/0.6mL solution for injection prefilled pen
+hhn..,IDELALISIB
+hhn1.,ZYDELIG 100mg tablets
+hhn2.,IDELALISIB 100mg tablets
+hhn3.,ZYDELIG 150mg tablets
+hhn4.,IDELALISIB 150mg tablets
+ha3V.,PLEGRIDY 63mcg/0.5mL+94mcg/0.5mL soln for inj pen pack
+ha3W.,PEGINTERFERON BETA-1A 63mcg/0.5mL+94mcg/0.5mL inj pen pack
+ha3X.,PLEGRIDY 125micrograms/0.5mL soln for inj prefilled pen
+ha3Y.,PEGINTERFERON BETA-1A 125micrograms/0.5mL soln for inj pen
+h83Q.,ENVARSUS 750micrograms m/r tablets
+h83R.,ENVARSUS 1mg m/r tablets
+h83S.,ENVARSUS 4mg m/r tablets
+h83s.,TACROLIMUS 750micrograms m/r tablets
+h83r.,TACROLIMUS 1mg m/r tablets
+h83q.,TACROLIMUS 4mg m/r tablets
+h71A.,AZAPRESS 50mg tablets
+hho..,RAMUCIRUMAB
+hho1.,CYRAMZA 100mg/10mL concentrate for solution for infusion
+hho2.,CYRAMZA 500mg/50mL concentrate for solution for infusion
+hho4.,RAMUCIRUMAB 500mg/50mL solution for injection
+hho3.,RAMUCIRUMAB 100mg/10mL solution for injection
+hhp..,IBRUTINIB
+hhp1.,IMBRUVICA 140mg capsules
+hhq..,NINTEDANIB
+hhq1.,VARGATEF 100mg capsules
+hhq2.,VARGATEF 150mg capsules
+hhq3.,NINTEDANIB 100mg capsules
+hhq4.,NINTEDANIB 150mg capsules
+h14c.,CYCLOPHOSPHAMIDE 2g powder for solution for injection
+hhr..,CABOZANTINIB
+hhr1.,COMETRIQ 20mg capsules
+hhr2.,COMETRIQ 20mg+80mg capsules
+hhr3.,CABOZANTINIB 20mg capsules
+hhp2.,IBRUTINIB 140mg capsules
+h8Q..,APREMILAST
+h8Q1.,OTEZLA 30mg tablets
+h8Q2.,APREMILAST 30mg tablets
+h8Q3.,OTEZLA 10mg+20mg+30mg tablets initiation pack
+h8Q4.,APREMILAST 10mg+20mg+30mg tablets initiation pack
+hhr4.,CABOZANTINIB 20mg+80mg capsules
+h8B2.,INFLECTRA 100mg powder for concentrate for soln for infusion
+h8B3.,REMSIMA 100mg powder for concentrate for soln for infusion
+hhQ7.,CERTICAN 0.25mg tablets
+hhQ8.,EVEROLIMUS 250micrograms tablets
+hhQ9.,CERTICAN 0.5mg tablets
+hhQA.,EVEROLIMUS 500micrograms tablets
+hhQB.,CERTICAN 0.75mg tablets
+hhQC.,EVEROLIMUS 750micrograms tablets
+h8C3.,ORENCIA 125mg/1mL solution for injection prefilled pen
+h8C4.,ABATACEPT 125mg/1mL solution for injection prefilled pen
+h83T.,ADOPORT 0.75mg capsules
+h83p.,TACROLIMUS 750micrograms capsules
+h83U.,ADOPORT 2mg capsules
+h83o.,TACROLIMUS 2mg capsules
+hhs..,OLAPARIB
+hhs1.,LYNPARZA 50mg capsules
+hhs2.,OLAPARIB 50mg capsules
+hht..,NIVOLUMAB
+hht1.,OPDIVO 40mg/4mL concentrate for solution for infusion
+hht2.,OPDIVO 100mg/10mL concentrate for solution for infusion
+hht4.,NIVOLUMAB 100mg/10mL solution for injection
+hht3.,NIVOLUMAB 40mg/4mL solution for injection
+hhu..,LENVATINIB
+hhu1.,LENVIMA 4mg capsules
+hhu2.,LENVATINIB 4mg capsules
+hhu3.,LENVIMA 10mg capsules
+hhu4.,LENVATINIB 10mg capsules
+hhv..,PEMBROLIZUMAB
+hhv1.,KEYTRUDA 50mg powder for concentrate for soln for infusion
+hhv2.,PEMBROLIZUMAB 50mg powder for solution for injection
+h5C4.,FLUDARABINE PHOSPHATE 50mg/2mL solution for injection
+h56w.,MITOXANTRONE 10mg/5mL solution for injection
+hhw..,CERITINIB
+hhw1.,ZYKADIA 150mg capsules
+hhw2.,CERITINIB 150mg capsules
+dA13.,COPAXONE 40mg/1mL solution for injection prefilled syringe
+dA1x.,GLATIRAMER ACETATE 40mg/1mL soln for inj prefilled syringe
+h3GZ.,METHOTREXATE 2mg/mL oral solution
+hhx..,CARFILZOMIB
+hhx1.,KYPROLIS 60mg powder for solution for infusion
+hhx2.,CARFILZOMIB 60mg powder for solution for injection
+hhy..,BLINATUMOMAB
+hhy1.,BLINCYTO 38.5mcg pdr for concentrate for soln for infusion
+hhy2.,BLINATUMOMAB 38.5micrograms powder for soln for injection
+hhz..,TRAMETINIB
+hhz1.,MEKINIST 0.5mg tablets
+hhz3.,MEKINIST 2mg tablets
+hhz2.,TRAMETINIB 500micrograms tablets
+hhz4.,TRAMETINIB 2mg tablets
+hi...,OTHER ANTINEOPLASTIC AGENTS(2)
+hi1..,COBIMETINIB
+hi11.,COTELLIC 20mg tablets
+hi12.,COBIMETINIB 20mg tablets
+h3C5.,PEMETREXED 100mg/4mL solution for injection
+h3C6.,PEMETREXED 500mg/20mL solution for injection
+h3C7.,PEMETREXED 1000mg/40mL solution for injection

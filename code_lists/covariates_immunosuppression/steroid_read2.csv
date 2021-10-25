@@ -1,0 +1,88 @@
+code,description
+ai2..,rectal prednisolone
+fc...,steroid disease suppression [no drugs here]
+fd...,corticosteroid disadvantages [no drugs here]
+fe...,corticosteroid clinical use
+fe1..,betamethasone
+fe11.,betnelan 500micrograms tablets
+fe12.,*betnesol 500micrograms tabs
+fe1y.,betamethasone 500microgram tablets
+fe24.,*cortistab 5mg tablets
+fe25.,*cortistab 25mg tablets
+fe26.,*cortisyl 25mg tablets
+fe3..,dexamethasone [endocrine]
+fe31.,dexamethasone 500micrograms tablets
+fe32.,dexamethasone 2mg tablets
+fe33.,decadron 500micrograms tablets
+fe5..,methylprednisolone [endocrine]
+fe51.,medrone 2mg tablets
+fe52.,medrone 4mg tablets
+fe53.,medrone 16mg tablets
+fe5n.,methylprednisolone 2mg tablets
+fe5o.,methylprednisolone 4mg tablets
+fe5p.,methylprednisolone 16mg tablets
+fe6..,prednisolone [endocrine]
+fe61.,prednisolone 1mg tablets
+fe62.,prednisolone 5mg tablets
+fe65.,deltacortril enteric 2.5mg tablets
+fe66.,deltacortril enteric 5mg tablets
+fe69.,*deltastab 1mg tablets
+fe6a.,*deltastab 5mg tablets
+fe6c.,*precortisyl 1mg tablets
+fe6d.,*precortisyl 5mg tablets
+fe6e.,precortisyl forte 25mg tablets
+fe6f.,*prednesol 5mg tablets
+fe6g.,*sintisone 5mg tablets
+fe6h.,prednisolone 2.5mg e/c tablets
+fe6i.,prednisolone 5mg e/c tablets
+fe6v.,prednisolone 2.5mg tablets
+fe6z.,prednisolone 25mg tablets
+fe7..,prednisone
+fe71.,*prednisone 1mg tablets
+fe72.,*prednisone 5mg tablets
+fe73.,*decortisyl 5mg tablets
+fe8..,triamcinolone [endocrine]
+fe81.,*triamcinolone 2mg tablets
+fe82.,*triamcinolone 4mg tablets
+fe86.,*ledercort 2mg tablets
+fe87.,*ledercort 4mg tablets
+fe5f.,medrone 100mg tablets
+fe5m.,methylprednisolone 100mg tablets
+fe1x.,betamethasone 500micrograms soluble tablets
+fe6j.,prednisolone 5mg soluble tablets
+fe6k.,prednisolone 50mg tablets
+aa9..,budesonide [gastro-intestinal use]
+aa91.,budesonide 3mg m/r capsules
+aa92.,entocort cr 3mg m/r capsules
+fe9..,deflazacort
+fe91.,deflazacort 6mg tablets
+fe92.,calcort 6mg tablets
+ai3..,rectal budesonide
+fe93.,*deflazacort 30mg tablets
+fe94.,*calcort 30mg tablets
+fe95.,*deflazacort 1mg tablets
+fe96.,*calcort 1mg tablets
+aa9z.,budesonide 3mg capsules
+aa93.,budenofalk 3mg capsules
+aaB..,beclometasone [gastro-intestinal use]
+aaB1.,clipper 5mg e/c m/r tablets
+aaBz.,beclometasone dipropionate 5mg e/c m/r tablets
+fe77.,lodotra 2mg m/r tablets
+fe78.,lodotra 5mg m/r tablets
+fe7z.,prednisone 1mg m/r tablets
+fe7y.,prednisone 2mg m/r tablets
+fe7x.,prednisone 5mg m/r tablets
+fe79.,lodotra 1mg m/r tablets
+fe4e.,plenadren 5mg m/r tablets
+fe4g.,plenadren 20mg m/r tablets
+fe6l.,dilacort 5mg gastro-resistant tablets
+fe6m.,dilacort 2.5mg gastro-resistant tablets
+fe6n.,pevanti 2.5mg tablets
+fe6p.,pevanti 5mg tablets
+fe6q.,pevanti 10mg tablets
+fe6r.,pevanti 20mg tablets
+fe6s.,prednisolone 20mg tablets
+fe6t.,prednisolone 10mg tablets
+fe6o.,pevanti 25mg tablets
+aa96.,cortiment 9mg m/r tablets
+aa97.,budesonide 9mg m/r tablets

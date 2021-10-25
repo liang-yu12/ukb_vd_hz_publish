@@ -1,0 +1,88 @@
+code,description
+J841,J84.1 Other interstitial pulmonary diseases with fibrosis
+B221,B22.1 HIV disease resulting in lymphoid interstitial pneumonitis
+D862,D86.2 Sarcoidosis of lung with sarcoidosis of lymph nodes
+E849,"E84.9 Cystic fibrosis, unspecified"
+E840,E84.0 Cystic fibrosis with pulmonary manifestations
+E841,E84.1 Cystic fibrosis with intestinal manifestations
+J219,"J21.9 Acute bronchiolitis, unspecified"
+J449,"J44.9 Chronic obstructive pulmonary disease, unspecified"
+J67,J67 Hypersensitivity pneumonitis due to organic dust
+J410,J41.0 Simple chronic bronchitis
+J411,J41.1 Mucopurulent chronic bronchitis
+J448,J44.8 Other specified chronic obstructive pulmonary disease
+J684,"J68.4 Chronic respiratory conditions due to chemicals, gases, fumes and vapours"
+J701,J70.1 Chronic and other pulmonary manifestations due to radiation
+J441,"J44.1 Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+J418,J41.8 Mixed simple and mucopurulent chronic bronchitis
+J439,"J43.9 Emphysema, unspecified"
+J438,J43.8 Other emphysema
+J431,J43.1 Panlobular emphysema
+J432,J43.2 Centrilobular emphysema
+J430,J43.0 MacLeod's syndrome
+Q334,Q33.4 Congenital bronchiectasis
+J679,J67.9 Hypersensitivity pneumonitis due to unspecified organic dust
+J670,J67.0 Farmer's lung
+J671,J67.1 Bagassosis
+J672,J67.2 Bird fancier's lung
+J673,J67.3 Suberosis
+J674,J67.4 Maltworker's lung
+J675,J67.5 Mushroom-worker's lung
+J676,J67.6 Maple-bark-stripper's lung
+J677,J67.7 Air-conditioner and humidifier lung
+J678,J67.8 Hypersensitivity pneumonitis due to other organic dusts
+J440,J44.0 Chronic obstructive pulmonary disease with acute lower respiratory infection
+J628,J62.8 Pneumoconiosis due to other dust containing silica
+J620,J62.0 Pneumoconiosis due to talc dust
+J638,J63.8 Pneumoconiosis due to other specified inorganic dusts
+J630,J63.0 Aluminosis (of lung)
+J631,J63.1 Bauxite fibrosis (of lung)
+J632,J63.2 Berylliosis
+J633,J63.3 Graphite fibrosis (of lung)
+J634,J63.4 Siderosis
+J635,J63.5 Stannosis
+J668,J66.8 Airway disease due to other specific organic dusts
+J660,J66.0 Byssinosis
+J662,J66.2 Cannabinosis
+J680,"J68.0 Bronchitis and pneumonitis due to chemicals, gases, fumes and vapours"
+J688,"J68.8 Other respiratory conditions due to chemicals, gases, fumes and vapours"
+J690,J69.0 Pneumonitis due to food and vomit
+J954,J95.4 Mendelson's syndrome
+O290,O29.0 Pulmonary complications of anaesthesia during pregnancy
+O740,O74.0 Aspiration pneumonitis due to anaesthesia during labour and delivery
+O890,O89.0 Pulmonary complications of anaesthesia during the puerperium
+J700,J70.0 Acute pulmonary manifestations due to radiation
+J704,"J70.4 Drug-induced interstitial lung disorder, unspecified"
+J702,J70.2 Acute drug-induced interstitial lung disorders
+J703,J70.3 Chronic drug-induced interstitial lung disorders
+J850,J85.0 Gangrene and necrosis of lung
+J708,J70.8 Respiratory conditions due to other specified external agents
+J709,J70.9 Respiratory conditions due to unspecified external agent
+J848,J84.8 Other specified interstitial pulmonary diseases
+D860,D86.0 Sarcoidosis of lung
+J982,J98.2 Interstitial emphysema
+J983,J98.3 Compensatory emphysema
+M32,M32 Systemic lupus erythematosus
+M33,M33 Dermatopolymyositis
+M34,M34 Systemic sclerosis
+M35,M35 Other systemic involvement of connective tissue
+J961,J96.1 Chronic respiratory failure
+J953,J95.3 Chronic pulmonary insufficiency following surgery
+J698,J69.8 Pneumonitis due to other solids and liquids
+Q336,Q33.6 Hypoplasia and dysplasia of lung
+B205,B20.5 HIV disease resulting in other mycoses
+T868,T86.8 Failure and rejection of other transplanted organs and tissues
+J920,J92.0 Pleural plaque with presence of asbestos
+J44,J44 Other chronic obstructive pulmonary disease
+J62,J62 Pneumoconiosis due to dust containing silica
+J63,J63 Pneumoconiosis due to other inorganic dusts
+D868,D86.8 Sarcoidosis of other and combined sites
+P249,"P24.9 Neonatal aspiration syndrome, unspecified"
+J68,"J68 Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours"
+J689,"J68.9 Unspecified respiratory condition due to chemicals, gases, fumes and vapours"
+P285,P28.5 Respiratory failure of newborn
+E848,E84.8 Cystic fibrosis with other manifestations
+J661,J66.1 Flax-dresser's disease
+J66,J66 Airway disease due to specific organic dust
+I269,I26.9 Pulmonary embolism without mention of acute cor pulmonale
+O882,O88.2 Obstetric blood-clot embolism

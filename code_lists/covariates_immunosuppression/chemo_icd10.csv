@@ -1,0 +1,18 @@
+code,description
+Z081,Follow-up examination after radiotherapy for malignant neoplasm
+Z082,Follow-up examination after chemotherapy for malignant neoplasm
+Z087,Follow-up examination after combined treatment for malignant neoplasm
+Z091,Follow-up examination after radiotherapy for other conditions
+Z092,Follow-up examination after chemotherapy for other conditions
+Z541,Convalescence following radiotherapy
+Z542,Convalescence following chemotherapy
+Z547,Convalescence following combined treatment
+T451,Poisoning: Antineoplastic and immunosuppressive drugs
+U86,Resistance to antineoplastic drugs
+Y431,Antineoplastic antimetabolites
+Y432,Antineoplastic natural products
+Y433,Other antineoplastic drugs
+Z292,Other prophylactic chemotherapy
+Z510,Radiotherapy session
+Z511,Chemotherapy session for neoplasm
+Z512,Other chemotherapy

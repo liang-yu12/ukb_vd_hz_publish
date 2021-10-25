@@ -1,0 +1,99 @@
+code,description
+14B3.,h/o: bronchitis
+14B3.,history of chronic obstructive pulmonary disease
+14OX.,at risk of chronic obstructive pulmonary diseas exacerbation
+1J71.,suspected chronic obstructive pulmonary disease
+2126F,chronic obstructive pulmonary disease resolved
+661M3,copd self-management plan agreed
+661N3,copd self-management plan review
+663K.,airways obstructn irreversible
+66YB.,chronic obstructive pulmonary disease monitoring
+66YB0,chronic obstructive pulmonary disease 3 monthly review
+66YB1,chronic obstructive pulmonary disease 6 monthly review
+66YB2,telehealth chronic obstructive pulmonary disease monitoring
+66YD.,chronic obstructive pulmonary disease monitoring due
+66YI.,copd self-management plan given
+66YL.,chronic obstructive pulmonary disease follow-up
+66YL.,copd follow-up
+66YL.,coad follow-up
+66YM.,chronic obstructive pulmonary disease annual review
+66YS.,chronic obstructive pulmonary disease monitoring by nurse
+66YT.,chronic obstructive pulmonary disease monitoring by doctor
+66Yd.,copd accident and emergency attendance since last visit
+66Ye.,emergency copd admission since last appointment
+66Yg.,chronic obstructive pulmonary disease disturbs sleep
+66Yh.,chronic obstructive pulmonary disease does not disturb sleep
+66Yi.,multiple copd emergency hospital admissions
+8BMW.,issue of chronic obstructive pulmonary disease rescue pack
+8CE6.,chronic obstructive pulmonary disease leaflet given
+8CMV.,has chronic obstructive pulmonary disease care plan
+8CMW5,chronic obstructive pulmonary disease care pathway
+8CR1.,chronic obstructive pulmonary disease clini management plan
+8CeD.,preferred place of care for next exacerbation of copd
+8H2R.,admit copd emergency
+8Hkw.,referral to copd community nursing team
+8IEZ.,chronic obstructive pulmonary disease rescue pack declined
+8IEy.,chronic obstructive pulmon dis wr self managem plan declined
+9NgP.,on chronic obstructive pulmonary disease supprtv cre pathway
+9NgP.,on copd (chr obstruc pulmonary disease) supportv cre pathway
+9Nk70,seen in chronic obstructive pulmonary disease clinic
+9Oi..,chronic obstructive pulmonary disease monitoring admin
+9Oi0.,chronic obstructive pulmonary disease monitoring 1st letter
+9Oi1.,chronic obstructive pulmonary disease monitoring 2nd letter
+9Oi2.,chronic obstructive pulmonary disease monitoring 3rd letter
+9Oi3.,chronic obstructive pulmonary disease monitoring verb invite
+9Oi4.,chronic obstructive pulmonary disease monitor phone invite
+9e03.,gp ooh service notified of copd care plan
+9kf0.,copd patient unsuitable for pulmonary rehab - enh serv admin
+9kf0.,copd patient unsuitable for pulmonary rehabilitation
+9kf1.,refer copd structured smoking assessment - enhanc serv admin
+9kf1.,referred for copd structured smoking assessment
+9kf2.,copd structured smoking assessment declined - enh serv admin
+9kf2.,copd structured smoking assessment declined
+H3...,chronic obstructive pulmonary disease
+H3...,chronic obstructive airways disease
+H30..,bronchitis unspecified
+H30..,chest infection - unspecified bronchitis
+H30..,recurrent wheezy bronchitis
+H302.,wheezy bronchitis
+H30z.,bronchitis nos
+H31..,chronic bronchitis
+H310.,simple chronic bronchitis
+H3100,chronic catarrhal bronchitis
+H310z,simple chronic bronchitis nos
+H311.,mucopurulent chronic bronchitis
+H3110,purulent chronic bronchitis
+H3111,fetid chronic bronchitis
+H311z,mucopurulent chronic bronchitis nos
+H312.,obstructive chronic bronchitis
+H3120,chronic wheezy bronchitis
+H3121,emphysematous bronchitis
+H3122,acute exacerbation of chronic obstructive airways disease
+H312z,obstructive chronic bronchitis nos
+H313.,mixed simple and mucopurulent chronic bronchitis
+H31y.,other chronic bronchitis
+H31yz,other chronic bronchitis nos
+H31z.,chronic bronchitis nos
+H32..,emphysema
+H320.,chronic bullous emphysema
+H3200,segmental bullous emphysema
+H3202,giant bullous emphysema
+H3203,bullous emphysema with collapse
+H320z,chronic bullous emphysema nos
+H321.,panlobular emphysema
+H322.,centrilobular emphysema
+H32z.,emphysema nos
+H36..,mild chronic obstructive pulmonary disease
+H37..,moderate chronic obstructive pulmonary disease
+H38..,severe chronic obstructive pulmonary disease
+H39..,very severe chronic obstructive pulmonary disease
+H3A..,end stage chronic obstructive airways disease
+H3y..,other specified chronic obstructive airways disease
+H3y..,other specified chronic obstructive pulmonary disease
+H3y0.,chronic obstruct pulmonary dis with acute lower resp infectn
+H3y1.,"chron obstruct pulmonary dis wth acute exacerbation, unspec"
+H3z..,chronic obstructive airways disease nos
+H3z..,chronic obstructive pulmonary disease nos
+H4640,chronic emphysema due to chemical fumes
+H581.,interstitial emphysema
+Hyu31,[x]other specified chronic obstructive pulmonary disease

@@ -1,0 +1,471 @@
+code,description
+5135.,Radiological tumour control
+514..,Purpose of radiotherapy
+5141.,Radiotherapy for immunosuppression
+5142.,Radiotherapy for haemopoietic irradiation
+5143.,Radiotherapy for lymphatic irradiation
+5144.,Preoperative course of radiotherapy
+5145.,Radiotherapy - intraoperative control
+5146.,Postoperative course of radiotherapy
+5147.,Radiotherapy for analgesia
+5148.,Radiotherapy for inflammation
+5149.,Palliative course of radiotherapy
+514Z.,Radiotherapy purpose - NOS
+515..,Progress of radiotherapy
+5151.,Radiotherapy started
+5152.,Radiotherapy changed
+5153.,Radiotherapy stopped
+5154.,Radiotherapy completed
+515Z.,Radiotherapy progress NOS
+56B5.,Image: field control:radiother
+591..,X-ray beam therapy
+5911.,Grenz ray therapy up to 10 kV
+5912.,Superficial X-ray therapy 10-60 kV
+5913.,Half-deep therapy 60-150 kV
+5914.,Deep X-ray therapy 150-400 kV
+5915.,Ultrahard X-rays 400-2000 kV
+5916.,Short distance X-ray therapy
+5917.,Intracavitary X-ray therapy
+5918.,Combined X-ray therapy
+591Z.,X-ray beam therapy NOS
+592..,High-energy beam therapy
+5921.,Linear accelerator photon therapy
+5922.,Betatron photon therapy
+5923.,Van der Graaff photon therapy
+5924.,Combined photon therapy
+592Z.,High-energy beam therapy NOS
+593..,Fast-electron therapy
+5931.,Linear accelerator electrons
+5932.,Betatron electron therapy
+5933.,Positron therapy
+5934.,Combined fast-electron therapy
+593Z.,Fast-electron therapy NOS
+594..,Heavy particle therapy
+5941.,Proton therapy
+5942.,Deuteron therapy
+5943.,Pi-meson therapy
+5944.,Neutron capture therapy
+5945.,Fast neutron therapy
+5946.,Combined heavy particle therapy
+594Z.,Heavy particle therapy NOS
+595..,Gamma ray and intermediate distance curietherapy
+5951.,Gamma-ray telecurie therapy
+5952.,Intermediate distance curietherapy
+5953.,Combined teletherapy and intermediate distance curietherapy
+595Z.,Distant gamma therapy NOS
+596..,Short distance and contact radiotherapy
+5961.,Radium contact therapy
+5962.,Beta source contact therapy
+5963.,Mould technique gamma/beta
+596Z.,Short distance/contact radiotherapy NOS
+597..,Combined radiotherapy
+5971.,External beam with internal radiotherapy
+5972.,External beam - surgery with preoperative radiotherapy
+5973.,External beam - surgery with postoperative radiotherapy
+5974.,External beam - surgery with chemotherapy
+5975.,External beam with chemotherapy
+597Z.,Combined radiotherapy NOS
+59Z..,External radiotherapy NOS
+5A...,(Radiotherapy - internal) or (other nuclear therapy)
+5A1..,Internal metabolic radiotherapy
+5A11.,Thyroid gland ablation - irradiation
+5A12.,Thyroid tumour/metastasis irradiation
+5A13.,Bone marrow suppression - irradiation
+5A14.,Polycythaemia irradiation
+5A15.,Bone tumour/metastasis irradiation
+5A16.,Radioactive drug therapy
+5A17.,Combined internal radiotherapy
+5A1Z.,Internal metabolic radiotherapy NOS
+5A2..,Internal radiotherapy - unsealed source
+5A21.,Radiotherapy: infuse skull/brain
+5A22.,Radiotherapy: infuse head/neck
+5A23.,Radiotherapy: infuse pleural cavity
+5A24.,Radiotherapy: infuse peritoneal cavity
+5A25.,Radiotherapy: endolymphatic infusion
+5A26.,Radiotherapy: infuse urinary bladder
+5A27.,Radiotherapy: infuse organ cavity
+5A28.,Radiotherapy: infiltrate tissue
+5A2Z.,Internal unsealed radiotherapy NOS
+5A3..,Internal radiotherapy - permanent seeds
+5A31.,Radiotherapy: seeds into hypophysis
+5A32.,Radiotherapy: seeds into brain
+5A33.,Radiotherapy: seeds into cavity
+5A3Z.,Radiotherapy: permanent seeds NOS
+5A4..,Radiotherapy implant: [needles] or [therapy]
+5A41.,Radiotherapy: temporary brain implant
+5A42.,Radiotherapy: temporary head/neck implant
+5A43.,Radiotherapy: temporary tongue implant
+5A44.,Radiotherapy: temporary thorax implant
+5A45.,Radiotherapy: temporary abdominal implant
+5A46.,Radiotherapy: temporary pelvic implant
+5A47.,Radiotherapy: temporary limb implant
+5A48.,Radiotherapy: temporary lymphatic implant
+5A4Z.,Radiotherapy: temporary implant NOS
+5A5..,Preload cavity radiotherapy - sealed
+5A51.,Preload radiotherapy - orbit
+5A52.,Preload radiotherapy - paranasal sinus
+5A53.,Preload radiotherapy - nose
+5A54.,Preload radiotherapy - mouth
+5A55.,Preload radiotherapy - ear
+5A56.,Preload radiotherapy - upper gastrointestinal tract
+5A57.,Preload radiotherapy - respiratory organs
+5A58.,Preload radiotherapy - female genital
+5A59.,Preload radiotherapy - urinary system
+5A5A.,Preload radiotherapy - rectum
+5A5B.,Preload radioth.- OP cavity
+5A5Z.,Preload cavity radiotherapy NOS
+5A6..,Afterloading cavity radiotherapy
+5A61.,Afterload radiotherapy - head
+5A62.,Afterload radiotherapy - upper gastrointestinal tract
+5A63.,Afterload radiotherapy - respiratory system
+5A64.,Afterload radiotherapy - female genital
+5A65.,Afterload radiotherapy - urinary
+5A66.,Afterload radiotherapy - rectum
+5A67.,Afterload radioth.- OP cavity
+5A6Z.,Afterload cavity radiotherapy NOS
+5A7..,Radiomimetic chemotherapy
+5A71.,Radiochemotherapy: local infiltration
+5A72.,Radiochemotherapy: to stop spread
+5A73.,Radiochemotherapy: oral route
+5A74.,Radiochemotherapy: IV route
+5A75.,Radiochemotherapy: for immunosuppression
+5A76.,Radiochemotherapy: local artery
+5A77.,Radiochemotherapy: into cavity
+5A7Z.,Radiochemotherapy NOS
+5A8..,Other radiotherapy misc.
+5A81.,Give radiosensitising drug
+5A82.,Radiosensitising measure
+5A83.,Radioprotective drug
+5A8Z.,Other radiotherapy NOS
+5AZ..,Other nuclear therapy NOS
+65NZ.,Prophylactic chemotherapy NOS
+70462,Intrathecal injection of chemotherapeutic agent
+70522,Radiotherapy to lesion of peripheral nerve
+71011,Implantation of radioactive substance into pituitary gland
+72201,Radiotherapy to lacrimal gland
+72444,Radiotherapy of corneal lesion
+72722,Radiotherapy to lesion of retina
+7D034,Implantation of radioactive substance into vulva
+7D154,Implantation of radioactive substance into vagina
+7E0C0,Introduction of radioactive substance into uterine cavity
+7H2C0,Intraperitoneal administration of radioactive substance
+7M0P.,Introduction removable radioactive material into organ NOC
+7M0P0,Introduction of radioactive caesium into organ NOC
+7M0P1,Introduction of iridium wire into organ NOC
+7M0P2,Introduction of radium into organ NOC
+7M0Py,Introduction removable radioactive material to organ NOC OS
+7M0Pz,Introduction removable radioactive material to organ NOC NOS
+7M371,Radiotherapy NEC
+863..,Phototherapy &/or radiation therapy
+863Z.,Radiation/phototherapy NOS
+8BA5.,Oral chemotherapy (& cytotoxic)
+8BAD0,Cancer chemotherapy
+8BAD1,TB chemotherapy
+8H2G.,Admit radiotherapy emergency
+8H3L.,Non-urgent radiotherapy admission
+8H67.,Referred for radiotherapy
+8HB5.,Combined therapy follow-up
+8HB7.,Chemotherapy follow-up
+8J...,Radiotherapy treatment groups
+8J0..,Brachytherapy
+8J1..,Teletherapy
+9N1yC,Seen in radiotherapy clinic
+D2013,Aplastic anaemia due to radiation
+SL07.,Antineoplastic antibiotic poisoning
+SL070,Cactinomycin poisoning
+SL073,Daunorubicin poisoning
+SL07z,Antineoplastic antibiotic poisoning NOS
+TA32.,Overdose of radiation in therapy
+TB121,"Radiotherapy procedure with complication, without blame"
+TJ07.,Adverse reaction to antineoplastic antibiotics
+TJ070,Adverse reaction to actinomycin D
+TJ071,Adverse reaction to bleomycin
+TJ072,Adverse reaction to doxorubicin hydrochloride
+TJ073,Adverse reaction to mitomycin
+TJ074,Adverse reaction to plicamycin
+TJ07z,Adverse reaction to antineoplastic antibiotics NOS
+TJ310,Adverse reaction to busulfan
+TJ311,Adverse reaction to carmustine
+TJ312,Adverse reaction to chlorambucil
+TJ313,Adverse reaction to cyclophosphamide
+TJ314,Adverse reaction to estramustine phosphate
+TJ315,Adverse reaction to lomustine
+TJ316,Adverse reaction to melphalan
+TJ317,Adverse reaction to chlormethine hydrochloride
+TJ318,Adverse reaction to thiotepa
+TJ319,Adverse reaction to treosulphan
+TJ31A,Adverse reaction to cytarabine
+TJ31B,Adverse reaction to fluorouracil
+TJ31C,Adverse reaction to mercaptopurine
+TJ31D,Adverse reaction to methotrexate
+TJ31E,Adverse reaction to tioguanine
+TJ31F,Adverse reaction to etoposide
+TJ31G,Adverse reaction to vinblastine sulphate
+TJ31H,Adverse reaction to vincristine sulphate
+TJ31J,Adverse reaction to carboplatin
+TJ31K,Adverse reaction to cisplatin
+TJ31L,Adverse reaction to hydroxycarbamide
+TJ31M,Adverse reaction to mitoxantrone
+TJ31N,Adverse reaction to procarbazine
+TJ31P,Adverse reaction to razoxane
+TJ31z,Adverse reaction to antineoplastic/immunosuppress drugs NOS
+U6031,[X]Antineoplast antimetabs caus adverse eff in therap use
+U6032,[X]Antineoplast natural prod caus adverse eff in therap use
+U6033,[X]Other antineoplast drugs caus adverse eff in therap use
+U6132,[X]Overdose of radiation given during therapy
+Ub0w0,Radiotherapy procedures
+Ub0w2,Superficial X-ray therapy
+Ub0w4,Grenz ray therapy
+Ub0w5,Orthovoltage X-ray therapy
+Ub0w6,Megavoltage X-ray therapy
+Ub0w7,Linear accelerator X-ray therapy
+Ub0w8,Betatron X-ray therapy
+Ub0w9,Microtron X-ray therapy
+Ub0wA,Van der Graaff X-ray therapy
+Ub0wB,Gamma ray teletherapy
+Ub0wC,Caesium 137 teletherapy
+Ub0wD,Cobalt 60 teletherapy
+Ub0wE,Teletherapy with dual headed cobalt unit
+Ub0wF,Stereotactic cobalt teletherapy
+Ub0wG,Radium 226 teletherapy
+Ub0wH,Teletherapy with radium collar
+Ub0wI,Electron teletherapy
+Ub0wJ,Linear accelerator electron teletherapy
+Ub0wK,Betatron electron teletherapy
+Ub0wL,Microtron electron teletherapy
+Ub0wM,Strontium 90 electron teletherapy
+Ub0wN,Neutron teletherapy
+Ub0wO,Cyclotron neutron teletherapy
+Ub0wP,Deuterium on tritium neutron teletherapy
+Ub0wQ,Hiletron neutron teletherapy
+Ub0wR,Proton teletherapy
+Ub0wT,Caesium 137 brachytherapy
+Ub0wU,Caesium 137 brachytherapy manual loading
+Ub0wV,Caesium 137 brachytherapy manual loading Heyman's capsules
+Ub0wW,Curietron brachytherapy
+Ub0wX,Cobalt 60 brachytherapy
+Ub0wY,Cobalt 60 brachytherapy manual loading
+Ub0wZ,Cathetron brachytherapy
+Ub0wa,Iridium 192 brachytherapy
+Ub0wb,Gammamed brachytherapy
+Ub0wc,Microselectron brachytherapy
+Ub0wd,Selectron brachytherapy
+Ub0we,Californium 252 brachytherapy
+Ub0wf,Gold 198 brachytherapy
+Ub0wg,Iodine 125 brachytherapy
+Ub0wh,Phosphorus 32 brachytherapy
+Ub0wi,Radium 226 brachytherapy
+Ub0wj,Radon 222 brachytherapy
+Ub0wk,Ruthenium 106 brachytherapy
+Ub0wl,Strontium 90 brachytherapy
+Ub0wm,Tantalum 182 brachytherapy
+Ub0wn,Yttrium 90 brachytherapy
+Ub0wo,Radionuclide therapy
+Ub0wp,Yttrium 90 therapy
+Ub0wq,Iodine 131 therapy
+Ub0wr,Phosphorus 32 therapy
+Ub0ws,Iodine 131 meta-iodobenzylguanidine therapy
+Ub0wt,Strontium 89 therapy
+Ub0wu,Gold 198 therapy
+Ub0wv,Radiotherapy planning
+Ub0ww,Radiotherapy planning using a free set up
+Ub0wx,Radiotherapy planning using a simulator
+Ub0wy,Radiotherapy planning using simulator fluoroscopy
+Ub0wz,Radiotherapy planning using a simulator X-ray film
+Ub0x0,Radiotherapy planning using diagnostic radiology
+Ub0x4,Radiotherapy planning using computerised tomography
+Ub0x5,Radiotherapy planning using magnetic resonance imaging
+Ub0x6,Radiotherapy planning using mould room preparation
+Ub0x7,Making of beam direction shell for radiotherapy
+Ub0x8,Making of bite block for radiotherapy
+Ub0x9,Making of bolus block for radiotherapy
+Ub0xA,Making of compensator for radiotherapy
+Ub0xB,Making of cut-out for radiotherapy
+Ub0xC,Making of docking unit for radiotherapy
+Ub0xD,Making of template for radiotherapy
+Ub0xE,Making of shielding block for radiotherapy
+Ub0xF,Making of surface mould for brachytherapy
+Ub0xG,Radiotherapy calculation
+Ub0xH,Calculation of teletherapy
+Ub0xI,Calculation of teletherapy parameters
+Ub0xJ,Outlining for radiotherapy dose calculation
+Ub0xK,Calculation of radiotherapy isodose distribution
+Ub0xL,Calculation of radiotherapy dose corrections
+Ub0xM,Calculation of radiotherapy dose-volume histogram
+Ub0xN,Calculation of brachytherapy
+Ub0xO,Calculation of radionuclide therapy
+Ub1Pe,Pulsed electromagnetic energy therapy
+X00Te,Radiotherapy to orbital lesion
+X00U8,Radiotherapy to lesion of medial canthus
+X00UQ,Radiotherapy to lesion of lateral canthus
+X00X9,Radiotherapy to ciliary body
+X00Xi,Radiotherapy to retina
+X00Y8,Radiotherapy to lesion of choroid
+X20by,Bile duct endoluminal radiotherapy
+X71bL,Chemotherapy
+XC0gO,Radioactive iodine therapy
+XE0Jb,Intravenous chemotherapy
+XE0Jc,Intramuscular chemotherapy
+XE0Je,Subcutaneous chemotherapy
+XE0hv,Oral chemotherapy
+XE14D,Neutropenia due to irradiation
+XE1Rx,Radioactive drug therapy (& I131)
+XE1Sk,Prophylactic chemotherapy
+XE2r3,Temporary implant radiotherapy
+XE2rh,Other nuclear therapy
+XS90X,Treatment planning for brachytherapy
+Xa3yl,Cytotoxic given orally
+Xa3yn,Cytotoxic drug therapy NOS
+Xa4sx,Accidental daunorubicin poisoning
+Xa4sy,Intentional daunorubicin poisoning
+Xa4sz,Daunorubicin poisoning of undetermined intent
+Xa7mv,Radiotherapy to lesion of canthus
+Xa8SI,Radiotherapy
+Xa97L,Radiotherapy - internal
+XaC0F,Continuous infusion of chemotherapy
+XaC0G,Intramuscular injection of Methotrexate
+XaC0H,Intravenous injection of Methotrexate
+XaC0n,Diagnostic intravenous injection of Camsilon
+XaDn1,X-ray teletherapy
+XaDn2,Radiolabelled antibody therapy
+XaDok,Caesium 137 brachytherapy remote afterloading
+XaDol,Cobalt 60 brachytherapy remote afterloading
+XaDor,Iridium 192 brachytherapy remote afterloading
+XaDot,Heavy ion teletherapy
+XaDp8,Radiotherapy mould room procedure
+XaDzO,Intramuscular injection of betamethasone
+XaECT,Electromagnetic energy therapy
+XaFBN,Palliative course of deep X-ray therapy
+XaFBO,Preoperative course of deep X-ray therapy
+XaFBP,Postoperative course of deep X-ray therapy
+XaFz7,Treatment planning for teletherapy
+XaI8k,Ambulatory chemotherapy
+XaIR9,Awaiting radiotherapy
+XaIky,Pre-operative chemotherapy
+XaIkz,Post-operartive chemotherapy
+XaIl6,High dose brachytherapy
+XaImG,Iodine seed radiotherapy
+XaIme,Combined pre-operative chemotherapy and radiotherapy
+XaImf,Combined post-operative chemotherapy and radiotherapy
+XaIpD,Selectron therapy
+XaIpE,Iridium wire therapy
+XaIpe,Stereotactic radiotherapy
+XaJr8,Intramuscular injection of methylprednisolone
+XaKwV,Chemotherapy started
+XaL5K,Plaque radiotherapy to lesion of retina
+XaLbh,Stereotactic radiosurgery on tissue of brain
+XaLdq,Selective internal radiotherapy microspheres lesion of liver
+XaLdr,Percutaneous radiofrequency ablation of lesion of liver
+XaLuJ,External beam radiotherapy to lesion of retina
+XaLyT,Radioactive seed implantation NOC
+XaLyX,Intro radioactive substance org interstit brachytherapy NOC
+XaLzs,Other specified radiotherapy procedures
+XaLzt,Radiotherapy procedures NOS
+XaLzu,Delivery fraction complex radiotherapy megavoltage machine
+XaLzv,Delivery fraction simple radiotherapy megavoltage machine
+XaLzw,Delivery fraction radiotherapy superficial orthovoltage mach
+XaM2B,Radiotherapy delivery
+XaM2C,Delivery of a fraction of total body irradiation (TBI)
+XaM2E,Delivery of a fraction of intracavitary radiotherapy
+XaM2F,Delivery of a fraction of interstitial radiotherapy
+XaM2G,Other specified radiotherapy delivery
+XaM2H,Radiotherapy delivery NOS
+XaM2M,Rad prep ([AND/OR] prep for ext beam rad AND/OR brachythera)
+XaM2N,Preparation for total body irradiation
+XaM2O,Prep for intracavitary radiotherapy ([AND/OR] brachytherapy)
+XaM2P,Prep for interstitial radiotherapy ([AND/OR] brachytherapy)
+XaM2Q,Other spec rad prep ([AND/OR] other spec prep ext beam rad)
+XaM2R,Radiothp prep NOS ([AND/OR] prep for ext beam radiothp NOS)
+XaM2S,Radio vol definition ([AND/OR] prep ex beam radio OR brachy)
+XaM2T,Prep ([AND/OR] vol def radiotherapy imag and IMRT dosimetry)
+XaM2U,"Prep ([AND/OR] vol def for radioth with imag, dos tech supp)"
+XaM2V,Prep ([AND/OR] vol def mult phases complx radioth with dosim
+XaM2W,Vol def ([AND/OR] prep for simpl radioth with imag dosimtry)
+XaM2X,Vol defin ([AND/OR] prep) for simp radio imag and simpl calc
+XaM2Y,"Prep ([AND/OR] vol de sup deep X-ray, ele megav rad si calc)"
+XaM2Z,Oth spec rad vol definition ([AND/OR] prep for ext beam rad)
+XaM2a,Rad vol defin ([AND/OR] prep for externl beam radiother) NOS
+XaM49,Chemotherapy delivery
+XaM4A,Delivery of chemotherapy for neoplasm
+XaM4B,Del comp chemo neo inc prolong infusion treat first attend
+XaM4C,Deliv complex parenteral chemotherapy neopl first attendance
+XaM4D,Deliver simple parenteral chemother neoplas first attendance
+XaM4E,Delivery subsequent element cycle chemotherapy for neoplasm
+XaM4F,Other specified delivery of chemotherapy for neoplasm
+XaM4G,Delivery of chemotherapy for neoplasm NOS
+XaM4H,Delivery of oral chemotherapy for neoplasm
+XaM4I,Delivery of exclusively oral chemotherapy for neoplasm
+XaM4J,Other specified delivery of oral chemotherapy for neoplasm
+XaM4L,Delivery of oral chemotherapy for neoplasm NOS
+XaM4w,Percutaneous radiofrequency ablation of lesion of kidney
+XaMAv,Endoscopic radiofrequency ablation of lesion of prostate
+XaMB1,Transurethral radiofrequency needle ablation of prostate
+XaMOH,Seed implantation into prostate
+XaMlE,Percutaneous radiofrequency ablation of lesion of lung
+XaMtr,Delivery of a fraction of external beam radiotherapy NEC
+XaMuE,Oral delivery of radiotherapy for thyroid ablation
+XaMv7,Radioactive seed implantation into prostate
+XaNS5,Radiotherapy to perineum
+XaNS6,Radiotherapy to abdomen
+XaNS7,Radiotherapy to neck
+XaNS8,Radiotherapy to chest wall
+XaNSA,Radiotherapy to axilla
+XaNSB,Radiotherapy to breast
+XaNSC,Radiotherapy to head
+XaNSD,Radiotherapy to pelvis
+XaNSR,Radiotherapy by body site
+XaPt9,Percutaneous radiofrequency ablation of lesion of bone
+XaPuI,Preparation for external beam radiotherapy
+XaPuJ,Preparation for intensity modulated radiation therapy
+XaPuL,Preparation for hemi body irradiation
+XaPuM,Preparation for simp radiotherapy with imaging and dosimetry
+XaPuN,Prep for simple radioth with imaging and simple calculation
+XaPuO,Prepar for superficial radiotherapy with simple calculation
+XaPuP,Preparation for complex conformal radiotherapy
+XaPuQ,Other specified preparation for external beam radiotherapy
+XaPuR,Preparation for external beam radiotherapy NOS
+XaPuS,Preparation for brachytherapy
+XaPuT,Preparation for intraluminal brachytherapy
+XaPuU,Preparation for intracavitary brachytherapy
+XaPuV,Preparation for interstitial brachytherapy
+XaPuW,Other specified preparation for brachytherapy
+XaPuX,Preparation for brachytherapy NOS
+XaPve,Megavoltage treatment for complex radiotherapy
+XaPvf,Megavoltage treatment for simple radiotherapy
+XaPvg,Superficial or orthovoltage treatment for radiotherapy
+XaPvh,Megavoltage treatment for adaptive radiotherapy
+XaPvi,Technical support for preparation for radiotherapy
+XaPvj,Other specified support for preparation for radiotherapy
+XaPvk,Support for preparation for radiotherapy NOS
+XaPvl,Support for preparation for radiotherapy
+XaPvm,Intro radioactive substance into organ for brachytherapy NOC
+XaPvn,Intro non-remov radioact subst into organ for brachyther NOC
+XaPw8,Delivery of a fraction of intraluminal brachytherapy
+XaVwB,Cancer chemotherapy management plan
+XaZD3,Neoadjuvant chemotherapy
+XaZWZ,Electrochemotherapy
+Xaaqq,Hypofractionated SRT using megavoltage radiation
+Xaaw6,High cost chemotherapy drugs
+Xaawm,Pulsed dose rate brachytherapy
+Y035e,Radiotherapy to head
+Y035f,Radiotherapy to neck
+Y036a,Radiotherapy to breast
+Y036b,Radiotherapy to axilla
+Y036c,Radiotherapy to subclavia
+Y036d,Radiotherapy to chest wall
+Y036e,Radiotherapy to pelvis
+Y036f,Radiotherapy to abdomen
+Y037a,Radiotherapy to perineum
+Y037b,Radiotherapy to bone
+ZV073,[V]Other prophylactic chemotherapy
+ZV580,[V]Radiotherapy session
+ZV581,[V]Maintenance chemotherapy
+ZV588,[V]Chemotherapy session for neoplasm
+ZV661,[V]Convalescence after radiotherapy
+ZV672,[V]Chemotherapy follow-up
+ZV678,[V]Follow-up examin after chemotherapy for malign neoplasm
+ZV679,[V]Follow-up exam aft combined treatment for malig neoplasm
+ZV6B1,[V]Follow-up exam after chemotherapy for other conditions
+ZVu0C,[X]Follow-up examinat after radiother for other conditions
+ZVu0D,[X]Follow-up examinat after chemother for other conditions
+ZVu3L,[X]Other chemotherapy

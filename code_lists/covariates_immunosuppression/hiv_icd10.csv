@@ -1,0 +1,31 @@
+code,description
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases
+B200,HIV disease resulting in mycobacterial infection
+B201,HIV disease resulting in other bacterial infections
+B202,HIV disease resulting in cytomegaloviral disease
+B203,HIV disease resulting in other viral infections
+B204,HIV disease resulting in candidiasis
+B205,HIV disease resulting in other mycoses
+B206,HIV disease resulting in Pneumocystis jirovecii pneumonia
+B207,HIV disease resulting in multiple infections
+B208,HIV disease resulting in other infectious and parasitic diseases
+B209,HIV disease resulting in unspecified infectious or parasitic disease
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms
+B210,HIV disease resulting in Kaposi sarcoma
+B211,HIV disease resulting in Burkitt lymphoma
+B212,HIV disease resulting in other types of non-Hodgkin lymphoma
+B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue"
+B217,HIV disease resulting in multiple malignant neoplasms
+B218,HIV disease resulting in other malignant neoplasms
+B219,HIV disease resulting in unspecified malignant neoplasm
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases
+B220,HIV disease resulting in encephalopathy
+B221,HIV disease resulting in lymphoid interstitial pneumonitis
+B222,HIV disease resulting in wasting syndrome
+B227,HIV disease resulting in multiple diseases classified elsewhere
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions
+B230,Acute HIV infection syndrome
+B231,HIV disease resulting in (persistent) generalized lymphadenopathy
+B232,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified"
+B238,HIV disease resulting in other specified conditions
+B24,Unspecified human immunodeficiency virus [HIV] disease

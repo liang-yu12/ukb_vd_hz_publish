@@ -1,0 +1,21 @@
+code,description
+K50,crohn's disease [regional enteritis]
+K500,crohn's disease of small intestine
+K501,crohn's disease of large intestine
+K508,other crohn's disease
+K509,"crohn's disease, unspecified"
+K51,ulcerative colitis
+K510,ulcerative (chronic) enterocolitis
+K511,ulcerative (chronic) ileocolitis
+K512,ulcerative (chronic) proctitis
+K513,ulcerative (chronic) rectosigmoiditis
+K514,pseudopolyposis of colon
+K515,mucosal proctocolitis
+K518,other ulcerative colitis
+K519,"ulcerative colitis, unspecified"
+K52,other noninfective gastroenteritis and colitis
+K520,gastroenteritis and colitis due to radiation
+K521,toxic gastroenteritis and colitis
+K522,allergic and dietetic gastroenteritis and colitis
+K528,other specified noninfective gastroenteritis and coliti
+K529,"noninfective gastroenteritis and colitis, unspecified"

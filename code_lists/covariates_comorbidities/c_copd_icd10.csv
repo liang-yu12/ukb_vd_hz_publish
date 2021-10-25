@@ -1,0 +1,19 @@
+code,description
+J40,"bronchitis, not specified as acute or chronic"
+J41,simple and mucopurulent chronic bronchitis
+J410,simple chronic bronchitis
+J411,mucopurulent chronic bronchitis
+J418,mixed simple and mucopurulent chronic bronchitis
+J42,unspecified chronic bronchitis
+J43,emphysema
+J430,macleod's syndrome
+J431,panlobular emphysema
+J432,centrilobular emphysema
+J438,other emphysema
+J439,"emphysema, unspecified"
+J440,chronic obstructive pulmonary disease with acute lower respiratory infection
+J441,"chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+J448,other specified chronic obstructive pulmonary disease
+J449,"chronic obstructive pulmonary disease, unspecified"
+J982,interstitial emphysema
+J983,compensatory emphysema

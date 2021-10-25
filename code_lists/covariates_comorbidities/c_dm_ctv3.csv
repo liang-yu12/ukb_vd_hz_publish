@@ -1,0 +1,125 @@
+code,description
+C1010,Type 1 diabetes mellitus with ketoacidosis
+C1011,Type 2 diabetes mellitus with ketoacidosis
+C1030,Type 1 diabetes mellitus with ketoacidotic coma
+C1031,Type 2 diabetes mellitus with ketoacidotic coma
+C1080,Type 1 diabetes mellitus with renal complications
+C1081,Type 1 diabetes mellitus with ophthalmic complications
+C1082,Type 1 diabetes mellitus with neurological complications
+C1083,Type 1 diabetes mellitus with multiple complications
+C1085,Type 1 diabetes mellitus with ulcer
+C1086,Type 1 diabetes mellitus with gangrene
+C1087,Type 1 diabetes mellitus with retinopathy
+C1088,Type 1 diabetes mellitus - poor control
+C109.,Type 2 diabetes mellitus
+C1090,Type 2 diabetes mellitus with renal complications
+C1091,Type 2 diabetes mellitus with ophthalmic complications
+C1092,Type 2 diabetes mellitus with neurological complications
+C1093,Type 2 diabetes mellitus with multiple complications
+C1094,Type 2 diabetes mellitus with ulcer
+C1095,Type 2 diabetes mellitus with gangrene
+C1096,Type 2 diabetes mellitus with retinopathy
+C1097,Type 2 diabetes mellitus - poor control
+X40J4,Type 1 diabetes mellitus
+X40J5,Type 2 diabetes mellitus
+X40J6,Insulin treated Type 2 diabetes mellitus
+XM19i,[EDTA] Diabetes Type I (insulin dependent) associated with renal failure
+XM19j,[EDTA] Diabetes Type II (non-insulin-dependent) associated with renal failure
+Xa2h9,Dietary advice for type I diabetes
+Xa2hA,Dietary advice for type II diabetes
+Xa4g7,Unstable type 1 diabetes mellitus
+XaELP,Type 1 diabetes mellitus without complication
+XaELQ,Type 2 diabetes mellitus without complication
+XaEnn,Type 1 diabetes mellitus with mononeuropathy
+XaEno,Type 1 diabetes mellitus with polyneuropathy
+XaEnp,Type 2 diabetes mellitus with mononeuropathy
+XaEnq,Type 2 diabetes mellitus with polyneuropathy
+XaF04,Type 1 diabetes mellitus with nephropathy
+XaF05,Type 2 diabetes mellitus with nephropathy
+XaFWG,Type 1 diabetes mellitus with hypoglycaemic coma
+XaFWI,Type 2 diabetes mellitus with hypoglycaemic coma
+XaFm8,Type 1 diabetes mellitus with diabetic cataract
+XaFmA,Type 2 diabetes mellitus with diabetic cataract
+XaFmK,Type 1 diabetes mellitus with peripheral angiopathy
+XaFmL,Type 1 diabetes mellitus with arthropathy
+XaFmM,Type 1 diabetes mellitus with neuropathic arthropathy
+XaFn7,Type 2 diabetes mellitus with peripheral angiopathy
+XaFn8,Type 2 diabetes mellitus with arthropathy
+XaFn9,Type 2 diabetes mellitus with neuropathic arthropathy
+XaIfG,Type 2 diabetes on insulin
+XaIfI,Type 2 diabetes on diet only
+XaIrf,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+XaIzM,Type 1 diabetes mellitus with persistent proteinuria
+XaIzN,Type 1 diabetes mellitus with persistent microalbuminuria
+XaIzQ,Type 2 diabetes mellitus with persistent proteinuria
+XaIzR,Type 2 diabetes mellitus with persistent microalbuminuria
+XaJQp,Type 2 diabetes mellitus with exudative maculopathy
+XaJSr,Type 1 diabetes mellitus with exudative maculopathy
+XaKyW,Type 1 diabetes mellitus with gastroparesis
+XaKyX,Type 2 diabetes mellitus with gastroparesis
+XaMhJ,Diabetes type 1 review
+XaMhK,Diabetes type 2 review
+XaX3p,Type 1 diabetic dietary review
+XaX3q,Type 2 diabetic dietary review
+XaX49,Referral to type 1 diabetes structured education programme
+XaXZR,H/O: diabetes mellitus type 2
+XaXZv,H/O: diabetes mellitus type 1
+Xaage,Type 1 diabetes mellitus in remission
+Xaagf,Type 2 diabetes mellitus in remission
+XafjT,ED-DMT1 - Eating disorder-diabetes mellitus type 1
+C10D0,Diabetes mellitus autosomal dominant type 2
+66An0,Diabetes type 1 review
+66Ao0,Diabetes type 2 review
+C10FK,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+C10FJ,Insulin treated Type 2 diabetes mellitus
+C10E0,Type 1 diabetes mellitus
+C10E8,Type 1 diabetes mellitus - poor control
+C10P0,Type 1 diabetes mellitus in remission
+C10EH,Type 1 diabetes mellitus with arthropathy
+C10EF,Type 1 diabetes mellitus with diabetic cataract
+C10EP,Type 1 diabetes mellitus with exudative maculopathy
+C10E6,Type 1 diabetes mellitus with gangrene
+C10EQ,Type 1 diabetes mellitus with gastroparesis
+C10EE,Type 1 diabetes mellitus with hypoglycaemic coma
+C10EM,Type 1 diabetes mellitus with ketoacidosis
+C10EN,Type 1 diabetes mellitus with ketoacidotic coma
+C10EB,Type 1 diabetes mellitus with mononeuropathy
+C10E3,Type 1 diabetes mellitus with multiple complications
+C10ED,Type 1 diabetes mellitus with nephropathy
+C10E2,Type 1 diabetes mellitus with neurological complications
+C108J,Type 1 diabetes mellitus with neuropathic arthropathy
+C10E1,Type 1 diabetes mellitus with ophthalmic complications
+C10EG,Type 1 diabetes mellitus with peripheral angiopathy
+C10EL,Type 1 diabetes mellitus with persistent microalbuminuria
+C10EK,Type 1 diabetes mellitus with persistent proteinuria
+C10EC,Type 1 diabetes mellitus with polyneuropathy
+C10E7,Type 1 diabetes mellitus with retinopathy
+C10E5,Type 1 diabetes mellitus with ulcer
+C10EA,Type 1 diabetes mellitus without complication
+66At0,Type 1 diabetic dietary review
+C10F0,Type 2 diabetes mellitus
+C10F7,Type 2 diabetes mellitus - poor control
+C10P1,Type 2 diabetes mellitus in remission
+C109G,Type 2 diabetes mellitus with arthropathy
+C109E,Type 2 diabetes mellitus with diabetic cataract
+C10FQ,Type 2 diabetes mellitus with exudative maculopathy
+C10F5,Type 2 diabetes mellitus with gangrene
+C10FR,Type 2 diabetes mellitus with gastroparesis
+C10FD,Type 2 diabetes mellitus with hypoglycaemic coma
+C10FN,Type 2 diabetes mellitus with ketoacidosis
+C10FP,Type 2 diabetes mellitus with ketoacidotic coma
+C10FA,Type 2 diabetes mellitus with mononeuropathy
+C10F3,Type 2 diabetes mellitus with multiple complications
+C10FC,Type 2 diabetes mellitus with nephropathy
+C10F2,Type 2 diabetes mellitus with neurological complications
+C10FH,Type 2 diabetes mellitus with neuropathic arthropathy
+C10F1,Type 2 diabetes mellitus with ophthalmic complications
+C10FF,Type 2 diabetes mellitus with peripheral angiopathy
+C10FM,Type 2 diabetes mellitus with persistent microalbuminuria
+C10FL,Type 2 diabetes mellitus with persistent proteinuria
+C10FB,Type 2 diabetes mellitus with polyneuropathy
+C10F6,Type 2 diabetes mellitus with retinopathy
+C10F4,Type 2 diabetes mellitus with ulcer
+C10F9,Type 2 diabetes mellitus without complication
+66At1,Type 2 diabetic dietary review
+C10E4,Unstable type 1 diabetes mellitus

@@ -1,0 +1,51 @@
+code,description
+E100,type 1 diabetes mellitus with coma
+E101,type 1 diabetes mellitus with ketoacidosis
+E102,type 1 diabetes mellitus with renal complications
+E103,type 1 diabetes mellitus with opthalmic complications
+E104,type 1 diabetes mellitus with neurological complications
+E105,type 1 diabetes mellitus with peripheral circulatory complications
+E106,type 1 diabetes mellitus with other specified complications
+E107,type 1 diabetes mellitus with multiple complications
+E108,type 1 diabetes mellitus with unspecified complications
+E109,type 1 diabetes mellitus without complications
+E110,type 2 diabetes mellitus with coma
+E111,type 2 diabetes mellitus with ketoacidosis
+E112,type 2 diabetes mellitus with renal complications
+E113,type 2 diabetes mellitus with opthalmic complications
+E114,type 2 diabetes mellitus with neurological complications
+E115,type 2 diabetes mellitus with peripheral circulatory problems
+E116,type 2 diabetes mellitus with other specified complications
+E117,type 2 diabetes mellitus with multiple complications
+E118,type 2 diabetes mellitus with unspecified complications
+E119,type 2 diabetes mellitus without complications
+E120,malnutrition-related diabetes mellitus with coma
+E121,malnutrition-related diabetes mellitus with ketoacidosis
+E122,malnutrition-related diabetes mellitus with renal complications
+E123,malnutrition-related diabetes mellitus with opthalmic complications
+E124,malnutrition-related diabetes mellitus with neurological complications
+E125,malnutrition-related diabetes mellitus with peripheral circulatory complications
+E126,malnutrition-related diabetes mellitus with other specified complications
+E127,malnutrition-related diabetes mellitus with multiple complications
+E128,malnutrition-related diabetes mellitus with unspecified complications
+E129,malnutrition-related diabetes mellitus without complications
+E130,other specified diabetes mellitus with coma
+E131,other specified diabetes mellitus with renal complications
+E132,other specified diabetes mellitus with opthalmic complications
+E133,other specified diabetes mellitus with neurological complications
+E134,other specified diabetes mellitus with peripheral circulatory complications
+E135,other specified diabetes mellitus with other specified complications
+E136,other specified diabetes mellitus with multiple complications
+E137,other specified diabetes mellitus with multiple complications
+E138,other specified diabetes mellitus with unspecified complications
+E139,other specified diabetes mellitus without complications
+E140,unspecified diabetes mellitus with coma
+E141,unspecified diabetes mellitus with ketoacidosis
+E142,unspecified diabetes mellitus with renal complications
+E143,unspecified diabetes mellitus with opthalmic complications
+E144,unspecified diabetes mellitus with neurological complications
+E145,unspecified diabetes mellitus with peripheral complications
+E146,unspecified diabetes mellitus with other specified complications
+E147,unspecified diabetes mellitus with multiple complications
+E148,unspecified diabetes mellitus with unspecified complications
+E149,unspecified diabetes mellitus without complications

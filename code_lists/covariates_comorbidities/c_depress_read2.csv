@@ -1,0 +1,100 @@
+code,description
+1B17.,depressed
+1B1U.,symptoms of depression
+1BT..,depressed mood
+2257.,o/e - depressed
+8BK0.,depression management programme
+8CAa.,patient given advice about management of depression
+8HHq.,referral for guided self-help for depression
+9H90.,depression annual review
+9H91.,depression medication review
+9H92.,depression interim review
+9HA0.,on depression register
+9Ov..,depression monitoring administration
+9Ov0.,depression monitoring first letter
+9Ov1.,depression monitoring second letter
+9Ov2.,depression monitoring third letter
+9Ov3.,depression monitoring verbal invite
+9Ov4.,depression monitoring telephone invite
+9hC..,exception reporting: depression quality indicators
+9hC0.,excepted from depression quality indicators: patient unsuita
+9hC1.,excepted from depression quality indicators: informed dissen
+9k4..,depression - enhanced services administration
+9k40.,depression - enhanced service completed
+9kQ..,on full dose long term treatment depression - enh serv admin
+E0013,presenile dementia with depression
+E0021,senile dementia with depression
+E002z,senile dementia with depressive or paranoid features nos
+E0043,arteriosclerotic dementia with depression
+E11..,depressive psychoses
+E112.,single major depressive episode
+E1120,"single major depressive episode, unspecified"
+E1121,"single major depressive episode, mild"
+E1122,"single major depressive episode, moderate"
+E1123,"single major depressive episode, severe, without psychosis"
+E1124,"single major depressive episode, severe, with psychosis"
+E112z,single major depressive episode nos
+E113.,recurrent major depressive episode
+E1130,"recurrent major depressive episodes, unspecified"
+E1131,"recurrent major depressive episodes, mild"
+E1132,"recurrent major depressive episodes, moderate"
+E1133,"recurrent major depressive episodes, severe, no psychosis"
+E1134,"recurrent major depressive episodes, severe, with psychosis"
+E1137,recurrent depression
+E113z,recurrent major depressive episode nos
+E118.,seasonal affective disorder
+E11y2,atypical depressive disorder
+E11z2,masked depression
+E130.,reactive depressive psychosis
+E135.,agitated depression
+E2003,anxiety with depression
+E204.,neurotic depression reactive type
+E290.,brief depressive reaction
+E290z,brief depressive reaction nos
+E291.,prolonged depressive reaction
+E2B..,depressive disorder nec
+E2B0.,postviral depression
+E2B1.,chronic depression
+Eu02z,"[x] senile dementia, depressed or paranoid type"
+Eu32.,[x]depressive episode
+Eu320,[x]mild depressive episode
+Eu321,[x]moderate depressive episode
+Eu322,[x]severe depressive episode without psychotic symptoms
+Eu323,[x]severe depressive episode with psychotic symptoms
+Eu324,[x]mild depression
+Eu325,"[x]major depression, mild"
+Eu326,"[x]major depression, moderately severe"
+Eu327,"[x]major depression, severe without psychotic symptoms"
+Eu328,"[x]major depression, severe with psychotic symptoms"
+Eu32y,[x]other depressive episodes
+Eu32z,"[x]depressive episode, unspecified"
+Eu33.,[x]recurrent depressive disorder
+Eu330,"[x]recurrent depressive disorder, current episode mild"
+Eu331,"[x]recurrent depressive disorder, current episode moderate"
+Eu332,[x]recurr depress disorder cur epi severe without psyc sympt
+Eu333,[x]recurrent depress disorder cur epi severe with psyc symp
+Eu334,"[x]recurrent depressive disorder, currently in remission"
+Eu33y,[x]other recurrent depressive disorders
+Eu33z,"[x]recurrent depressive disorder, unspecified"
+Eu341,[x]dysthymia
+Eu3y0,[x]other single mood affective disorders
+Eu3y1,[x]recurrent brief depressive episodes
+Eu412,[x]mixed anxiety and depressive disorder
+R007z,[d]postoperative depression
+ZRLfH,health of the nation outcome scale item 7 - depressed mood
+E1125,"single major depressive episode, partial or unspec remission"
+E1126,"single major depressive episode, in full remission"
+Eu329,"[x]single major depr ep, severe with psych, psych in remiss"
+Eu32A,"[x]recurr major depr ep, severe with psych, psych in remiss"
+Eu32B,[x]antenatal depression
+1465,h/o: depression
+146D.,h/o: manic depressive disorder
+212S.,depression resolved
+212V.,bipolar affective disorder resolved
+E1135,"recurrent major depressive episodes,partial/unspec remission"
+E1136,"recurrent major depressive episodes, in full remission"
+62T1.,puerperal depression
+Eu530,[x]postpartum depression nos
+E2112,depressive personality disorder
+Eu920,[x]depressive conduct disorder
+1JJ..,suspected depression

@@ -1,0 +1,215 @@
+code,description
+K05..,chronic renal failure
+K011.,nephrotic syndrome with membranous glomerulonephritis
+K01x1,nephrotic syndrome in diabetes mellitus
+7L1A1,peritoneal dialysis
+G760.,acquired arteriovenous fistula
+7L1A2,haemodialysis nec
+7B00.,transplantation of kidney
+K01..,nephrotic syndrome
+7A601,creation of arteriovenous fistula nec
+7B00z,transplantation of kidney nos
+ZV420,[v]kidney transplanted
+K050.,end stage renal failure
+7L1B0,insertion of ambulatory peritoneal dialysis catheter
+K0D..,end-stage renal disease
+7A614,ligation of acquired arteriovenous fistula
+K010.,nephrotic syndrome with proliferative glomerulonephritis
+SP083,kidney transplant failure and rejection
+7B001,transplantation of kidney from live donor
+7L1A.,dialysis for renal failure
+1Z13.,chronic kidney disease stage 4
+1Z12.,chronic kidney disease stage 3
+1Z14.,chronic kidney disease stage 5
+D215.,anaemia secondary to renal failure
+8L50.,renal transplant planned
+K01B.,nephrotic syndrome  diffuse crescentic glomerulonephritis
+TB001,"renal transplant with complication, without blame"
+7A611,repair of acquired arteriovenous fistula
+K016.,nephrotic syndrome  diffuse membranous glomerulonephritis
+7L1A0,renal dialysis
+K017.,nephrotic syn difus mesangial prolifertiv glomerulonephritis
+K019.,nephrotic syn diffuse mesangiocapillary glomerulonephritis
+ZV451,[v]renal dialysis status
+K015.,nephrotic syndrome  focal and segmental glomerular lesions
+7L1B1,removal of ambulatory peritoneal dialysis catheter
+K014.,nephrotic syndrome  minor glomerular abnormality
+7A60.,arteriovenous shunt
+7B002,transplantation of kidney from cadaver
+D2150,anaemia secondary to chronic renal failure
+7A601,creation of brachial-cephalic fistula
+G7520,goodpasture's syndrome
+7B063,exploration of renal transplant
+K01z.,nephrotic syndrome nos
+TB11.,kidney dialysis with complication  without blame
+7A601,creation of radial-cephalic fistula
+G233.,hypertensive heart and renal disease with renal failure
+K013.,nephrotic syndrome with minimal change glomerulonephritis
+7L1C0,insertion of temporary peritoneal dialysis catheter
+7L1A5,continuous ambulatory peritoneal dialysis
+7A603,removal of infected arteriovenous shunt
+7L1A.,compensation for renal failure
+G222.,hypertensive renal disease with renal failure
+TA22.,failure of sterile precautions during perfusion
+7L1B.,placement ambulatory dialysis apparatus - compens renal fail
+K013.,lipoid nephrosis
+K0A12,rapid progres neph syn diffuse membranous glomerulonephritis
+ZV560,[v]aftercare involving renal dialysis nos
+K01x4,nephrotic syndrome in systemic lupus erythematosus
+K01x0,nephrotic syndrome in amyloidosis
+7L1Ay,other specified compensation for renal failure
+K0B5.,renal tubulo-interstitial disordrs in transplant rejectn
+7B015,transplant nephrectomy
+14S2.,h/o: kidney recipient
+K0A16,rapid progressive nephritic syndrome  dense deposit disease
+K018.,nephrotic syn difus endocapilary proliftv glomerulonephritis
+7B012,bilateral nephrectomy
+K05..,end stage renal failure
+Kyu21,[x]other chronic renal failure
+U6122,[x]failure sterile precautions dur kidney dialys/other perf
+TB001,"kidney transplant with complication, without blame"
+7B000,autotransplant of kidney
+7L1B.,placement ambulatory apparatus compensation renal failure
+K01A.,nephrotic syndrome  dense deposit disease
+K013.,steroid sensitive nephrotic syndrome
+G234.,hyperten heart&renal dis+both(congestv)heart and renal fail
+K0A13,rpd prog neph syn df mesangial prolifratv glomerulonephritis
+K033.,rapidly progressive nephritis unspecified
+7A60z,arteriovenous shunt nos
+K01x3,nephrotic syndrome in polyarteritis nodosa
+7L1By,placement ambulatory apparatus- compensate renal failure os
+7A606,creation of graft fistula for dialysis
+ZV56.,[v]aftercare involving intermittent dialysis
+K0A07,acute nephrotic syndrm diffuse crescentic glomerulonephritis
+K0A17,rapid progres nephritic syn df crescentic glomerulonephritis
+7A600,insertion of arteriovenous prosthesis
+7A602,attention to arteriovenous shunt
+7A605,thrombectomy of arteriovenous fistula
+K01w.,congenital nephrotic syndrome
+7L1Az,compensation for renal failure nos
+7L1A6,peritoneal dialysis nec
+K023.,chronic rapidly progressive glomerulonephritis
+7L1Cz,placement other apparatus- compensate for renal failure nos
+7A60y,other specified arteriovenous shunt
+7B001,allotransplantation of kidney from live donor
+TB11.,renal dialysis with complication  without blame
+TA220,failure of sterile precautions during kidney dialysis
+TA02z,accid cut puncture perf h'ge - perfusion nos
+ZVu3G,[x]other dialysis
+SP080,det.ren.func.after ren.transpl
+7B00y,other specified transplantation of kidney
+7L1A3,haemofiltration
+K0A1.,rapidly progressive nephritic syndrome
+7B015,excision of rejected transplanted kidney
+K01w0,finnish nephrosis syndrome
+7L1C.,placement other apparatus for compensation for renal failure
+7L1A4,automated peritoneal dialysis
+7B003,"allotransplantation of kidney from cadaver, heart-beating"
+7B0F1,pre-transplantation of kidney work-up  recipient
+7B0F.,interventions associated with transplantation of kidney
+K01y.,nephrotic syndrome with other pathological kidney lesions
+1Z1B.,chronic kidney disease stage 3 with proteinuria
+1Z15.,chronic kidney disease stage 3a
+1Z1H.,chronic kidney disease stage 4 with proteinuria
+1Z1C.,chronic kidney disease stage 3 without proteinuria
+1Z1B.,ckd stage 3 with proteinuria
+1Z1E.,chronic kidney disease stage 3a without proteinuria
+1Z1E.,ckd stage 3a without proteinuria
+1Z1G.,chronic kidney disease stage 3b without proteinuria
+1Z1F.,chronic kidney disease stage 3b with proteinuria
+1Z16.,chronic kidney disease stage 3b
+1Z1F.,ckd stage 3b with proteinuria
+1Z1C.,ckd stage 3 without proteinuria
+1Z1L.,chronic kidney disease stage 5 without proteinuria
+1Z1J.,chronic kidney disease stage 4 without proteinuria
+1Z1D.,chronic kidney disease stage 3a with proteinuria
+1Z1K.,chronic kidney disease stage 5 with proteinuria
+1Z1D.,ckd stage 3a with proteinuria
+7A604,banding of arteriovenous fistula
+7B004,"allotransplantation kidney from cadaver, heart non-beating"
+TA020,accid cut puncture perf h'ge - kidney dialysis
+7A619,ligation of arteriovenous dialysis fistula
+1Z1J.,ckd stage 4 without proteinuria
+1Z1L.,ckd stage 5 without proteinuria
+K0A11,rapid progres nephritic syn focal+segmental glomerulr lesion
+7B002,allotransplantation of kidney from cadaver
+1Z1K.,ckd stage 5 with proteinuria
+K01x2,nephrotic syndrome in malaria
+1Z1H.,ckd stage 4 with proteinuria
+K012.,nephrotic syndrome+membranoproliferative glomerulonephritis
+K0E..,acute-on-chronic renal failure
+7A611,ligation of acquired arteriovenous fistula
+1Z1G.,ckd stage 3b without proteinuria
+Kyu1C,[x]renal tubulo-interstitial disorders/transplant rejection
+7L1A0,thomas intravascular shunt for dialysis
+7L1f0,extracorporeal albumin haemodialysis
+7B0F3,"post-transplantation of kidney examination, recipient"
+7B0Fz,interventions associated with transplantation of kidney nos
+7B0Fy,os interventions associated with transplantation of kidney
+SP08H,acute rejection of renal transplant
+7L1B2,flushing of peritoneal dialysis catheter
+K053.,chronic kidney disease stage 3
+SP08G,acute rejection of renal transplant - grade iii
+SP08D,acute-on-chronic rejection of renal transplant
+SP08E,acute rejection of renal transplant - grade i
+K054.,chronic kidney disease stage 4
+K055.,chronic kidney disease stage 5
+7B002,cadaveric renal transplant
+SP0G.,anaphylactoid reaction due to haemodialysis
+SP08N,unexplained episode of renal transplant dysfunction
+G72D2,aneurysm of anastomotic site of dialysis av fistula
+G72C.,ruptured aneurysm of dialysis vascular access
+7B006,xenograft renal transplant
+SP08R,renal transplant rejection
+K0A8.,rapidly progressive glomerulonephritis
+SP08P,stenosis of vein of transplanted kidney
+SP08J,chronic rejection of renal transplant
+Gy21.,thrombosis of dialysis arteriovenous fistula
+SP08W,vascular complication of renal transplant
+Gy51.,haemorrhage of dialysis arteriovenous fistula
+SP08F,acute rejection of renal transplant - grade ii
+Gy31.,occlusion of dialysis arteriovenous fistula
+G72D.,aneurysm of dialysis arteriovenous fistula
+G72D1,aneurysm of needle site of dialysis arteriovenous fistula
+Gy41.,infection of dialysis arteriovenous fistula
+7A61A,ligation of arteriovenous dialysis graft
+Gy1..,stenosis of dialysis vascular access
+SP08T,urological complication of renal transplant
+SP0E.,disorders associated with peritoneal dialysis
+7L1Cy,placement other apparatus- compensate for renal failure os
+Gy3..,occlusion of dialysis vascular access
+Gy40.,infection of dialysis arteriovenous graft
+Gy60.,rupture of dialysis arteriovenous graft
+SP08V,very mild acute rejection of renal transplant
+K01w1,drash syndrome
+Gy10.,stenosis of dialysis arteriovenous graft
+Gy5..,haemorrhage of dialysis vascular access
+SP0F.,haemodialysis first use syndrome
+K01x.,nephrotic syndrome in diseases ec
+K01w1,wilms' tumour + nephrotic syndrome + pseudohermaphroditism
+Gy30.,occlusion of dialysis arteriovenous graft
+7B005,allotransplantation of kidney from cadaver nec
+1Z1Y.,ckd with gfr category g3b & albuminuria category a2
+1Z1T.,ckd with gfr category g3a & albuminuria category a1
+1Z1V.,ckd with gfr category g3a & albuminuria category a2
+Gy2..,thrombosis of dialysis vascular access
+G7521,goodpasture's disease
+SP0H.,disorder associated with dialysis
+1Z1b.,ckd with gfr category g4 & albuminuria category a2
+1Z1W.,ckd with gfr category g3a & albuminuria category a3
+K0A14,rapid progres neph syn df endocapilary prolifv glomnephritis
+1Z1X.,ckd with gfr category g3b & albuminuria category a1
+1Z1a.,ckd with gfr category g4 & albuminuria category a1
+1Z1e.,ckd with gfr category g5 & albuminuria category a2
+1Z1Z.,ckd with gfr category g3b & albuminuria category a3
+Gy4..,infection of dialysis vascular access
+Z9192,washing back through haemodialysis lines
+G72D0,aneurysm of superficialised artery of dialysis av fistula
+1Z1d.,ckd with gfr category g5 & albuminuria category a1
+1Z1f.,ckd with gfr category g5 & albuminuria category a3
+1Z1c.,ckd with gfr category g4 & albuminuria category a3
+K01w2,congenital nephrotic syndrome with focal glomerulosclerosis
+SP0E1,thrombus in peritoneal dialysis catheter
+K01wz,congenital nephrotic syndrome nos
+TA420,mechanical failure of apparatus during kidney dialysis
+K01w1,nephrotic syndrome with pseudohermaphroditism

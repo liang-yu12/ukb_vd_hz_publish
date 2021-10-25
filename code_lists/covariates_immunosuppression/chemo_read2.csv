@@ -1,0 +1,229 @@
+code,description
+7M371,Radiotherapy NEC
+8BAD.,CHEMOTHERAPY
+59...,External radiotherapy
+5A11.,Thyroid gland ablat - irradiat
+8BAD0,CANCER CHEMOTHERAPY
+7M0P.,Introduction removable radioactive material into organ NOC
+ZV580,[V]Radiotherapy session
+9N0D.,Seen in radiotherapy clinic
+5A16.,Radioactive drug therapy
+5A...,Radiotherapy - internal
+8H67.,Referred for radiotherapy
+ZL931,Seen by radiotherapist
+8BA5.,ORAL CHEMOTHERAPY
+7E0C0,Introduction of radioactive substance into uterine cavity
+7L161,INTRAVENOUS CHEMOTHERAPY
+ZV661,[V]Convalescence after radiotherapy
+59...,X-ray therapy -external
+515..,Progress of radiotherapy
+8BAK.,POST-OPERARTIVE CHEMOTHERAPY
+5AB..,Stereotactic radiotherapy
+8BAJ.,PRE-OPERATIVE CHEMOTHERAPY
+7M0Py,Introduction removable radioactive material to organ NOC OS
+72722,Radiotherapy to lesion of retina
+ZV581,[V]MAINTENANCE CHEMOTHERAPY
+8BA5.,Oral cytotoxic drug therapy
+59Z..,External radiotherapy NOS
+8BAL.,COMBINED PRE-OPERATIVE CHEMOTHERAPY AND RADIOTHERAPY
+7M0Pz,Introduction removable radioactive material to organ NOC NOS
+8CV1.,CHEMOTHERAPY STARTED
+7L102,CONTINUOUS INFUSION OF CHEMOTHERAPY
+7D034,Implantation of radioactive substance into vulva
+8J01.,Iodine seed radiotherapy
+8BAM.,COMBINED POST-OPERATIVE CHEMOTHERAPY AND RADIOTHERAPY
+5149.,Radiotherapy-tumour palliation
+514Z.,Radiotherapy purpose - NOS
+5146.,Radiotherapy - post-op.control
+7L193,SUBCUTANEOUS CHEMOTHERAPY
+9N1yC,Seen in radiotherapy clinic
+ZV588,[V]CHEMOTHERAPY SESSION FOR NEOPLASM
+514..,Purpose of radiotherapy
+TB121,"Radiotherapy procedure with complication, without blame"
+ZL131,Under care of radiotherapist
+5147.,Radiotherapy for analgesia
+5A4..,Radium needles
+5AC..,Strontium 89 therapy
+5155.,Awaiting radiotherapy
+7L182,INTRAMUSCULAR CHEMOTHERAPY
+5151.,Radiotherapy started
+7M0P0,Introduction of radioactive caesium into organ NOC
+5A...,Other nuclear therapy
+5A9..,Selectron therapy
+71011,Implantation of radioactive substance into pituitary gland
+D4003,Neutropenia due to irradiation
+70462,INTRATHECAL CHEMOTHERAPY
+8J...,Radiotherapy treatment groups
+591..,X-ray beam therapy
+5A8..,Other radiotherapy misc.
+5144.,Radiotherapy - pre-op. control
+5914.,Deep X-ray therapy
+8H3L.,Non-urgent radiotherapy admisn
+515Z.,Radiotherapy progress NOS
+8H2G.,Admit radiotherapy emergency
+5136.,X-ray metastasis control
+U6033,[X] Adverse reaction to mitomycin
+7H2C0,Introduction of radioactive substance into peritoneal cavity
+ZVu3L,[X]OTHER CHEMOTHERAPY
+5975.,EXT.BEAM + CHEMOTHERAPY
+8BAI.,AMBULATORY CHEMOTHERAPY
+5A46.,Radioth.: temp. pelvic implant
+7D154,Implantation of radioactive substance into vagina
+5A8Z.,Other radiotherapy NOS
+5152.,Radiotherapy changed
+5145.,Radiotherapy -intra-op.control
+5143.,Radioth. for lymphat.irradiat.
+5148.,Radiotherapy for inflammation
+591Z.,X-ray beam therapy NOS
+72201,Radiotherapy to lacrimal gland
+7M0c.,Radiotherapy procedures
+5914.,Deep X-ray therapy 150-400 Kv
+5913.,Half deep therapy 60-150 Kv
+5141.,Radioth.for immunosuppression
+5912.,Superfic.X-ray therapy 10-60Kv
+70522,Radiotherapy to lesion of peripheral nerve
+5AA..,Iridium wire therapy
+8J00.,High dose brachytherapy
+5A73.,Radio-chemo.: oral route
+5A15.,Bone tumour/metast.irradiat.
+597Z.,Combined radiotherapy NOS
+5A3..,Intern.radioth-permanent seeds
+7L1d.,DELIVERY OF CHEMOTHERAPY FOR NEOPLASM
+5A53.,Preload radioth.- nose
+5A12.,Thyroid tumour/metast irradiat
+72444,Radiotherapy to lesion of cornea
+7L1Z.,Radiotherapy delivery
+594..,Heavy particle therapy
+5974.,EXT.BEAM-SURGERY+CHEMOTHERAPY
+5A3Z.,Radioth.: permanent seeds NOS
+5AZ..,Other nuclear therapy NOS
+D2013,Radiation aplastic anaemia
+5A1..,Internal metabolic radiotherap
+5A7..,RADIOMIMETIC CHEMOTHERAPY
+TA32.,Overdose of radiation in therapy
+7M0cy,Other specified radiotherapy procedures
+5A4..,Radioth.: temporary implant
+5142.,Radioth. for haemopo. irradiat
+78094,Percutaneous radiofrequency ablation of lesion of liver
+592Z.,High-energy beam therapy NOS
+5A45.,Radioth.: temp. abdom. implant
+5A1Z.,Internal metabolic radioth.NOS
+U6033,[X]OTHER ANTINEOPLAST DRUGS CAUS ADVERSE EFF IN THERAP USE
+5134.,X-ray # reduction control
+5971.,Extern.beam+intern.radiotherap
+597..,Combined radiotherapy
+5A64.,Afterload radioth.-fem.genital
+5A7Z.,RADIO-CHEMOTHERAPY NOS
+5A13.,Bone marrow suppres.-irradiat.
+5922.,Betatron photon therapy
+5917.,Intracavitary X-ray therapy
+5A4Z.,Radioth.:temporary implant NOS
+5941.,Proton therapy
+7L1Z4,Oral delivery of radiotherapy for thyroid ablation
+7M0P3,Intro radioactive substance org interstit brachytherapy NOC
+7B0A8,Percutaneous radiofrequency ablation of lesion of kidney
+5135.,Radiological tumour control
+7M0Q3,Radioactive seed implantation NOC
+7L1b.,PROCUREMENT DRUGS FOR CHEMOTHERAPY FOR NEOPLASM IN BANDS 1-5
+7L1e.,DELIVERY OF ORAL CHEMOTHERAPY FOR NEOPLASM
+7B3CB,Radioactive seed implantation into prostate
+7L1Z3,Delivery of a fraction of external beam radiotherapy NEC
+7L1d0,Del comp chemo neo inc prolong infusion treat first attend
+7L1Zz,Radiotherapy delivery NOS
+72727,External beam radiotherapy to lesion of retina
+74544,Percutaneous radiofrequency ablation of lesion of lung
+7L1Z0,Delivery of a fraction of total body irradiation
+5A27.,Radioth.: infuse organ cavity
+5A81.,Give radiosensitising drug
+7L1Y.,Radiotherapy preparation
+596..,Short dis.+contact radiotherap
+593..,Fast-electron therapy
+7L1ez,DELIVERY OF ORAL CHEMOTHERAPY FOR NEOPLASM NOS
+5A42.,Radioth:temp.head/neck implant
+5973.,Ext.beam-surg.+post-op.radioth
+5A62.,Afterload radioth.- upper GIT
+U6033,[X] Adverse reaction to chlorambucil
+7L1Y0,Preparation for total body irradiation
+7L1Z1,Delivery of a fraction of intracavitary radiotherapy
+5961.,Radium contact therapy
+5A33.,Radioth.: seeds into cavity
+7L1Zy,Other specified radiotherapy delivery
+7L1dz,DELIVERY OF CHEMOTHERAPY FOR NEOPLASM NOS
+7L1Xy,Other specified radiotherapy volume definition
+U6033,[X] ADVERSE REACTION TO ANTINEOPLASTIC ANTIBIOTICS
+5962.,Beta source contact therapy
+7L1dy,OTHER SPECIFIED DELIVERY OF CHEMOTHERAPY FOR NEOPLASM
+U6132,[X]Overdose of radiation given during therapy
+7L1Z0,Delivery of a fraction of total body irradiation (TBI)
+5942.,Deuteron therapy
+7B3BC,Endoscopic radiofrequency ablation of lesion of prostate
+5131.,Radiological pre-op. control
+5A28.,Radioth.: infiltrate tissue
+5137.,X-ray radiotherapy control
+7K1V7,Percutaneous radiofrequency ablation of lesion of bone
+7M0P4,Intro radioactive substance into organ for brachytherapy NOC
+7L1h0,Preparation for intensity modulated radiation therapy
+U6031,[X]ANTINEOPLAST ANTIMETABS CAUS ADVERSE EFF IN THERAP USE
+Z9KG5,Brachytherapy monitoring
+5A58.,Preload radioth-female genital
+592..,High-energy beam therapy
+5921.,Linear-accelerator photon ther
+593Z.,Fast-electron therapy NOS
+5A74.,Radio-chemo.: I-V route
+7M0c5,Superficial or orthovoltage treatment for radiotherapy
+7L1i.,Preparation for brachytherapy
+5963.,Mould technique gamma/beta
+56B5.,Image: field control:radiother
+5A21.,Radioth.: infuse - skull/brain
+7M0P5,Intro non-remov radioact subst into organ for brachyther NOC
+7L1Z5,Delivery of a fraction of intraluminal brachytherapy
+5A2Z.,Intern. unsealed radioth. NOS
+5A26.,Radioth:infuse-urinary bladder
+5953.,Comb.tele+int.dist.curietherap
+5133.,Radiological post-op. control
+7M0c4,Megavoltage treatment for simple radiotherapy
+U6033,[X] Adverse reaction to estramustine phosphate
+Z1Q1.,Administering radionuclide
+78093,Selective internal radiotherapy microspheres lesion of liver
+U6033,[X] Adverse reaction to bleomycin
+8CRC.,Cancer chemotherapy management plan
+5A59.,Preload radioth-urinary system
+5A14.,Polycythaemia irradiation
+782M6,Percutaneous brachytherapy of lesion of bile duct
+U6032,[X]Antineoplast natural prod caus adverse eff in therap use
+5A2..,Intern.radioth-unsealed source
+7L1i1,Preparation for intracavitary brachytherapy
+7L1Z2,Delivery of a fraction of interstitial radiotherapy
+U6031,[X] Adverse reaction to carboplatin
+7M0l.,Support for preparation for radiotherapy
+7B3CA,Transurethral radiofrequency needle ablation of prostate
+7L1h4,Prep for simple radioth with imaging and simple calculation
+7M0c3,Megavoltage treatment for complex radiotherapy
+8BAl.,Neoadjuvant chemotherapy
+596Z.,Short dist/contact radioth NOS
+5A57.,Preload radioth.- resp.organs
+7M0c0,Delivery fraction complex radiotherapy megavoltage machine
+7L1d4,Electrochemotherapy
+7M0ly,Other specified support for preparation for radiotherapy
+5933.,Positron therapy
+5A22.,Radioth.: infuse - head/neck
+7L1Yz,Radiotherapy preparation NOS
+5A77.,Radio-chem.: into cavity
+595..,Gamma-ray+int.dist.curietherap
+5A51.,Preload radioth.- orbit
+5A17.,Combined internal radiotherapy
+7L1iz,Preparation for brachytherapy NOS
+7L1d2,Deliver simple parenteral chemother neoplas first attendance
+U6033,[X] Adverse reaction to antineoplastic antibiotics NOS
+7L2..,Radiotherapy
+7L1hz,Preparation for external beam radiotherapy NOS
+7M0c2,Delivery fraction radiotherapy superficial orthovoltage mach
+7Q0J.,Other chemotherapy drugs
+5932.,Betatron electron therapy
+7M0p0,High dose rate brachytherapy
+SL07.,Antineoplastic antibiotic poisoning
+7Q0J2,Other specified other chemotherapy drugs
+U6031,[X] Adverse reaction to fluorouracil
+7L1X0,Vol def radioth imag intensity-modul radia ther (IMRT) dosim
+D4003,Agranulocytosis due to irradiation
+7L1h1,Preparation for total body irradiation

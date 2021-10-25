@@ -1,0 +1,43 @@
+code,description
+D81,Combined immunodeficiencies
+D810,Severe combined immunodeficiency [SCID] with reticular dysgenesis
+D811,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers
+D812,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers
+D813,Adenosine deaminase [ADA] deficiency
+D814,Nezelof syndrome
+D815,Purine nucleoside phosphorylase [PNP] deficiency
+D816,Major histocompatibility complex class I deficiency
+D817,Major histocompatibility complex class II deficiency
+D818,Other combined immunodeficiencies
+D819,"Combined immunodeficiency, unspecified"
+D82,Immunodeficiency associated with other major defects
+D820,Wiskott-Aldrich syndrome
+D821,Di George syndrome
+D822,Immunodeficiency with short-limbed stature
+D823,Immunodeficiency following hereditary defective response to Epstein-Barr virus
+D828,Immunodeficiency associated with other specified major defects
+D829,"Immunodeficiency associated with major defect, unspecified"
+D840,Lymphocyte function antigen-1 [LFA-1] defect
+D849,"Immunodeficiency, unspecified"
+D899,"Disorder involving the immune mechanism, unspecified"
+E71,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism
+E710,E71.0 Maple-syrup-urine disease
+E711,E71.1 Other disorders of branched-chain amino-acid metabolism
+E712,"E71.2 Disorder of branched-chain amino-acid metabolism, unspecified"
+E713,E71.3 Disorders of fatty-acid metabolism
+E722,Disorders of urea cycle metabolism
+E740,Glycogen storage disease
+E752,Other sphingolipidosis
+E760,"Mucopolysaccharidosis, type I"
+E761,"Mucopolysaccharidosis, type II"
+E762,E76.2 Other mucopolysaccharidoses
+E771,Defects in glycoprotein degradation
+G10X,Huntington disease
+G113,Cerebellar ataxia with defective DNA repair
+G712,Congenital myopathies
+I270,Primary pulmonary hypertension
+Q851,Tuberous sclerosis
+Q859,"Phakomatosis, unspecified"
+Q878,"Other specified congenital malformation syndromes, not elsewhere classified"
+T451,Poisoning: Antineoplastic and immunosuppressive drugs
+Y434,Immunosuppressive agents
