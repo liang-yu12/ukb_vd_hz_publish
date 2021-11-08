@@ -2,19 +2,19 @@
 
 These are the codes for plotting the forest plot in the manuscript.
 
-Rate ratio was obtained using the Poisson regression model, and the regression output was organized using `tidyr()` function from the Broom package. Then A forest plot of these organized outputs was plotted using `ggplot2` package.
+Rate ratio was obtained using the Weibull regression model, and the regression output was organized using `tidyr()` function from the `Broom` package. Then A forest plot of these organized outputs was plotted using `ggplot2` package.
 
 In the sensitivity analysis reported in *Supplementary Fig4* and *Supplementary Fig5*, Cox regression model was used. In *Supplementary Figure 4*, because of the violation of proportional hazard assumption, a stratified Cox model was used. In *Supplementary Figure 5*, the proportional hazards assumption was not violated, so a Cox proportional hazard regression was used.
 
 ## Files Index:
 
-*Main analysis:*
+### *Main analysis:*
 
 -   [Figure 3: The association between vitamin D status and the risk of herpes zoster.](https://github.com/liang-yu12/ukb_vd_hz_publish/blob/aca35f24a6c6b4015d3e69929bf3f79ffe4a48bb/figure_2_vd_hz.R)
 
 -   [Figure 4: The association between vitamin D intake and the risk of herpes zoster.](https://github.com/liang-yu12/ukb_vd_hz_publish/blob/aca35f24a6c6b4015d3e69929bf3f79ffe4a48bb/figure_3_vdsupdrug_hz.R)
 
-*Supplementary Figures:*
+### *Supplementary Figures:*
 
 -   [Supplementary Figure 1. The association between vitamin D status and the risk of herpes zoster excluding records after September 2013.](https://github.com/liang-yu12/ukb_vd_hz_publish/blob/aca35f24a6c6b4015d3e69929bf3f79ffe4a48bb/supp_fig1_se_novaccine.R)
 
@@ -25,3 +25,14 @@ In the sensitivity analysis reported in *Supplementary Fig4* and *Supplementary 
 -   [Supplementary Figure 4. Sensitivity analysis of using stratified Cox regression to assess the association between vitamin D status and the hazards of incident herpes zoster before and after the vaccination program initiated.](https://github.com/liang-yu12/ukb_vd_hz_publish/blob/aca35f24a6c6b4015d3e69929bf3f79ffe4a48bb/supp_fig4_primary_surv.R)
 
 -   [Supplementary Figure 5 Sensitivity analysis of using Cox proportional-hazards model to examine the association between vitaminD intake and the risk of herpes zoster.](https://github.com/liang-yu12/ukb_vd_hz_publish/blob/aca35f24a6c6b4015d3e69929bf3f79ffe4a48bb/supp_fig5_2ndexp_surv.R)
+
+### Code-lists:
+All diagnostic codes are in CTV3, SNOMED-CT, or read 2. Prescription codes are in BNF, DM+D and Read 2 codes
+
+[Comorbidities](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/covariates_comorbidities): including asthma, COPD, Chronic kidney disease, rheumatoid arthritis, inflammatory bowel diseases, depression, 
+
+[Immunosuppression](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/covariates_immunosuppression): including including organ transplantation, chemoradiotherapy, cell-mediated immunosuppression, HIV, blood cancers, chemotherapy (biological and non-biological agents), bone marrow transplantation and long-term oral steroid. 
+
+[Vitamin D prescriptions](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/exposure_vitd_drug): vitamin D prescriptions codes
+
+[Herpes zoster diagnosis](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/outcome_hz): diagnostic codes for diagnosing herpes zoster cases
