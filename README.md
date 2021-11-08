@@ -26,13 +26,13 @@ In the sensitivity analysis reported in *Supplementary Fig4* and *Supplementary 
 
 -   [Supplementary Figure 5 Sensitivity analysis of using Cox proportional-hazards model to examine the association between vitaminD intake and the risk of herpes zoster.](https://github.com/liang-yu12/ukb_vd_hz_publish/blob/aca35f24a6c6b4015d3e69929bf3f79ffe4a48bb/supp_fig5_2ndexp_surv.R)
 
-### Code-lists:
+### *Code-lists*:
 All diagnostic codes are in CTV3, SNOMED-CT, or read 2. Prescription codes are in BNF, DM+D and Read 2 codes
 
-[Comorbidities](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/covariates_comorbidities): including asthma, COPD, Chronic kidney disease, rheumatoid arthritis, inflammatory bowel diseases, depression, 
+-   [Comorbidities](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/covariates_comorbidities): including asthma, COPD, Chronic kidney disease, rheumatoid arthritis, inflammatory bowel diseases, depression, 
 
-[Immunosuppression](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/covariates_immunosuppression): including including organ transplantation, chemoradiotherapy, cell-mediated immunosuppression, HIV, blood cancers, chemotherapy (biological and non-biological agents), bone marrow transplantation and long-term oral steroid. 
+-   [Immunosuppression](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/covariates_immunosuppression): including including organ transplantation, chemoradiotherapy, cell-mediated immunosuppression, HIV, blood cancers, chemotherapy (biological and non-biological agents), bone marrow transplantation and long-term oral steroid. 
 
-[Vitamin D prescriptions](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/exposure_vitd_drug): vitamin D prescriptions codes
+-   [Vitamin D prescriptions](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/exposure_vitd_drug): vitamin D prescriptions codes
 
-[Herpes zoster diagnosis](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/outcome_hz): diagnostic codes for diagnosing herpes zoster cases
+-   [Herpes zoster diagnosis](https://github.com/liang-yu12/ukb_vd_hz_publish/tree/main/code_lists/outcome_hz): diagnostic codes for diagnosing herpes zoster cases
