@@ -1,4 +1,4 @@
-## Fig 3: vitamin D and herpes zoster using Weibull regression ----
+## Model check using Weibull regression ----
 
 # data: 
 source("./master_script.R")
@@ -28,6 +28,15 @@ tidy_reg <- function(x){
             dplyr::select(term, estimate, conf.low, conf.high) %>% 
             filter(term == "vitd_s0_deficiency" | term == "vitd_s1_insufficiency")
 }
+
+# rename the confidence interval
+rename_ci <- function(x){
+      x %>% 
+            rename("conf.high2"="conf.low") %>% 
+            rename("conf.low"="conf.high") %>% 
+            rename("conf.high"="conf.high2")
+}
+
 
 # exponentiate and round
 exp_round <- function(x){
@@ -59,6 +68,12 @@ hz_vdw_crude <- survreg( Surv(fu_yr, hz) ~ vitd_s,
 # tidy regression output
 hz_vdw_crude_tidy <- hz_vdw_crude %>% tidy_reg()
 
+# reverse the positive and negative value
+hz_vdw_crude_tidy[,2:4] <- hz_vdw_crude_tidy[,2:4]*-1
+
+# rename
+hz_vdw_crude_tidy %<>% rename_ci()
+
 # exponential and round 
 hz_vdw_crude_tidy[stats_to_convert] <- map(hz_vdw_crude_tidy[stats_to_convert], exp_round)
 
@@ -87,6 +102,12 @@ hz_vdw_partial <-  survreg( Surv(fu_yr, hz) ~ vitd_s + sex + age_c,
 
 # tidy output
 hz_vdw_partial_w <- hz_vdw_partial %>% tidy_reg()
+
+# reverse negative and positive
+hz_vdw_partial_w[,-1] <- hz_vdw_partial_w[,-1]*-1
+
+# rename
+hz_vdw_partial_w %<>% rename_ci()
 
 # exponential and round 
 hz_vdw_partial_w[stats_to_convert] <- map(hz_vdw_partial_w[stats_to_convert], exp_round)
@@ -117,6 +138,12 @@ hz_vd.weibull <- survreg( Surv(fu_yr, hz) ~ vitd_s + sex + age_c + ethnic +
                           data = bd_i, dist = "weibull")
 # tidy output
 hz_vdw_full_w <- hz_vd.weibull %>% tidy_reg()
+
+# reverse + / - 
+hz_vdw_full_w[,-1]<- hz_vdw_full_w[,-1]*-1
+
+# rename
+hz_vdw_full_w %<>% rename_ci()
 
 # exp and round
 hz_vdw_full_w[stats_to_convert] <- map(hz_vdw_full_w[stats_to_convert], exp_round)
@@ -187,7 +214,7 @@ fig2_data_w$order <- 9:1
 # central figure 
 fig2_plot_w <- fig2_data_w %>% 
       ggplot(aes(y = order, x = estimate, xmin=conf.low, xmax=conf.high, color=vd_status)) + 
-      xlim(0.7,1.8)+
+      xlim(0.6,2.0)+
       geom_point(size=5, shape=19) + 
       geom_errorbarh(height=.3) +
       geom_vline(xintercept=1, lty=2) +
