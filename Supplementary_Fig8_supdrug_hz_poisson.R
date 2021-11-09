@@ -1,5 +1,5 @@
 # Script for visualizing the regression model
-# Supplementary Fig 8: vitamin D supplement/prescription and herpes zoster using Poisson regression
+# Supp Fig 8: vitamin D supplement/prescription and herpes zoster
 
 # data:
 source("./master_script.R")
@@ -7,7 +7,7 @@ source("./master_script.R")
 # Load additional library: 
 lapply(c("ggpubr","grid","gridExtra","forcats"), require, character.only=T)
 
-
+options(digits = 3, scipen = 999)
 # survival objects for 2nd exposure
 
 # hz_surv <- survival::Surv(time = as.numeric(bd_i$time_in)/365.25, 
@@ -646,7 +646,7 @@ vd_drug_full_glm %>% idr.display()
 
 
 vd_drug_full <- vd_drug_full_glm %>% 
-      tidy(conf.int = T, conf.level = 0.95, exponentiate = T, n_digits = 2) %>% 
+      tidy(conf.int = T, conf.level = 0.95, exponentiate = T, n_digits = 3) %>% 
       filter(term == "vd_prescriptionHad vitamin D prescription") %>% 
       dplyr::select(term, estimate, conf.low, conf.high)
 
