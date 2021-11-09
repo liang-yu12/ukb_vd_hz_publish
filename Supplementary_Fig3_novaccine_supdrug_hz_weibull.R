@@ -1,4 +1,3 @@
-# sensitivity analysis: exclude records after 2013 (vaccination programe)
 ## 2nd exposure using Weibull regression ----
 
 # data: 
@@ -14,6 +13,7 @@ stats_to_convert<- c("estimate",  "conf.low",  "conf.high")
 # Data management of the regression model : 
 # 1. weibull regression -> save the model
 # 2. use tidy() to organize the regression model
+# 2.5 Fixed the +/- reversed issue
 # 3. exponentiation of the results
 # 4. add reference row
 # 5. use model.frame() to see how many people were included in the model
@@ -34,6 +34,14 @@ tidy_reg_drug <- function(x){
             filter(term != "(Intercept)") %>% 
             dplyr::select(term, estimate, conf.low, conf.high) %>% 
             filter(term == "vd_prescriptionHad vitamin D prescription")
+}
+
+# rename the confidence interval
+rename_ci <- function(x){
+      x %>% 
+            rename("conf.high2"="conf.low") %>% 
+            rename("conf.low"="conf.high") %>% 
+            rename("conf.high"="conf.high2")
 }
 
 # exponentiate and round
@@ -67,6 +75,12 @@ hz_supp_crude_w <- survreg(Surv(fu_yr, hz_se) ~all_supp, data = bd_i, dist = "we
 # tidy output
 hz_vdsupp_crude_tidy <- hz_supp_crude_w %>% tidy_reg()
 
+# fixed +-
+hz_vdsupp_crude_tidy[,-1] <- hz_vdsupp_crude_tidy[,-1]*-1
+
+# rename
+hz_vdsupp_crude_tidy %<>% rename()
+
 # exp and round
 hz_vdsupp_crude_tidy[stats_to_convert] <- map(hz_vdsupp_crude_tidy[stats_to_convert], exp_round)
 
@@ -92,6 +106,12 @@ hz_vdsupp.partial <- survreg(Surv(fu_yr, hz_se) ~all_supp + sex + age_c,
 
 # tidy output
 hz_supp_tidy <- hz_vdsupp.partial %>% tidy_reg()
+
+# fixed +-
+hz_supp_tidy[,-1] <- hz_supp_tidy[,-1]*-1
+
+# rename
+hz_supp_tidy %<>% rename_ci()
 
 # exp and round
 hz_supp_tidy[stats_to_convert] <- map(hz_supp_tidy[stats_to_convert], exp_round)
@@ -120,6 +140,12 @@ hz_vdsupp_full.w <- survreg(Surv(fu_yr, hz_se) ~all_supp + sex + age_c + ethnic 
 
 # tidy output
 hz_supp_full_w <- hz_vdsupp_full.w %>% tidy_reg()
+
+# fixed +-
+hz_supp_full_w[,-1] <- hz_supp_full_w[,-1]*-1
+
+# rename
+hz_supp_full_w %<>% rename_ci()
 
 # exp and round
 hz_supp_full_w[stats_to_convert] <- map(hz_supp_full_w[stats_to_convert], exp_round)
@@ -182,7 +208,7 @@ fig3a_data_se_w$order <- 6:1
 fig3a_plot_w <- fig3a_data_se_w %>% 
       ggplot(aes(y = order, x = estimate, 
                  xmin=conf.low, xmax=conf.high, color=vd_intake)) + 
-      xlim(0.3,1.5)+
+      xlim(0.5,3)+
       geom_point(size=5, shape=19) + 
       geom_errorbarh(height=.3) +
       geom_vline(xintercept=1, lty=2) +
@@ -264,6 +290,12 @@ vd_drugcrude.w <- survreg(Surv(fu_yr, hz_se) ~vd_prescription,
 # tidy output
 vd_drug_crude_tidy <- vd_drugcrude.w %>% tidy_reg_drug()
 
+# fixed +-
+vd_drug_crude_tidy[,-1] <- vd_drug_crude_tidy[,-1]*-1
+
+# rename
+vd_drug_crude_tidy %<>% rename_ci()
+
 # exp and round
 vd_drug_crude_tidy[stats_to_convert] <- map(vd_drug_crude_tidy[stats_to_convert], exp_round)
 
@@ -293,6 +325,12 @@ vd_drug_partial.w <- survreg(Surv(fu_yr, hz_se) ~vd_prescription + sex + age_c,
 # tidy 
 vd_drug_partial_tidy <- vd_drug_partial.w %>% tidy_reg_drug()
 
+# fixed +-
+vd_drug_partial_tidy[,-1] <- vd_drug_partial_tidy[,-1]*-1
+
+# rename
+vd_drug_partial_tidy %<>% rename_ci()
+
 # exp and round
 vd_drug_partial_tidy[stats_to_convert] <- map(vd_drug_partial_tidy[stats_to_convert],exp_round)
 
@@ -320,6 +358,12 @@ vd_drug_full.w <- survreg(Surv(fu_yr, hz_se) ~vd_prescription + sex + age_c + et
                           data = bd_i, dist = "weibull")
 # tidy 
 vd_drug_full_tidy <- vd_drug_full.w %>% tidy_reg_drug()
+
+# fixed +-
+vd_drug_full_tidy[,-1] <- vd_drug_full_tidy[,-1]*-1
+
+# rename
+vd_drug_full_tidy %<>% rename_ci()
 
 # exp round
 vd_drug_full_tidy[stats_to_convert] <- map(vd_drug_full_tidy[stats_to_convert], exp_round)
@@ -380,7 +424,7 @@ fig3b_data_se_w$order <- 6:1
 fig3b_plot_w <- fig3b_data_se_w %>% 
       ggplot(aes(y = order, x = estimate, 
                  xmin=conf.low, xmax=conf.high, color=vd_intake)) + 
-      xlim(0.3,1.5)+
+      xlim(0.5,3)+
       geom_point(size=5, shape=19) + 
       geom_errorbarh(height=.3) +
       geom_vline(xintercept=1, lty=2) +
