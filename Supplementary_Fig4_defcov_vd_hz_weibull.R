@@ -1,4 +1,3 @@
-# Sensitivity analysis: different covariates definition
 ## Sensitivity analysis using Weibull regression ----
 
 # data: 
@@ -14,6 +13,7 @@ stats_to_convert<- c("estimate",  "conf.low",  "conf.high")
 # Data management of the regression model : 
 # 1. weibull regression -> save the model
 # 2. use tidy() to organize the regression model
+# 2.5 fixed the reverse +-
 # 3. exponentiation of the results
 # 4. add reference row
 # 5. use model.frame() to see how many people were included in the model
@@ -28,6 +28,14 @@ tidy_reg <- function(x){
             filter(term != "(Intercept)") %>% 
             dplyr::select(term, estimate, conf.low, conf.high) %>% 
             filter(term == "vitd_s0_deficiency" | term == "vitd_s1_insufficiency")
+}
+
+# rename the confidence interval
+rename_ci <- function(x){
+      x %>% 
+            rename("conf.high2"="conf.low") %>% 
+            rename("conf.low"="conf.high") %>% 
+            rename("conf.high"="conf.high2")
 }
 
 # exponentiate and round
@@ -62,6 +70,12 @@ hz_vd.weibull <- survreg( Surv(fu_yr, hz) ~ vitd_s + sex + age_c + ethnic +
 # tidy output
 hz_vdw_full_w <- hz_vd.weibull %>% tidy_reg()
 
+# fixed +-
+hz_vdw_full_w[,-1] <- hz_vdw_full_w[,-1]*-1
+
+# rename
+hz_vdw_full_w %<>% rename_ci
+
 # exp and round
 hz_vdw_full_w[stats_to_convert] <- map(hz_vdw_full_w[stats_to_convert], exp_round)
 
@@ -93,6 +107,12 @@ full_reg_se1.w<- survreg(Surv(fu_yr, hz) ~ vitd_s + sex + age_c + ethnic +
                          data = bd_i, dist = "weibull")
 # tidy
 full_se1 <- full_reg_se1.w %>% tidy_reg()
+
+# fixed +-
+full_se1[,-1] <- full_se1[,-1]*-1
+
+# rename
+full_se1 %<>% rename_ci
 
 # exp round
 full_se1[stats_to_convert] <- map(full_se1[stats_to_convert], exp_round)
@@ -126,6 +146,12 @@ full_reg_se2.w <- survreg( Surv(fu_yr, hz) ~ vitd_s + sex + age_c + ethnic +
 # tidy
 full_reg_se2 <- full_reg_se2.w %>% tidy_reg
 
+# fixed +-
+full_reg_se2[,-1] <- full_reg_se2[,-1]*-1
+
+# rename
+full_reg_se2 %<>% rename_ci
+
 # exp_round
 full_reg_se2[stats_to_convert] <- map(full_reg_se2[stats_to_convert], exp_round)
 
@@ -157,6 +183,12 @@ full_reg_se3.w<- survreg(Surv(fu_yr, hz) ~ vitd_s + sex + age_c + ethnic +
 
 # tidy output
 full_se3 <- full_reg_se3.w %>% tidy_reg()
+
+# fixed +-
+full_se3[,-1] <- full_se3[,-1]*-1
+
+# rename
+full_se3 %<>% rename_ci
 
 # exp round
 full_se3[stats_to_convert] <- map(full_se3[stats_to_convert], exp_round)
@@ -230,7 +262,7 @@ supp_fig3_data$order <- 12:1
 supp_fig3 <- supp_fig3_data %>% 
       ggplot(aes(y =order, x = estimate, xmin=conf.low, xmax=conf.high, 
                  color=vd_status)) + 
-      xlim(0.8,1.8)+
+      xlim(0.5,1.5)+
       geom_point(size=4, shape=15) + 
       geom_errorbarh(height=.3) +
       geom_vline(xintercept=1, lty=2) +
