@@ -1,5 +1,6 @@
-# Supplementary Figure 7: the association between vitamin D status and herpes zoster
-# Poisson regression
+# Script for visualizing regression model 
+# the association between vitamin D status and herpes zoster using poission regression
+
 # data: 
 source("./master_script.R")
 
