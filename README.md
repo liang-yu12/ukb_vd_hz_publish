@@ -2,7 +2,7 @@
 
 These are the codes for plotting the forest plot in the manuscript.
 
-Rate ratio was obtained using the Weibull regression model, and the regression output was organized using `tidyr()` function from the `Broom` package. Then A forest plot of these organized outputs was plotted using `ggplot2` package. The results were summarized in *Figure 3* and *Figure 4*.
+The hazard ratio of the Weibull regression model was obtained by using `survival` package (ver 3.2-11), and the regression output was organized using `tidyr()` function from the `Broom` package (ver 0.7.9). A forest plot organized these outputs was plotted using `ggplot2` package (ver 3.3.5).
 
 The results of sensitivity analysis were summarized in Supplementary Figures.
 
